@@ -1,0 +1,17 @@
+take	O	Premise2Justification	O	O	O	O	fact	O
+further	O	Premise2Justification	O	O	O	O	fact	O
+note	O	Premise2Justification	O	O	O	O	fact	O
+america	O	Premise2Justification	O	O	O	O	fact	O
+they	O	Premise2Justification	O	O	O	O	fact	O
+want	O	Premise2Justification	O	O	O	O	fact	O
+to	O	Premise2Justification	O	O	O	O	fact	O
+do	O	Premise2Justification	O	O	O	O	fact	O
+this	O	Premise2Justification	O	O	O	O	fact	O
+to	O	Premise2Justification	O	O	O	O	fact	O
+america	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+buildthatwall	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+endillegalimmigration	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+deportallillegals	O	O	Premise1Conclusion	O	O	O	O	policy

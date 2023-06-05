@@ -1,0 +1,12 @@
+@user	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O
+there	O	Premise2Justification	O	O	O	O	fact	O
+are	O	Premise2Justification	O	O	O	O	fact	O
+no	O	Premise2Justification	O	O	O	O	fact	O
+innocent	O	Premise2Justification	O	O	O	O	fact	O
+people	O	Premise2Justification	O	O	O	O	fact	O
+in	O	Premise2Justification	O	O	O	O	fact	O
+detention	O	Premise2Justification	O	O	O	O	fact	O
+centres	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+sendthemback	O	O	Premise1Conclusion	O	O	O	O	policy

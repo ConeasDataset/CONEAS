@@ -1,0 +1,13 @@
+another	O	Premise2Justification	O	O	O	O	fact	O
+german	O	Premise2Justification	O	O	O	pivot	fact	O
+killed	O	Premise2Justification	O	O	Property	O	fact	O
+and	O	Premise2Justification	O	O	Property	O	fact	O
+injuries	O	Premise2Justification	O	O	Property	O	fact	O
+now	O	O	Premise1Conclusion	O	O	O	O	policy
+will	O	O	Premise1Conclusion	O	O	O	O	policy
+german	O	O	Premise1Conclusion	O	O	pivot	O	policy
+y	O	O	Premise1Conclusion	O	O	O	O	policy
+act	O	O	Premise1Conclusion	O	O	O	O	policy
+and	O	O	Premise1Conclusion	O	O	O	O	policy
+stop	O	O	Premise1Conclusion	O	O	O	O	policy
+immigration	O	O	Premise1Conclusion	Collective	O	O	O	policy

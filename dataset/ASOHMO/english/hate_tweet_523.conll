@@ -1,0 +1,11 @@
+@user	O	Premise2Justification	O	O	O	O	fact	O
+this	O	Premise2Justification	O	O	O	O	fact	O
+is	O	Premise2Justification	O	O	O	O	fact	O
+past	O	Premise2Justification	O	O	O	O	fact	O
+today	O	O	Premise1Conclusion	O	O	O	O	fact
+each	O	O	Premise1Conclusion	O	O	O	O	fact
+refugee	O	O	Premise1Conclusion	Collective	O	O	O	fact
+isnt	O	O	Premise1Conclusion	O	Property	O	O	fact
+need	O	O	Premise1Conclusion	O	Property	O	O	fact
+in	O	O	Premise1Conclusion	O	Property	O	O	fact
+usa	O	O	Premise1Conclusion	O	Property	O	O	fact

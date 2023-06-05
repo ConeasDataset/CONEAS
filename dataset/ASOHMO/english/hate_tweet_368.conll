@@ -1,0 +1,16 @@
+seven	O	Premise2Justification	O	O	O	O	fact	O
+texas	O	Premise2Justification	O	O	O	O	fact	O
+mall	O	Premise2Justification	O	O	Property	O	fact	O
+robbery	O	Premise2Justification	O	O	Property	O	fact	O
+suspects	O	Premise2Justification	O	O	Property	O	fact	O
+are	O	Premise2Justification	O	O	O	O	fact	O
+from	O	Premise2Justification	O	O	O	O	fact	O
+mexico	O	Premise2Justification	O	Collective	O	O	fact	O
+in	O	Premise2Justification	O	O	O	O	fact	O
+the	O	Premise2Justification	O	O	O	O	fact	O
+country	O	Premise2Justification	O	O	O	O	fact	O
+illegally:	O	Premise2Justification	O	O	O	O	fact	O
+https://t	O	O	O	O	O	O	O	O
+co/w4xrmgngn2	O	O	O	O	O	O	O	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+stoptheinvasion	O	O	Premise1Conclusion	O	O	O	O	policy

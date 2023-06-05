@@ -1,0 +1,16 @@
+como	O	O	Premise1Conclusion	O	O	O	O	fact
+son	O	O	Premise1Conclusion	O	O	O	O	fact
+españoles	O	O	Premise1Conclusion	O	O	O	O	fact
+nada	O	O	Premise1Conclusion	O	O	O	O	fact
+sin	O	Premise2Justification	O	O	O	O	fact	O
+fueran	O	Premise2Justification	O	O	O	O	fact	O
+refugiados	O	Premise2Justification	O	O	O	O	fact	O
+gloria	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	O	O	O	O	O	O
+migrates	O	O	O	O	O	O	O	O
+hashtag	O	O	O	O	O	O	O	O
+refugiados	O	O	O	O	O	O	O	O
+hashtag	O	O	O	O	O	O	O	O
+españaloprimero	O	O	O	O	O	O	O	O
+https://t	O	O	O	O	O	O	O	O
+co/jkc8iys32c	O	O	O	O	O	O	O	O

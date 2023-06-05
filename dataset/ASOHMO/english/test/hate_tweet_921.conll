@@ -1,0 +1,13 @@
+jihadists	O	Premise2Justification	O	O	O	O	fact	O
+in	O	Premise2Justification	O	O	O	O	fact	O
+action	O	Premise2Justification	O	O	O	O	fact	O
+more	O	Premise2Justification	O	O	O	O	fact	O
+reason	O	Premise2Justification	O	O	O	O	fact	O
+to	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy
+sendthemback	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy
+hashtag	O	O	O	O	O	O	O	O
+auspol	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O

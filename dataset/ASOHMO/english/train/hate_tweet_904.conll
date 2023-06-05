@@ -1,0 +1,14 @@
+"@user	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O
+you	O	Premise2Justification	O	O	O	O	fact	O
+saw	O	Premise2Justification	O	O	O	O	fact	O
+what	O	Premise2Justification	O	O	O	O	fact	O
+they	O	Premise2Justification	O	O	O	O	fact	O
+did	O	Premise2Justification	O	O	O	O	fact	O
+in	O	Premise2Justification	O	O	O	O	fact	O
+their	O	Premise2Justification	O	O	O	O	fact	O
+own	O	Premise2Justification	O	O	O	O	fact	O
+country	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+sendthemback	O	O	Premise1Conclusion	O	O	O	O	policy
+"	O	O	O	O	O	O	O	O

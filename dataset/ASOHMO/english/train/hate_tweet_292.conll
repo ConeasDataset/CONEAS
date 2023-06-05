@@ -1,0 +1,17 @@
+watch:	O	Premise2Justification	O	O	O	O	fact	O
+britons	O	Premise2Justification	O	O	O	O	fact	O
+protest	O	Premise2Justification	O	O	O	O	fact	O
+against	O	Premise2Justification	O	O	O	O	fact	O
+migrants	O	Premise2Justification	O	O	O	pivot	fact	O
+"deport	O	O	Premise1Conclusion	O	O	O	O	policy
+all	O	O	Premise1Conclusion	O	O	O	O	policy
+migrants	O	O	Premise1Conclusion	O	O	pivot	O	policy
+"	O	O	Premise1Conclusion	O	O	O	O	policy
+-	O	O	O	O	O	O	O	O
+free	O	O	O	O	O	O	O	O
+speech	O	O	O	O	O	O	O	O
+time	O	O	O	O	O	O	O	O
+-	O	O	O	O	O	O	O	O
+https://t	O	O	O	O	O	O	O	O
+co/o1bnjcdvz9	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O

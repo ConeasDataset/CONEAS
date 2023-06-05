@@ -1,0 +1,12 @@
+another	O	Premise2Justification	O	O	O	O	fact	O
+illegal	O	Premise2Justification	O	Collective	O	pivot	fact	O
+immigrant	O	Premise2Justification	O	Collective	O	pivot	fact	O
+assaults	O	Premise2Justification	O	O	Property	O	fact	O
+young	O	Premise2Justification	O	O	Property	O	fact	O
+girl	O	Premise2Justification	O	O	Property	O	fact	O
+-	O	Premise2Justification	O	O	O	O	fact	O
+florida	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	pivot	O	policy
+illegalimmigration	O	O	Premise1Conclusion	O	O	pivot	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+stopthemadness	O	O	Premise1Conclusion	O	O	O	O	policy

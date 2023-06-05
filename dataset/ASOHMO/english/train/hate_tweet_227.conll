@@ -1,0 +1,8 @@
+@user	O	O	O	O	O	O	O	O
+see	O	Premise2Justification	O	O	O	O	fact	O
+it	O	Premise2Justification	O	O	O	O	fact	O
+works	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+buildthatwall	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+buildthewall	O	O	Premise1Conclusion	O	O	O	O	policy

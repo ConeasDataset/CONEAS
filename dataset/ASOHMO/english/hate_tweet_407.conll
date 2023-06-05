@@ -1,0 +1,13 @@
+@user	O	O	O	O	O	O	O	O
+maybe	O	Premise2Justification	O	O	O	O	fact	O
+he	O	Premise2Justification	O	O	O	O	fact	O
+get	O	Premise2Justification	O	O	O	O	fact	O
+his	O	Premise2Justification	O	O	O	O	fact	O
+wall	O	Premise2Justification	O	O	O	O	fact	O
+-	O	O	O	O	O	O	O	O
+wonderful	O	O	Premise1Conclusion	O	O	O	O	fact
+to	O	O	Premise1Conclusion	O	O	O	O	fact
+stop	O	O	Premise1Conclusion	O	O	O	O	fact
+refugees	O	O	Premise1Conclusion	O	O	O	O	fact
+from	O	O	Premise1Conclusion	O	O	O	O	fact
+south	O	O	Premise1Conclusion	O	O	O	O	fact

@@ -1,0 +1,15 @@
+its	O	Premise2Justification	O	O	O	O	fact	O
+getting	O	Premise2Justification	O	O	Property	O	fact	O
+worse	O	Premise2Justification	O	O	Property	O	fact	O
+every	O	Premise2Justification	O	O	Property	O	fact	O
+single	O	Premise2Justification	O	O	Property	O	fact	O
+day	O	Premise2Justification	O	O	Property	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+stop	O	O	Premise1Conclusion	O	O	O	O	policy
+immigration	O	O	Premise1Conclusion	Collective	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+closetheborders	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+nomoreimmigrantshere	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+standupforyourwesternvalues	O	O	Premise1Conclusion	O	O	O	O	policy

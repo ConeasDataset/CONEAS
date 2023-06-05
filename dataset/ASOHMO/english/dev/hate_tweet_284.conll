@@ -1,0 +1,13 @@
+@user	O	O	Premise1Conclusion	O	O	O	O	policy
+all	O	O	Premise1Conclusion	O	O	O	O	policy
+illigal	O	O	Premise1Conclusion	O	O	O	O	policy
+refugees	O	O	Premise1Conclusion	O	O	O	O	policy
+in	O	O	Premise1Conclusion	O	O	O	O	policy
+usa	O	O	Premise1Conclusion	O	O	O	O	policy
+must	O	O	Premise1Conclusion	O	O	O	O	policy
+be	O	O	Premise1Conclusion	O	O	O	O	policy
+deported	O	O	Premise1Conclusion	O	O	O	O	policy
+quick	O	O	Premise1Conclusion	O	O	O	O	policy
+by	O	Premise2Justification	O	O	O	O	fact	O
+homeland	O	Premise2Justification	O	O	O	O	fact	O
+security	O	Premise2Justification	O	O	O	O	fact	O

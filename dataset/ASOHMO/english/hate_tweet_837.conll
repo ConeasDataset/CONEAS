@@ -1,0 +1,8 @@
+@user	O	O	O	O	O	O	O	O
+guatemala	O	Premise2Justification	O	O	O	O	fact	O
+is	O	Premise2Justification	O	O	O	O	fact	O
+sending	O	Premise2Justification	O	O	O	O	fact	O
+their	O	Premise2Justification	O	O	O	O	fact	O
+finest	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy
+buildthatwall	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy

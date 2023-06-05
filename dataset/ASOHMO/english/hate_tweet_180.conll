@@ -1,0 +1,17 @@
+@user	O	O	O	O	O	O	O	O
+immigration	O	Premise2Justification	O	Collective	O	O	fact	O
+comes	O	Premise2Justification	O	O	O	O	fact	O
+with	O	Premise2Justification	O	O	O	O	fact	O
+punishments	O	Premise2Justification	O	O	Property	O	fact	O
+for	O	Premise2Justification	O	O	Property	O	fact	O
+our	O	Premise2Justification	O	O	Property	O	fact	O
+people	O	Premise2Justification	O	O	Property	O	fact	O
+foodbanks	O	Premise2Justification	O	O	O	O	fact	O
+pension	O	Premise2Justification	O	O	O	O	fact	O
+cuts	O	Premise2Justification	O	O	O	O	fact	O
+nhs	O	Premise2Justification	O	O	O	O	fact	O
+school	O	Premise2Justification	O	O	O	O	fact	O
+housing	O	Premise2Justification	O	O	O	O	fact	O
+problems	O	Premise2Justification	O	O	O	O	fact	O
+enough	O	O	Premise1Conclusion	O	O	O	O	policy
+enough	O	O	Premise1Conclusion	O	O	O	O	policy

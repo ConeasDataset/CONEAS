@@ -1,0 +1,17 @@
+@user	O	O	O	O	O	O	O	O
+must	O	O	Premise1Conclusion	O	O	O	O	policy
+deport	O	O	Premise1Conclusion	O	O	O	O	policy
+all	O	O	Premise1Conclusion	O	O	O	O	policy
+illegal	O	O	Premise1Conclusion	Collective	O	O	O	policy
+migrants	O	O	Premise1Conclusion	Collective	O	O	O	policy
+india	O	Premise2Justification	O	O	O	O	fact	O
+already	O	Premise2Justification	O	O	O	O	fact	O
+reeling	O	Premise2Justification	O	O	O	O	fact	O
+under	O	Premise2Justification	O	O	O	O	fact	O
+constant	O	Premise2Justification	O	O	O	O	fact	O
+threat	O	Premise2Justification	O	O	O	O	fact	O
+of	O	Premise2Justification	O	O	O	O	fact	O
+muslim	O	Premise2Justification	O	O	Property	O	fact	O
+radicals	O	Premise2Justification	O	O	Property	O	fact	O
+curb	O	Premise2Justification	O	O	O	O	fact	O
+population	O	Premise2Justification	O	O	O	O	fact	O

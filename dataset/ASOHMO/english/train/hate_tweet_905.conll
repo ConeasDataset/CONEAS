@@ -1,0 +1,13 @@
+hashtag	O	O	O	O	O	O	O	O
+newday	O	O	O	O	O	O	O	O
+they	O	Premise2Justification	O	O	O	O	fact	O
+are	O	Premise2Justification	O	O	O	O	fact	O
+not	O	Premise2Justification	O	O	O	O	fact	O
+asylum	O	Premise2Justification	O	O	O	O	fact	O
+seekers	O	Premise2Justification	O	O	O	O	fact	O
+they	O	Premise2Justification	O	O	O	O	fact	O
+are	O	Premise2Justification	O	O	O	O	fact	O
+illegal	O	Premise2Justification	O	O	O	O	fact	O
+immigrants	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+sendthemback	O	O	Premise1Conclusion	O	O	O	O	policy

@@ -1,0 +1,7 @@
+@user	O	O	O	O	O	O	O	O
+hashtag	O	Premise2Justification	O	Collective	O	O	fact	O
+illegalaliens	O	Premise2Justification	O	Collective	O	O	fact	O
+are	O	Premise2Justification	O	O	O	O	fact	O
+lawbreakers	O	Premise2Justification	O	O	Property	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+sendthemhome	O	O	Premise1Conclusion	O	O	O	O	policy

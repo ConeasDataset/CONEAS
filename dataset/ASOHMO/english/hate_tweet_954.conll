@@ -1,0 +1,15 @@
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+buildthatwall	O	O	Premise1Conclusion	O	O	O	O	policy
+we	O	Premise2Justification	O	O	O	O	fact	O
+cant	O	Premise2Justification	O	O	O	O	fact	O
+afford	O	Premise2Justification	O	O	O	O	fact	O
+any	O	Premise2Justification	O	O	O	O	fact	O
+more	O	Premise2Justification	O	O	O	O	fact	O
+dummies	O	Premise2Justification	O	O	O	O	fact	O
+who	O	Premise2Justification	O	O	O	O	fact	O
+cant	O	Premise2Justification	O	O	O	O	fact	O
+make	O	Premise2Justification	O	O	O	O	fact	O
+it	O	Premise2Justification	O	O	O	O	fact	O
+on	O	Premise2Justification	O	O	O	O	fact	O
+their	O	Premise2Justification	O	O	O	O	fact	O
+own	O	Premise2Justification	O	O	O	O	fact	O

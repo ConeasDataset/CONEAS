@@ -1,0 +1,16 @@
+but	O	Premise2Justification	O	O	O	O	fact	O
+i	O	Premise2Justification	O	O	O	O	fact	O
+thought	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	Premise2Justification	O	O	O	O	fact	O
+white	O	Premise2Justification	O	O	O	pivot	fact	O
+genocide	O	Premise2Justification	O	O	Property	O	fact	O
+wasnt	O	Premise2Justification	O	O	O	O	fact	O
+real?	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+deportthemigrants	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+refugees	O	O	Premise1Conclusion	Collective	O	O	O	policy
+notwelcome	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+white	O	O	Premise1Conclusion	O	O	pivot	O	policy
+pride	O	O	Premise1Conclusion	O	O	O	O	policy

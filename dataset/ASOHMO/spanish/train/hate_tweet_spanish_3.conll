@@ -1,0 +1,14 @@
+@user	O	O	Premise1Conclusion	O	O	O	O	fact
+y	O	O	Premise1Conclusion	O	O	O	O	fact
+@user	O	O	Premise1Conclusion	O	O	O	O	fact
+tienen	O	O	Premise1Conclusion	O	O	O	O	fact
+razón	O	O	Premise1Conclusion	O	O	O	O	fact
+los	O	Premise2Justification	O	O	O	O	fact	O
+inmigrantes	O	Premise2Justification	O	Collective	O	O	fact	O
+vienen	O	Premise2Justification	O	O	O	O	fact	O
+a	O	Premise2Justification	O	O	O	O	fact	O
+imponernos	O	Premise2Justification	O	O	Property	O	fact	O
+sus	O	Premise2Justification	O	O	Property	O	fact	O
+costumbres	O	Premise2Justification	O	O	Property	O	fact	O
+https://t	O	O	O	O	O	O	O	O
+co/xstepibjql	O	O	O	O	O	O	O	O

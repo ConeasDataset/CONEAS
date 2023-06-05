@@ -1,0 +1,10 @@
+our	O	Premise2Justification	O	O	O	O	fact	O
+ancestors	O	Premise2Justification	O	O	O	O	fact	O
+called	O	Premise2Justification	O	O	O	O	fact	O
+migrants	O	Premise2Justification	O	Collective	O	O	fact	O
+invaders	O	Premise2Justification	O	O	Property	O	fact	O
+we	O	O	Premise1Conclusion	O	O	O	O	policy
+should	O	O	Premise1Conclusion	O	O	O	O	policy
+do	O	O	Premise1Conclusion	O	O	O	O	policy
+the	O	O	Premise1Conclusion	O	O	O	O	policy
+same	O	O	Premise1Conclusion	O	O	O	O	policy

@@ -1,0 +1,13 @@
+@user	O	O	O	O	O	O	O	O
+its	O	O	Premise1Conclusion	O	O	O	O	policy
+time	O	O	Premise1Conclusion	O	O	O	O	policy
+for	O	O	Premise1Conclusion	O	O	O	O	policy
+the	O	O	Premise1Conclusion	O	O	O	O	policy
+refugees	O	O	Premise1Conclusion	O	O	O	O	policy
+to	O	O	Premise1Conclusion	O	O	O	O	policy
+go	O	O	Premise1Conclusion	O	O	O	O	policy
+home	O	O	Premise1Conclusion	O	O	O	O	policy
+inclusion	O	Premise2Justification	O	O	O	O	fact	O
+failed	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+sendthemback	O	O	Premise1Conclusion	O	O	O	O	policy

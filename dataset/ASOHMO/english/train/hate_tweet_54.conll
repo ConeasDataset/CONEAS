@@ -1,0 +1,9 @@
+trump	O	Premise2Justification	O	O	O	O	fact	O
+stands	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy
+with	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy
+victims	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy
+of	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	policy
+immigrant	O	Premise2Justification	Premise1Conclusion	Collective	O	O	fact	policy
+violence	O	Premise2Justification	Premise1Conclusion	O	Property	O	fact	policy
+https://t	O	O	O	O	O	O	O	O
+co/aimxnsgdts	O	O	O	O	O	O	O	O

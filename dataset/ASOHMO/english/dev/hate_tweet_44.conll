@@ -1,0 +1,16 @@
+poland:	O	O	Premise1Conclusion	O	O	O	O	fact
+our	O	O	Premise1Conclusion	O	O	O	O	fact
+country	O	O	Premise1Conclusion	O	O	O	O	fact
+is	O	O	Premise1Conclusion	O	O	O	O	fact
+safe	O	O	Premise1Conclusion	O	Property	O	O	fact
+because	O	Premise2Justification	O	O	O	O	fact	O
+we	O	Premise2Justification	O	O	O	O	fact	O
+havent	O	Premise2Justification	O	O	O	O	fact	O
+taken	O	Premise2Justification	O	O	O	O	fact	O
+in	O	Premise2Justification	O	O	O	O	fact	O
+refugees	O	Premise2Justification	O	Collective	O	O	fact	O
+-	O	O	O	O	O	O	O	O
+https://t	O	O	O	O	O	O	O	O
+co/ecnploc3sw	O	O	O	O	O	O	O	O
+https://t	O	O	O	O	O	O	O	O
+co/ekykeobpjd	O	O	O	O	O	O	O	O

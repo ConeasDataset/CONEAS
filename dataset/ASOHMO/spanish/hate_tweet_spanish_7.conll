@@ -1,0 +1,17 @@
+no	O	O	Premise1Conclusion	O	O	O	O	fact
+son	O	O	Premise1Conclusion	O	O	O	O	fact
+subsaharianos	O	O	Premise1Conclusion	O	O	pivot	O	fact
+son	O	O	Premise1Conclusion	O	O	O	O	fact
+negros	O	O	Premise1Conclusion	O	O	O	O	fact
+que	O	Premise2Justification	O	O	O	O	fact	O
+yo	O	Premise2Justification	O	O	O	O	fact	O
+sepa	O	Premise2Justification	O	O	O	O	fact	O
+sudán	O	Premise2Justification	O	O	O	O	fact	O
+y	O	Premise2Justification	O	O	O	O	fact	O
+níger	O	Premise2Justification	O	O	O	O	fact	O
+están	O	Premise2Justification	O	O	O	O	fact	O
+en	O	Premise2Justification	O	O	O	O	fact	O
+el	O	Premise2Justification	O	O	O	O	fact	O
+sáhara	O	Premise2Justification	O	O	O	pivot	fact	O
+hashtag	O	O	O	O	O	O	O	O
+fronterasseguras	O	O	O	O	O	O	O	O

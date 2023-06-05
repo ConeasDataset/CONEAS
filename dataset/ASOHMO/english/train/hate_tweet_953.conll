@@ -1,0 +1,10 @@
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+sendthemback	O	O	Premise1Conclusion	O	O	O	O	policy
+take	O	Premise2Justification	O	O	O	O	policy	O
+care	O	Premise2Justification	O	O	O	O	policy	O
+of	O	Premise2Justification	O	O	O	O	policy	O
+your	O	Premise2Justification	O	O	O	O	policy	O
+hashtag	O	Premise2Justification	O	O	O	O	policy	O
+people	O	Premise2Justification	O	O	O	O	policy	O
+@user	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O

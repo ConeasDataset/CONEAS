@@ -1,0 +1,17 @@
+daily	O	Premise2Justification	O	O	O	O	fact	O
+migrant	O	Premise2Justification	O	Collective	O	pivot	fact	O
+invasions	O	Premise2Justification	O	O	Property	O	fact	O
+hashtag	O	O	O	O	O	O	O	O
+migrant	O	O	O	Collective	O	pivot	O	O
+hashtag	O	O	O	O	O	O	O	O
+buildthewall	O	O	O	O	O	O	O	O
+hashtag	O	O	O	O	O	O	O	O
+illegal	O	O	O	O	O	O	O	O
+hashtag	O	O	O	O	O	O	O	O
+trespassers	O	O	O	O	O	O	O	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+send	O	O	Premise1Conclusion	O	O	O	O	policy
+them	O	O	Premise1Conclusion	O	O	pivot	O	policy
+back	O	O	Premise1Conclusion	O	O	O	O	policy
+https://t	O	O	O	O	O	O	O	O
+co/qsluo17crj	O	O	O	O	O	O	O	O

@@ -1,0 +1,16 @@
+algo	O	O	Premise1Conclusion	O	O	O	O	fact
+se	O	O	Premise1Conclusion	O	O	O	O	fact
+pudre	O	O	Premise1Conclusion	O	O	O	O	fact
+en	O	O	Premise1Conclusion	O	O	O	O	fact
+el	O	O	Premise1Conclusion	O	O	O	O	fact
+perú	O	O	Premise1Conclusion	O	O	O	O	fact
+es	O	Premise2Justification	O	O	O	O	fact	O
+el	O	Premise2Justification	O	O	O	O	fact	O
+caos	O	Premise2Justification	O	O	Property	O	fact	O
+organizado	O	Premise2Justification	O	O	Property	O	fact	O
+surrealista	O	Premise2Justification	O	O	O	O	fact	O
+subsahariano	O	Premise2Justification	O	Collective	O	O	fact	O
+nuestra	O	Premise2Justification	O	O	O	O	fact	O
+realidad	O	Premise2Justification	O	O	O	O	fact	O
+https://t	O	O	O	O	O	O	O	O
+co/3hms5jyx7v	O	O	O	O	O	O	O	O

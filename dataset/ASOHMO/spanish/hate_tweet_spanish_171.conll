@@ -1,0 +1,17 @@
+¿por	O	O	Premise1Conclusion	O	O	O	O	fact
+qué	O	O	Premise1Conclusion	O	O	O	O	fact
+las	O	O	Premise1Conclusion	O	O	O	O	fact
+modelos	O	O	Premise1Conclusion	Collective	O	pivot	O	fact
+tienen	O	O	Premise1Conclusion	O	O	O	O	fact
+una	O	O	Premise1Conclusion	O	Property	O	O	fact
+neurona	O	O	Premise1Conclusion	O	Property	O	O	fact
+más	O	O	Premise1Conclusion	O	O	O	O	fact
+que	O	O	Premise1Conclusion	O	O	O	O	fact
+los	O	O	Premise1Conclusion	O	O	O	O	fact
+caballos?	O	O	Premise1Conclusion	O	O	O	O	fact
+para	O	Premise2Justification	O	O	O	O	fact	O
+no	O	Premise2Justification	O	O	O	O	fact	O
+cagarse	O	Premise2Justification	O	O	O	O	fact	O
+en	O	Premise2Justification	O	O	O	O	fact	O
+los	O	Premise2Justification	O	O	O	O	fact	O
+desfiles	O	Premise2Justification	O	O	O	pivot	fact	O

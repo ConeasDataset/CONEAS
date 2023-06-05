@@ -1,0 +1,17 @@
+merkel	O	O	Premise1Conclusion	O	O	O	O	fact
+support	O	O	Premise1Conclusion	O	O	O	O	fact
+falls	O	O	Premise1Conclusion	O	O	O	O	fact
+to	O	O	Premise1Conclusion	O	O	O	O	fact
+all-time	O	O	Premise1Conclusion	O	O	O	O	fact
+low	O	O	Premise1Conclusion	O	O	O	O	fact
+as	O	Premise2Justification	O	O	O	O	fact	O
+ruling	O	Premise2Justification	O	O	O	O	fact	O
+bloc	O	Premise2Justification	O	O	O	O	fact	O
+damaged	O	Premise2Justification	O	O	O	O	fact	O
+by	O	Premise2Justification	O	O	O	O	fact	O
+migrant	O	Premise2Justification	O	O	O	O	fact	O
+row	O	Premise2Justification	O	O	O	O	fact	O
+https://t	O	O	O	O	O	O	O	O
+co/sbrwuxthbr	O	O	O	O	O	O	O	O
+via	O	O	O	O	O	O	O	O
+@user	O	O	O	O	O	O	O	O

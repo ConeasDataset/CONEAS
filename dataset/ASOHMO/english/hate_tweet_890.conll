@@ -1,0 +1,17 @@
+"	O	O	O	O	O	O	O	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+sendthem	O	O	Premise1Conclusion	O	O	O	O	policy
+home	O	O	Premise1Conclusion	O	O	pivot	O	policy
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+nodaca	O	O	Premise1Conclusion	O	O	O	O	policy
+hashtag	O	Premise2Justification	O	O	O	O	fact	O
+theyarereturning	O	Premise2Justification	O	O	O	O	fact	O
+to	O	Premise2Justification	O	O	O	O	fact	O
+their	O	Premise2Justification	O	O	O	O	fact	O
+home	O	Premise2Justification	O	O	O	pivot	fact	O
+countries	O	Premise2Justification	O	O	O	O	fact	O
+educated	O	Premise2Justification	O	O	O	O	fact	O
+healthy	O	Premise2Justification	O	O	O	O	fact	O
+&	O	Premise2Justification	O	O	O	O	fact	O
+multilingual	O	Premise2Justification	O	O	O	O	fact	O
+"	O	O	O	O	O	O	O	O

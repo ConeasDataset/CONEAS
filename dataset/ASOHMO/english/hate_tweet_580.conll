@@ -1,0 +1,15 @@
+polish	O	O	O	O	O	O	O	O
+mp:	O	O	O	O	O	O	O	O
+our	O	O	Premise1Conclusion	O	O	O	O	fact
+country	O	O	Premise1Conclusion	O	O	O	O	fact
+is	O	O	Premise1Conclusion	O	O	O	O	fact
+safe	O	O	Premise1Conclusion	O	O	O	O	fact
+because	O	Premise2Justification	O	O	O	O	fact	O
+we	O	Premise2Justification	O	O	O	O	fact	O
+didnt	O	Premise2Justification	O	O	O	O	fact	O
+accept	O	Premise2Justification	O	O	O	O	fact	O
+illegal	O	Premise2Justification	O	O	O	O	fact	O
+muslim	O	Premise2Justification	O	O	O	O	fact	O
+migrants	O	Premise2Justification	O	O	O	O	fact	O
+https://t	O	O	O	O	O	O	O	O
+co/inrccvwgqd	O	O	O	O	O	O	O	O

@@ -1,0 +1,7 @@
+@user	O	Premise2Justification	O	O	O	O	fact	O
+looks	O	Premise2Justification	O	O	O	O	fact	O
+like	O	Premise2Justification	O	O	O	O	fact	O
+an	O	Premise2Justification	O	O	O	O	fact	O
+army	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	policy
+buildthatwall	O	O	Premise1Conclusion	O	O	O	O	policy

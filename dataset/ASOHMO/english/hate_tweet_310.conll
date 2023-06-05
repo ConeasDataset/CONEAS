@@ -1,0 +1,15 @@
+@user	O	Premise2Justification	O	O	O	O	fact	O
+why	O	Premise2Justification	O	O	O	O	fact	O
+are	O	Premise2Justification	O	O	O	O	fact	O
+illegal	O	Premise2Justification	O	O	O	O	fact	O
+immigrants	O	Premise2Justification	O	O	O	O	fact	O
+bribed	O	Premise2Justification	O	O	O	O	fact	O
+at	O	Premise2Justification	O	O	O	O	fact	O
+all	O	Premise2Justification	O	O	O	O	fact	O
+to	O	Premise2Justification	O	O	O	O	fact	O
+go	O	Premise2Justification	O	O	O	O	fact	O
+home?	O	Premise2Justification	O	O	O	O	fact	O
+pay	O	O	Premise1Conclusion	O	O	O	O	fact
+their	O	O	Premise1Conclusion	O	O	O	O	fact
+fares	O	O	Premise1Conclusion	O	O	O	O	fact
+only	O	O	Premise1Conclusion	O	O	O	O	fact

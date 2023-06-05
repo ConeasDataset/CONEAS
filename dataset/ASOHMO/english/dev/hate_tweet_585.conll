@@ -1,0 +1,16 @@
+@user	O	O	O	O	O	O	O	O
+she	O	O	Premise1Conclusion	O	O	O	O	fact
+has	O	O	Premise1Conclusion	O	O	O	O	fact
+done	O	O	Premise1Conclusion	O	Property	O	O	fact
+great	O	O	Premise1Conclusion	O	Property	O	O	fact
+harm	O	O	Premise1Conclusion	O	Property	O	O	fact
+to	O	O	Premise1Conclusion	O	Property	O	O	fact
+country	O	O	Premise1Conclusion	O	Property	O	O	fact
+by	O	Premise2Justification	O	O	O	O	fact	O
+facilitating	O	Premise2Justification	O	O	O	O	fact	O
+muslims	O	Premise2Justification	O	Collective	O	O	fact	O
+migration	O	Premise2Justification	O	Collective	O	O	fact	O
+from	O	Premise2Justification	O	O	O	O	fact	O
+bangladesh	O	Premise2Justification	O	O	O	O	fact	O
+nepal	O	Premise2Justification	O	O	O	O	fact	O
+etc	O	Premise2Justification	O	O	O	O	fact	O

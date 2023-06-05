@@ -1,0 +1,12 @@
+@user	O	O	O	O	O	O	O	O
+bishop	O	Premise2Justification	O	O	O	O	fact	O
+schneider:	O	Premise2Justification	O	O	O	O	fact	O
+mass	O	Premise2Justification	Premise1Conclusion	O	O	O	fact	fact
+migration	O	Premise2Justification	Premise1Conclusion	Collective	O	O	fact	fact
+a	O	Premise2Justification	Premise1Conclusion	O	Property	O	fact	fact
+plan	O	Premise2Justification	Premise1Conclusion	O	Property	O	fact	fact
+to	O	Premise2Justification	Premise1Conclusion	O	Property	O	fact	fact
+undermine	O	Premise2Justification	Premise1Conclusion	O	Property	O	fact	fact
+identity	O	Premise2Justification	Premise1Conclusion	O	Property	O	fact	fact
+https://t	O	Premise2Justification	O	O	O	O	fact	O
+co/0rnral1kp6	O	Premise2Justification	O	O	O	O	fact	O

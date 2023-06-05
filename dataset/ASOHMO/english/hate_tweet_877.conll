@@ -1,0 +1,16 @@
+hashtag	O	Premise2Justification	O	Collective	O	O	fact	O
+diversity	O	Premise2Justification	O	Collective	O	O	fact	O
+in	O	Premise2Justification	O	O	O	O	fact	O
+england	O	Premise2Justification	O	O	O	O	fact	O
+need	O	Premise2Justification	O	O	O	O	fact	O
+any	O	Premise2Justification	O	O	O	O	fact	O
+more	O	Premise2Justification	O	O	O	O	fact	O
+proof	O	Premise2Justification	O	O	O	O	fact	O
+that	O	Premise2Justification	O	O	O	O	fact	O
+this	O	Premise2Justification	O	O	O	O	fact	O
+is	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	Premise2Justification	O	O	Property	O	fact	O
+whitegenocide	O	Premise2Justification	O	O	Property	O	fact	O
+?	O	Premise2Justification	O	O	O	O	fact	O
+hashtag	O	O	Premise1Conclusion	O	O	O	O	fact
+sendthemback	O	O	Premise1Conclusion	O	O	O	O	fact

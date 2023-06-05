@@ -1,0 +1,12 @@
+canada	O	Premise2Justification	O	O	O	O	fact	O
+is	O	Premise2Justification	O	O	O	O	fact	O
+an	O	Premise2Justification	O	O	O	O	fact	O
+immigrant	O	Premise2Justification	O	O	O	O	fact	O
+country	O	Premise2Justification	O	O	O	pivot	fact	O
+dont	O	O	Premise1Conclusion	O	O	O	O	policy
+change	O	O	Premise1Conclusion	O	O	O	O	policy
+it	O	O	Premise1Conclusion	O	O	O	O	policy
+to	O	O	Premise1Conclusion	O	O	O	O	policy
+refugee	O	O	Premise1Conclusion	O	O	O	O	policy
+country	O	O	Premise1Conclusion	O	O	pivot	O	policy
+please	O	O	Premise1Conclusion	O	O	O	O	policy
