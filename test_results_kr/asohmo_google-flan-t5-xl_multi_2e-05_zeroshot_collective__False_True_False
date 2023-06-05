@@ -1,0 +1,27 @@
+---------------------------------------------------------
+hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país | Colectivo: mantero  -  mantero  -  mantero | Propiedad: agredir a turistas y policias
+Se puede regular la actividad de los manteros sin tener que deportar a nadie. No hay que ser tan drásticos. No es necesario.
+
+<pad> agredir a turistas y policias</s>
+{'precision': [0.8700209856033325], 'recall': [0.8133794069290161], 'f1': [0.8407472968101501], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08333333333333333, 0.0, 0.0, 0.0], 'brevity_penalty': 0.31140322391459774, 'length_ratio': 0.46153846153846156, 'translation_length': 12, 'reference_length': 26}
+{'rouge1': 0.06451612903225806, 'rouge2': 0.0, 'rougeL': 0.06451612903225806, 'rougeLsum': 0.06451612903225806}
+0.37761980295181274
+---------------------------------------------------------
+hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país | Colectivo: mantero  -  mantero  -  mantero | Propiedad: agredir a turistas y policias
+No recuerdo haber visto manteros agrediendo turistas. Si recuerdo haber visto gente agrediendo manteros. La violencia no es unidireccional como nos quieren hacer creer.
+
+<pad> agredir a turistas y policias</s>
+{'precision': [0.8835341930389404], 'recall': [0.8056215047836304], 'f1': [0.8427809476852417], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08333333333333333, 0.0, 0.0, 0.0], 'brevity_penalty': 0.2865047968601901, 'length_ratio': 0.4444444444444444, 'translation_length': 12, 'reference_length': 27}
+{'rouge1': 0.06451612903225806, 'rouge2': 0.0, 'rougeL': 0.06451612903225806, 'rougeLsum': 0.06451612903225806}
+0.42289644479751587
+---------------------------------------------------------
+hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país | Colectivo: mantero  -  mantero  -  mantero | Propiedad: agredir a turistas y policias
+La relación entre indocumentados y violencia no es tan alta como te quieren hacer creer. Están buscando chivos expiatorios para problemas que llevan existen desde hace mucho tiempo.
+
+<pad> agredir a turistas y policias</s>
+{'precision': [0.8548028469085693], 'recall': [0.7923566699028015], 'f1': [0.8223960399627686], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08333333333333333, 0.0, 0.0, 0.0], 'brevity_penalty': 0.22313016014842982, 'length_ratio': 0.4, 'translation_length': 12, 'reference_length': 30}
+{'rouge1': 0.05405405405405406, 'rouge2': 0.0, 'rougeL': 0.05405405405405406, 'rougeLsum': 0.05405405405405406}
+0.42873871326446533

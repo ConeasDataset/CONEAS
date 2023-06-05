@@ -1,0 +1,594 @@
+---------------------------------------------------------
+como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c | Colectivo:  | Propiedad:  | Justificación: sin fueran refugiados gloria (fact)  | Conclusión: como son españoles nada (fact)  | Pivot: 
+No es cierto. Se puede atender a unos sin descuidar a otros.
+
+<pad>.</s>
+{'precision': [0.8783193230628967], 'recall': [0.7970895171165466], 'f1': [0.8357352614402771], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.125, 0.0, 0.0, 0.0], 'brevity_penalty': 0.4723665527410147, 'length_ratio': 0.5714285714285714, 'translation_length': 8, 'reference_length': 14}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.039235614240169525
+---------------------------------------------------------
+como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c | Colectivo:  | Propiedad:  | Justificación: sin fueran refugiados gloria (fact)  | Conclusión: como son españoles nada (fact)  | Pivot: 
+Si con "gloria" te refieres a "atención basica" pues, sí. No seas tan dramático.
+
+<pad>.</s>
+{'precision': [0.8661267757415771], 'recall': [0.7861145734786987], 'f1': [0.8241833448410034], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.125, 0.0, 0.0, 0.0], 'brevity_penalty': 0.19691167520419406, 'length_ratio': 0.38095238095238093, 'translation_length': 8, 'reference_length': 21}
+{'rouge1': 0.1111111111111111, 'rouge2': 0.0, 'rougeL': 0.1111111111111111, 'rougeLsum': 0.1111111111111111}
+0.0793764591217041
+---------------------------------------------------------
+¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq | Colectivo: caribeño y el subsahariano | Propiedad: brutismo | Justificación: extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings (fact)  | Conclusión: ¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? (fact)  | Pivot: 
+Es difícil que algo tenga relación con algún estudio de internet completamente descontextualizado...
+
+<pad> Performance among young adults in non-air-conditioned</s>
+{'precision': [0.8196464776992798], 'recall': [0.7394126653671265], 'f1': [0.7774650454521179], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.7939226578179512, 'length_ratio': 0.8125, 'translation_length': 13, 'reference_length': 16}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.011590570211410522
+---------------------------------------------------------
+¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq | Colectivo: caribeño y el subsahariano | Propiedad: brutismo | Justificación: extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings (fact)  | Conclusión: ¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? (fact)  | Pivot: 
+No es cierto que los caribeños o subsaharianos sean brutos. Es solo un prejuicio.
+
+<pad> Performance among young adults in non-air-conditioned</s>
+{'precision': [0.8219636678695679], 'recall': [0.77180016040802], 'f1': [0.7960924506187439], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.7939226578179512, 'length_ratio': 0.8125, 'translation_length': 13, 'reference_length': 16}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.036786653101444244
+---------------------------------------------------------
+¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq | Colectivo: caribeño y el subsahariano | Propiedad: brutismo | Justificación: extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings (fact)  | Conclusión: ¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? (fact)  | Pivot: 
+Me parece que estás tomando un estudio científico serio, y sacándolo completamente de contexto. No se puede tomar en serio algo así.
+
+<pad> Performance among young adults in non-air-conditioned</s>
+{'precision': [0.8255188465118408], 'recall': [0.7580427527427673], 'f1': [0.790343165397644], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.39729471319771137, 'length_ratio': 0.52, 'translation_length': 13, 'reference_length': 25}
+{'rouge1': 0.05714285714285714, 'rouge2': 0.0, 'rougeL': 0.05714285714285714, 'rougeLsum': 0.05714285714285714}
+0.08448418974876404
+---------------------------------------------------------
+llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde | Colectivo: venezolanos | Propiedad: invasión | Justificación: llegan 900 venezolanos por día al perú  -  qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema (fact)  | Conclusión: cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ?  -  solo reaccionarán cuando esto se desborde (fact)  | Pivot: 
+Estás siendo paranoico. No se va a "desbordar", y es por eso que no hace falta ponerle "coto y fin"
+
+<pad> llegan 900 venezolanos por d<unk>a al per<unk> cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde</s>
+{'precision': [0.8066082000732422], 'recall': [0.8398174047470093], 'f1': [0.8228778839111328], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14285714285714285, 0.03225806451612903, 0.01639344262295082, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.423076923076923, 'translation_length': 63, 'reference_length': 26}
+{'rouge1': 0.2784810126582279, 'rouge2': 0.051948051948051945, 'rougeL': 0.12658227848101267, 'rougeLsum': 0.12658227848101267}
+0.5343601703643799
+---------------------------------------------------------
+llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde | Colectivo: venezolanos | Propiedad: invasión | Justificación: llegan 900 venezolanos por día al perú  -  qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema (fact)  | Conclusión: cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ?  -  solo reaccionarán cuando esto se desborde (fact)  | Pivot: 
+Lo llamas invasión pero solo te refieres a los venezolanos, y no a los demás inmigrantes. ¿No estás siendo un poco racista?
+
+<pad> llegan 900 venezolanos por d<unk>a al per<unk> cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde</s>
+{'precision': [0.8070574998855591], 'recall': [0.8391493558883667], 'f1': [0.8227906227111816], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12698412698412698, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.52, 'translation_length': 63, 'reference_length': 25}
+{'rouge1': 0.2650602409638554, 'rouge2': 0.024691358024691357, 'rougeL': 0.14457831325301204, 'rougeLsum': 0.14457831325301204}
+0.6874833703041077
+---------------------------------------------------------
+llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde | Colectivo: venezolanos | Propiedad: invasión | Justificación: llegan 900 venezolanos por día al perú  -  qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema (fact)  | Conclusión: cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ?  -  solo reaccionarán cuando esto se desborde (fact)  | Pivot: 
+Ponerle un alto no es la única forma de hacer algo al respecto. Hay formas de controlar una situación sin reprimir a nadie.
+
+<pad> llegan 900 venezolanos por d<unk>a al per<unk> cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde</s>
+{'precision': [0.8001060485839844], 'recall': [0.8210719227790833], 'f1': [0.810453474521637], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09523809523809523, 0.016129032258064516, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.52, 'translation_length': 63, 'reference_length': 25}
+{'rouge1': 0.17073170731707318, 'rouge2': 0.024999999999999998, 'rougeL': 0.12195121951219515, 'rougeLsum': 0.12195121951219515}
+0.38131803274154663
+---------------------------------------------------------
+algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v | Colectivo: subsahariano | Propiedad: caos organizado | Justificación: es el caos organizado surrealista subsahariano nuestra realidad (fact)  | Conclusión: algo se pudre en el perú (fact)  | Pivot: 
+Estas exagerando. Que algunas personas no te caigan bien no significa que el país se este "pudriendo".
+
+<pad> es el caos organizado subsahariano nuestra realidad</s>
+{'precision': [0.8140832185745239], 'recall': [0.8062047362327576], 'f1': [0.8101248741149902], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07142857142857142, 0.0, 0.0, 0.0], 'brevity_penalty': 0.6065306597126334, 'length_ratio': 0.6666666666666666, 'translation_length': 14, 'reference_length': 21}
+{'rouge1': 0.14814814814814814, 'rouge2': 0.0, 'rougeL': 0.14814814814814814, 'rougeLsum': 0.14814814814814814}
+0.3818708062171936
+---------------------------------------------------------
+algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v | Colectivo: subsahariano | Propiedad: caos organizado | Justificación: es el caos organizado surrealista subsahariano nuestra realidad (fact)  | Conclusión: algo se pudre en el perú (fact)  | Pivot: 
+Ni están organizados, si con el caos. Solo son inmigrantes.
+
+<pad> es el caos organizado subsahariano nuestra realidad</s>
+{'precision': [0.8459510803222656], 'recall': [0.8663426041603088], 'f1': [0.8560254573822021], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14285714285714285, 0.07692307692307693, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0769230769230769, 'translation_length': 14, 'reference_length': 13}
+{'rouge1': 0.19999999999999998, 'rouge2': 0.11111111111111112, 'rougeL': 0.19999999999999998, 'rougeLsum': 0.19999999999999998}
+0.604406476020813
+---------------------------------------------------------
+algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v | Colectivo: subsahariano | Propiedad: caos organizado | Justificación: es el caos organizado surrealista subsahariano nuestra realidad (fact)  | Conclusión: algo se pudre en el perú (fact)  | Pivot: 
+Sugieres que, de alguna forma, la presencia de inmigrantes los está haciendo sufrir. Lo cual no es verdad.
+
+<pad> es el caos organizado subsahariano nuestra realidad</s>
+{'precision': [0.8144277334213257], 'recall': [0.8072167038917542], 'f1': [0.810806155204773], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07142857142857142, 0.0, 0.0, 0.0], 'brevity_penalty': 0.5647181220077593, 'length_ratio': 0.6363636363636364, 'translation_length': 14, 'reference_length': 22}
+{'rouge1': 0.07407407407407407, 'rouge2': 0.0, 'rougeL': 0.07407407407407407, 'rougeLsum': 0.07407407407407407}
+0.40347209572792053
+---------------------------------------------------------
+a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu | Colectivo:  | Propiedad:  | Justificación: a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (fact)  | Conclusión: (y que los votantes no de lo hagan paga r dentro de un año) (fact)  | Pivot: paga  -  paga r
+Pues sería una lastima que el resultado de las elecciones cambie tanto por aceptar a algunos inmigrantes. Hablaría muy mal de la sociedad.
+
+<pad> se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un a<unk>o)</s>
+{'precision': [0.8151412606239319], 'recall': [0.8300755620002747], 'f1': [0.8225406408309937], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1794871794871795, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.56, 'translation_length': 39, 'reference_length': 25}
+{'rouge1': 0.25, 'rouge2': 0.0, 'rougeL': 0.14285714285714285, 'rougeLsum': 0.14285714285714285}
+0.55419921875
+---------------------------------------------------------
+a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu | Colectivo:  | Propiedad:  | Justificación: a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (fact)  | Conclusión: (y que los votantes no de lo hagan paga r dentro de un año) (fact)  | Pivot: paga  -  paga r
+¿De qué factura hablas? Si los inmigrantes no representan ningún gasto.
+
+<pad> se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un a<unk>o)</s>
+{'precision': [0.8121522665023804], 'recall': [0.8302282094955444], 'f1': [0.8210907578468323], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07692307692307693, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.0, 'translation_length': 39, 'reference_length': 13}
+{'rouge1': 0.2325581395348837, 'rouge2': 0.0, 'rougeL': 0.13953488372093023, 'rougeLsum': 0.13953488372093023}
+0.5307969450950623
+---------------------------------------------------------
+despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed | Colectivo: manteros | Propiedad: hostiguen a señoras y peguen a turistas | Justificación: despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? (fact)  | Conclusión: ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? (fact)  | Pivot: hostigada  -  hostiguen
+Ni todos los manteros son ilegales, ni todos los ilegales violentos. Dejemos de estigmatizar, que terminaremos culpando a los inocentes y defendiendo culpables.
+
+<pad> ayuda a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la <unk>nica manera que nos obligan a hacer es mantero mantero a su pa<unk>s</s>
+{'precision': [0.8000357151031494], 'recall': [0.8253105878829956], 'f1': [0.812476634979248], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0784313725490196, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.8888888888888888, 'translation_length': 51, 'reference_length': 27}
+{'rouge1': 0.12121212121212122, 'rouge2': 0.0, 'rougeL': 0.12121212121212122, 'rougeLsum': 0.12121212121212122}
+0.4544082283973694
+---------------------------------------------------------
+despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed | Colectivo: manteros | Propiedad: hostiguen a señoras y peguen a turistas | Justificación: despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? (fact)  | Conclusión: ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? (fact)  | Pivot: hostigada  -  hostiguen
+No es cierto que los manteros hostiguen y peguen a los turistas, piénsalo. ¿Quién querría tratar mal a sus clientes?
+
+<pad> ayuda a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la <unk>nica manera que nos obligan a hacer es mantero mantero a su pa<unk>s</s>
+{'precision': [0.8042299747467041], 'recall': [0.812263548374176], 'f1': [0.8082268238067627], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11764705882352941, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.217391304347826, 'translation_length': 51, 'reference_length': 23}
+{'rouge1': 0.24242424242424243, 'rouge2': 0.0, 'rougeL': 0.15151515151515152, 'rougeLsum': 0.15151515151515152}
+0.4987448453903198
+---------------------------------------------------------
+despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed | Colectivo: manteros | Propiedad: hostiguen a señoras y peguen a turistas | Justificación: despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? (fact)  | Conclusión: ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? (fact)  | Pivot: hostigada  -  hostiguen
+No se de que hablas, ni se donde viste eso. Hasta donde se, esto podría no haber ocurrido nunca.
+
+<pad> ayuda a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la <unk>nica manera que nos obligan a hacer es mantero mantero a su pa<unk>s</s>
+{'precision': [0.7780609130859375], 'recall': [0.816767692565918], 'f1': [0.7969445586204529], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.058823529411764705, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.217391304347826, 'translation_length': 51, 'reference_length': 23}
+{'rouge1': 0.12698412698412698, 'rouge2': 0.0, 'rougeL': 0.12698412698412698, 'rougeLsum': 0.12698412698412698}
+0.3958732485771179
+---------------------------------------------------------
+estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk | Colectivo: árabe | Propiedad: violencia de género | Justificación: le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe (fact)  | Conclusión: estoy flipando (value)  | Pivot: 
+Que triste que aun hoy en día haya gente que piense así...
+
+<pad> Estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensar<unk>a que la mujer tiene razón que si eso me pasó a m<unk> es porque</s>
+{'precision': [0.7779011130332947], 'recall': [0.8011258840560913], 'f1': [0.7893427610397339], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.030303030303030304, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 4.4, 'translation_length': 66, 'reference_length': 15}
+{'rouge1': 0.1095890410958904, 'rouge2': 0.0, 'rougeL': 0.1095890410958904, 'rougeLsum': 0.1095890410958904}
+0.40519341826438904
+---------------------------------------------------------
+estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk | Colectivo: árabe | Propiedad: violencia de género | Justificación: le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe (fact)  | Conclusión: estoy flipando (value)  | Pivot: 
+No entiendo. ¿Él sugirió que los árabes (y solo los árabes) son violentos? Que racista...
+
+<pad> Estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensar<unk>a que la mujer tiene razón que si eso me pasó a m<unk> es porque</s>
+{'precision': [0.7984631061553955], 'recall': [0.821847677230835], 'f1': [0.8099866509437561], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.030303030303030304, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.0, 'translation_length': 66, 'reference_length': 22}
+{'rouge1': 0.10666666666666667, 'rouge2': 0.0, 'rougeL': 0.08000000000000002, 'rougeLsum': 0.08000000000000002}
+0.44832277297973633
+---------------------------------------------------------
+pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj | Colectivo: la india de gandhi | Propiedad: retroceder ante lo nuevo desprecio por la mujer  -  simple minds | Justificación: tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres (fact)  | Conclusión: pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro (fact)  | Pivot: 
+Que las religiones se hayan parecido en un pasado, no quiere decir que todos ellos sigan viviendo exactamente igual que en aquellas épocas.  
+
+<pad> esas mujeres las ni<unk>as los pobres es tan espiritual pues la india de gandhi son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo</s>
+{'precision': [0.7982110977172852], 'recall': [0.8057923316955566], 'f1': [0.8019838333129883], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.04878048780487805, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.64, 'translation_length': 41, 'reference_length': 25}
+{'rouge1': 0.07017543859649121, 'rouge2': 0.0, 'rougeL': 0.07017543859649121, 'rougeLsum': 0.07017543859649121}
+0.4305790662765503
+---------------------------------------------------------
+pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj | Colectivo: la india de gandhi | Propiedad: retroceder ante lo nuevo desprecio por la mujer  -  simple minds | Justificación: tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres (fact)  | Conclusión: pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro (fact)  | Pivot: 
+Estas subestimando a todos los miembros de un país. Realmente crees que solo en donde tu vives el mundo ha evolucionado?
+
+<pad> esas mujeres las ni<unk>as los pobres es tan espiritual pues la india de gandhi son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo</s>
+{'precision': [0.7925618886947632], 'recall': [0.7977396845817566], 'f1': [0.7951423525810242], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0975609756097561, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7826086956521738, 'translation_length': 41, 'reference_length': 23}
+{'rouge1': 0.17857142857142858, 'rouge2': 0.0, 'rougeL': 0.14285714285714285, 'rougeLsum': 0.14285714285714285}
+0.4048103988170624
+---------------------------------------------------------
+pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj | Colectivo: la india de gandhi | Propiedad: retroceder ante lo nuevo desprecio por la mujer  -  simple minds | Justificación: tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres (fact)  | Conclusión: pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro (fact)  | Pivot: 
+En todos lados hay gente que rechaza lo nuevo, pero la tendencia general es hacia el progreso, y no en su contra.
+
+<pad> esas mujeres las ni<unk>as los pobres es tan espiritual pues la india de gandhi son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo</s>
+{'precision': [0.8101359605789185], 'recall': [0.8465768098831177], 'f1': [0.8279556035995483], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12195121951219512, 0.025, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.64, 'translation_length': 41, 'reference_length': 25}
+{'rouge1': 0.17857142857142858, 'rouge2': 0.037037037037037035, 'rougeL': 0.07142857142857142, 'rougeLsum': 0.07142857142857142}
+0.4537075459957123
+---------------------------------------------------------
+el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz | Colectivo: chinos turcos arabes y colombianos | Propiedad: especulacion de precios | Justificación: el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos (fact)  | Conclusión: defendamos lo nuestro hagamos patria @user (policy)  | Pivot: pueblo  -  patria
+Quizás hacer patria si sea luchar contra las especulaciones, pero si vas a insistir en que es culpa de otro país nunca hallaras a los responsables.
+
+<pad> chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria</s>
+{'precision': [0.8192077875137329], 'recall': [0.8026129603385925], 'f1': [0.8108254671096802], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.058823529411764705, 0.0, 0.0, 0.0], 'brevity_penalty': 0.5235834657149969, 'length_ratio': 0.6071428571428571, 'translation_length': 17, 'reference_length': 28}
+{'rouge1': 0.1, 'rouge2': 0.0, 'rougeL': 0.1, 'rougeLsum': 0.1}
+0.5147608518600464
+---------------------------------------------------------
+el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz | Colectivo: chinos turcos arabes y colombianos | Propiedad: especulacion de precios | Justificación: el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos (fact)  | Conclusión: defendamos lo nuestro hagamos patria @user (policy)  | Pivot: pueblo  -  patria
+La existencia de empresarios especuladores, y su nacionalidad, no tienen nada que ver. No es como que los países "impongan" algo así.
+
+<pad> chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria</s>
+{'precision': [0.8192362785339355], 'recall': [0.8060078620910645], 'f1': [0.812568187713623], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.058823529411764705, 0.0, 0.0, 0.0], 'brevity_penalty': 0.5235834657149969, 'length_ratio': 0.6071428571428571, 'translation_length': 17, 'reference_length': 28}
+{'rouge1': 0.057142857142857134, 'rouge2': 0.0, 'rougeL': 0.057142857142857134, 'rougeLsum': 0.057142857142857134}
+0.3671967089176178
+---------------------------------------------------------
+el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz | Colectivo: chinos turcos arabes y colombianos | Propiedad: especulacion de precios | Justificación: el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos (fact)  | Conclusión: defendamos lo nuestro hagamos patria @user (policy)  | Pivot: pueblo  -  patria
+El pueblo a veces se equivoca, y se las agarra con quienes no tienen la culpa de nada.
+
+<pad> chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria</s>
+{'precision': [0.8153694868087769], 'recall': [0.8041906356811523], 'f1': [0.8097414374351501], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.058823529411764705, 0.0, 0.0, 0.0], 'brevity_penalty': 0.8382234324229999, 'length_ratio': 0.85, 'translation_length': 17, 'reference_length': 20}
+{'rouge1': 0.06666666666666667, 'rouge2': 0.0, 'rougeL': 0.06666666666666667, 'rougeLsum': 0.06666666666666667}
+0.4370473325252533
+---------------------------------------------------------
+la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5 | Colectivo: inmigraciòn | Propiedad: barbaros | Justificación: la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida (fact)  | Conclusión: marina lepen tiene razón nada d inmigrantes (policy)  | Pivot: inmigraciòn  -  inmigrantes
+Que a ti te caigan mal ellos, no significa que tenga razón. No se toma una decisión tan grande en base a prejuicios.
+
+<pad> es una estrategia para entrar a europa y atacarla desde dentro como hace mil a<unk>os hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada</s>
+{'precision': [0.7950186729431152], 'recall': [0.8244709372520447], 'f1': [0.8094769716262817], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10204081632653061, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.8846153846153846, 'translation_length': 49, 'reference_length': 26}
+{'rouge1': 0.17647058823529407, 'rouge2': 0.030303030303030307, 'rougeL': 0.08823529411764704, 'rougeLsum': 0.08823529411764704}
+0.40309223532676697
+---------------------------------------------------------
+la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5 | Colectivo: inmigraciòn | Propiedad: barbaros | Justificación: la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida (fact)  | Conclusión: marina lepen tiene razón nada d inmigrantes (policy)  | Pivot: inmigraciòn  -  inmigrantes
+Los inmigrantes no son barbaros, ni intentan invadir nada. Vienen por su cuenta a intentar ganarse la vida.
+
+<pad> es una estrategia para entrar a europa y atacarla desde dentro como hace mil a<unk>os hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada</s>
+{'precision': [0.7966042757034302], 'recall': [0.8288531303405762], 'f1': [0.8124088048934937], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.061224489795918366, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.3333333333333335, 'translation_length': 49, 'reference_length': 21}
+{'rouge1': 0.13114754098360654, 'rouge2': 0.0, 'rougeL': 0.09836065573770493, 'rougeLsum': 0.09836065573770493}
+0.40186643600463867
+---------------------------------------------------------
+la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5 | Colectivo: inmigraciòn | Propiedad: barbaros | Justificación: la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida (fact)  | Conclusión: marina lepen tiene razón nada d inmigrantes (policy)  | Pivot: inmigraciòn  -  inmigrantes
+No tiene sentido que alguien intente destruir el lugar donde vive. Esta gente va en busca de una mejor vida.
+
+<pad> es una estrategia para entrar a europa y atacarla desde dentro como hace mil a<unk>os hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada</s>
+{'precision': [0.8040431141853333], 'recall': [0.8405282497406006], 'f1': [0.8218809962272644], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10204081632653061, 0.020833333333333332, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.227272727272727, 'translation_length': 49, 'reference_length': 22}
+{'rouge1': 0.15873015873015872, 'rouge2': 0.03278688524590164, 'rougeL': 0.09523809523809525, 'rougeLsum': 0.09523809523809525}
+0.4257337152957916
+---------------------------------------------------------
+" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque ""no tienen dinero"" ""porque van en busca de una vida mejor"" y ademas ilegal https://t co/j2o2kr0ti2" | Colectivo: sudacas | Propiedad: violentando gente | Justificación: pasan por mi país violentando gente porque ""no tienen dinero"" ""porque van en busca de una vida mejor"" y ademas ilegal (fact)  | Conclusión: nosotros no son mas los sudacas y centroamirdicanos (fact)  | Pivot: 
+Que haya violencia quizás sea cierto. No te consta que hayan sido ellos los culpables. No puedes culpar a quién te cae mal, de todo.
+
+<pad> agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la <unk>nica manera que nos obligan a hacer es mantero sin</s>
+{'precision': [0.7950635552406311], 'recall': [0.819351315498352], 'f1': [0.8070247173309326], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.06, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7241379310344827, 'translation_length': 50, 'reference_length': 29}
+{'rouge1': 0.16666666666666669, 'rouge2': 0.0, 'rougeL': 0.08333333333333334, 'rougeLsum': 0.08333333333333334}
+0.43278995156288147
+---------------------------------------------------------
+" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque ""no tienen dinero"" ""porque van en busca de una vida mejor"" y ademas ilegal https://t co/j2o2kr0ti2" | Colectivo: sudacas | Propiedad: violentando gente | Justificación: pasan por mi país violentando gente porque ""no tienen dinero"" ""porque van en busca de una vida mejor"" y ademas ilegal (fact)  | Conclusión: nosotros no son mas los sudacas y centroamirdicanos (fact)  | Pivot: 
+No es cierto que los "sudacas" sean violentos. Estás siendo xenofobico.
+
+<pad> agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la <unk>nica manera que nos obligan a hacer es mantero sin</s>
+{'precision': [0.7872474193572998], 'recall': [0.8288655281066895], 'f1': [0.8075206279754639], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.04, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.3333333333333335, 'translation_length': 50, 'reference_length': 15}
+{'rouge1': 0.14035087719298245, 'rouge2': 0.0, 'rougeL': 0.07017543859649122, 'rougeLsum': 0.07017543859649122}
+0.5294319987297058
+---------------------------------------------------------
+estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh | Colectivo: negratas | Propiedad: robar | Justificación: estos putos negratas noos van a robar toda la pasta iñaqui (fact)  | Conclusión: menos mal que yo la tengo en panamá (value)  | Pivot: 
+Hasta donde yo se, tener todo el dinero en Panama tampoco es legal...
+
+<pad> yo la tengo en panamá</s>
+{'precision': [0.8674296736717224], 'recall': [0.8312298059463501], 'f1': [0.8489440679550171], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.16666666666666666, 0.0, 0.0, 0.0], 'brevity_penalty': 0.6592406302004439, 'length_ratio': 0.7058823529411765, 'translation_length': 12, 'reference_length': 17}
+{'rouge1': 0.2, 'rouge2': 0.0, 'rougeL': 0.2, 'rougeLsum': 0.2}
+0.6508086919784546
+---------------------------------------------------------
+estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh | Colectivo: negratas | Propiedad: robar | Justificación: estos putos negratas noos van a robar toda la pasta iñaqui (fact)  | Conclusión: menos mal que yo la tengo en panamá (value)  | Pivot: 
+Que asocien a los negros con los robos parece una excusa, o bien, que necesitan un chivo expiatorio.
+
+<pad> yo la tengo en panamá</s>
+{'precision': [0.831455647945404], 'recall': [0.79770427942276], 'f1': [0.8142303824424744], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.4723665527410147, 'length_ratio': 0.5714285714285714, 'translation_length': 12, 'reference_length': 21}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.42731279134750366
+---------------------------------------------------------
+estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh | Colectivo: negratas | Propiedad: robar | Justificación: estos putos negratas noos van a robar toda la pasta iñaqui (fact)  | Conclusión: menos mal que yo la tengo en panamá (value)  | Pivot: 
+Si bien existen algunos asaltos, no es cierto que haya un plan para robar todo el dinero de una porción de la sociedad. Estas siendo paranoico.
+
+<pad> yo la tengo en panamá</s>
+{'precision': [0.8230116367340088], 'recall': [0.7901183366775513], 'f1': [0.8062296509742737], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08333333333333333, 0.0, 0.0, 0.0], 'brevity_penalty': 0.24252107463564873, 'length_ratio': 0.41379310344827586, 'translation_length': 12, 'reference_length': 29}
+{'rouge1': 0.058823529411764705, 'rouge2': 0.0, 'rougeL': 0.058823529411764705, 'rougeLsum': 0.058823529411764705}
+0.3693429231643677
+---------------------------------------------------------
+que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg | Colectivo:  | Propiedad:  | Justificación: porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo (fact)  | Conclusión: que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos (fact)  | Pivot: 
+No creo que haya diferencia alguna, realmente...
+
+<pad> ) <unk>Qué nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo</s>
+{'precision': [0.7817685008049011], 'recall': [0.8194255828857422], 'f1': [0.8001542091369629], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.04, 0.02040816326530612, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 4.545454545454546, 'translation_length': 50, 'reference_length': 11}
+{'rouge1': 0.08333333333333334, 'rouge2': 0.04347826086956522, 'rougeL': 0.08333333333333334, 'rougeLsum': 0.08333333333333334}
+0.4157524108886719
+---------------------------------------------------------
+que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg | Colectivo:  | Propiedad:  | Justificación: porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo (fact)  | Conclusión: que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos (fact)  | Pivot: 
+Ese rechazo a los árabes, dejame decirte, es solo un prejuicio.
+
+<pad> ) <unk>Qué nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo</s>
+{'precision': [0.7906105518341064], 'recall': [0.836017370223999], 'f1': [0.812680184841156], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.06, 0.02040816326530612, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.5714285714285716, 'translation_length': 50, 'reference_length': 14}
+{'rouge1': 0.11538461538461536, 'rouge2': 0.04000000000000001, 'rougeL': 0.11538461538461536, 'rougeLsum': 0.11538461538461536}
+0.5014889240264893
+---------------------------------------------------------
+españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Propiedad: españa está siendo invadida por | Justificación: españa está siendo invadida por los subsaharianos (fact)  | Conclusión: y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto (value)  | Pivot: 
+No entiendo a qué te refieres, o qué te preocupa. Ni siquiera propones nada. No tiene mucho sentido lo qué dices.
+
+<pad> aqu<unk> don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag se<unk>orllevamépronto</s>
+{'precision': [0.7607581615447998], 'recall': [0.783271312713623], 'f1': [0.7718505859375], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.16, 'translation_length': 29, 'reference_length': 25}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.2680732011795044
+---------------------------------------------------------
+españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Propiedad: españa está siendo invadida por | Justificación: españa está siendo invadida por los subsaharianos (fact)  | Conclusión: y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto (value)  | Pivot: 
+Estas confundiendo las palabras inmigración e invasión, y sus significados son casi opuestos.
+
+<pad> aqu<unk> don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag se<unk>orllevamépronto</s>
+{'precision': [0.7724558115005493], 'recall': [0.8017441034317017], 'f1': [0.7868274450302124], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.9333333333333333, 'translation_length': 29, 'reference_length': 15}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.2866719365119934
+---------------------------------------------------------
+españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Propiedad: españa está siendo invadida por | Justificación: españa está siendo invadida por los subsaharianos (fact)  | Conclusión: y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto (value)  | Pivot: 
+No es cierto que España esté siendo invadida por nadie.
+
+<pad> aqu<unk> don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag se<unk>orllevamépronto</s>
+{'precision': [0.7700892686843872], 'recall': [0.8032892942428589], 'f1': [0.7863390445709229], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.6363636363636362, 'translation_length': 29, 'reference_length': 11}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.2434772402048111
+---------------------------------------------------------
+"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los ""lindos negritos visitantes"" estén estreñidos https://t co/mpuxy1wxnm" | Colectivo:  | Propiedad:  | Justificación: al menos hasta que los ""lindos negritos visitantes"" estén estreñidos (fact)  | Conclusión: deben abstenerse de acercarse a la valla de melilla (policy)  | Pivot: 
+No tienes el derecho a decidir quién puede estar en donde...
+
+<pad> ""lindos negritos visitantes"" estén estre<unk>idos</s>
+{'precision': [0.8057321310043335], 'recall': [0.8154572248458862], 'f1': [0.8105654716491699], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4285714285714286, 'translation_length': 20, 'reference_length': 14}
+{'rouge1': 0.0909090909090909, 'rouge2': 0.0, 'rougeL': 0.0909090909090909, 'rougeLsum': 0.0909090909090909}
+0.419078528881073
+---------------------------------------------------------
+"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los ""lindos negritos visitantes"" estén estreñidos https://t co/mpuxy1wxnm" | Colectivo:  | Propiedad:  | Justificación: al menos hasta que los ""lindos negritos visitantes"" estén estreñidos (fact)  | Conclusión: deben abstenerse de acercarse a la valla de melilla (policy)  | Pivot: 
+Queda claro, sin embargo, que el unico motivo por el que te caen mal, es que son negros. Racismo puro.
+
+<pad> ""lindos negritos visitantes"" estén estre<unk>idos</s>
+{'precision': [0.8228672742843628], 'recall': [0.8293858766555786], 'f1': [0.8261137008666992], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.7788007830714049, 'length_ratio': 0.8, 'translation_length': 20, 'reference_length': 25}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.37872374057769775
+---------------------------------------------------------
+hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo | Colectivo: árabe  -  árabe | Propiedad: machista | Justificación: te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo (fact)  | Conclusión: cultura árabe = cultura machista (fact)  | Pivot: machista  -  machismo
+Que haya algunos árabes machistas no implica que su cultura lo sea.  Aquí hay machistas también, y no dices que nuestra cultura sea machista.
+
+<pad> user descendencia árabe siguen inculcando el machismo</s>
+{'precision': [0.8389886617660522], 'recall': [0.8173409700393677], 'f1': [0.828023374080658], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.3951177613268873, 'length_ratio': 0.5185185185185185, 'translation_length': 14, 'reference_length': 27}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.5275433659553528
+---------------------------------------------------------
+hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo | Colectivo: árabe  -  árabe | Propiedad: machista | Justificación: te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo (fact)  | Conclusión: cultura árabe = cultura machista (fact)  | Pivot: machista  -  machismo
+No es cierto que todos los árabes sean machistas. Ademas hay tanto machismo en su cultura como en las demás.
+
+<pad> user descendencia árabe siguen inculcando el machismo</s>
+{'precision': [0.8523309230804443], 'recall': [0.8291720151901245], 'f1': [0.8405919671058655], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07142857142857142, 0.0, 0.0, 0.0], 'brevity_penalty': 0.5647181220077593, 'length_ratio': 0.6363636363636364, 'translation_length': 14, 'reference_length': 22}
+{'rouge1': 0.13333333333333333, 'rouge2': 0.0, 'rougeL': 0.13333333333333333, 'rougeLsum': 0.13333333333333333}
+0.656769335269928
+---------------------------------------------------------
+hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo | Colectivo: árabe  -  árabe | Propiedad: machista | Justificación: te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo (fact)  | Conclusión: cultura árabe = cultura machista (fact)  | Pivot: machista  -  machismo
+No es cierto que los árabes sean tan machistas como la propaganda racista dice.
+
+<pad> user descendencia árabe siguen inculcando el machismo</s>
+{'precision': [0.8542026281356812], 'recall': [0.8391908407211304], 'f1': [0.8466302156448364], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.9310627797040228, 'length_ratio': 0.9333333333333333, 'translation_length': 14, 'reference_length': 15}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.5959188938140869
+---------------------------------------------------------
+y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw | Colectivo: negros y arabes | Propiedad: causan problemas | Justificación: y en toda europa se estan matando y violando a millones y millones de blancos (fact)  | Conclusión: pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas (fact)  | Pivot: 
+Es dificil mencionar algo tan delirante como eso cuando se intenta ser objetivo. Es normal que no se mencione.
+
+<pad> tampoco mencionas que esos negros y arabes causan problemas</s>
+{'precision': [0.8576875925064087], 'recall': [0.8353133201599121], 'f1': [0.8463526368141174], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0625, 0.0, 0.0, 0.0], 'brevity_penalty': 0.7316156289466418, 'length_ratio': 0.7619047619047619, 'translation_length': 16, 'reference_length': 21}
+{'rouge1': 0.06666666666666667, 'rouge2': 0.0, 'rougeL': 0.06666666666666667, 'rougeLsum': 0.06666666666666667}
+0.4007419943809509
+---------------------------------------------------------
+y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw | Colectivo: negros y arabes | Propiedad: causan problemas | Justificación: y en toda europa se estan matando y violando a millones y millones de blancos (fact)  | Conclusión: pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas (fact)  | Pivot: 
+Dices que los árabes y negros causan problemas, pero no es cierto. Como en todos lados, algunos quizá delinquen, muchos otros trabajan y aportan.
+
+<pad> tampoco mencionas que esos negros y arabes causan problemas</s>
+{'precision': [0.8900485038757324], 'recall': [0.8482582569122314], 'f1': [0.8686510324478149], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.3125, 0.06666666666666667, 0.0, 0.0], 'brevity_penalty': 0.44374731008107987, 'length_ratio': 0.5517241379310345, 'translation_length': 16, 'reference_length': 29}
+{'rouge1': 0.28571428571428575, 'rouge2': 0.06060606060606061, 'rougeL': 0.2285714285714286, 'rougeLsum': 0.2285714285714286}
+0.8240160942077637
+---------------------------------------------------------
+y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw | Colectivo: negros y arabes | Propiedad: causan problemas | Justificación: y en toda europa se estan matando y violando a millones y millones de blancos (fact)  | Conclusión: pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas (fact)  | Pivot: 
+Lo dices como si Europa estuviera en guerra. ¿Hay delito? Sí. ¿Genocidio? Estas siendo paranoico.
+
+<pad> tampoco mencionas que esos negros y arabes causan problemas</s>
+{'precision': [0.8398400545120239], 'recall': [0.8155826330184937], 'f1': [0.8275336027145386], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.7788007830714049, 'length_ratio': 0.8, 'translation_length': 16, 'reference_length': 20}
+{'rouge1': 0.07692307692307691, 'rouge2': 0.0, 'rougeL': 0.07692307692307691, 'rougeLsum': 0.07692307692307691}
+0.4310201406478882
+---------------------------------------------------------
+@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa | Colectivo: subsaharianos | Propiedad: tirados  -  vendiendo copias | Justificación: con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos (fact)  | Conclusión: en ciudades y pueblos estamos llenos a su casa (policy)  | Pivot: hay demasiados  -  estamos llenos
+Dices que están llenos porque en realidad no quieres que haya ninguno. ¿O acaso dejarías que se queden los que ya están aquí? Solo estas siendo racista.
+
+<pad> aqu<unk> hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroqu<unk>es donde trabaja el y viven la mujer 4 ni<unk>os y 4 abuelos en ciudades</s>
+{'precision': [0.7705538868904114], 'recall': [0.7910113334655762], 'f1': [0.7806486487388611], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.02, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.6666666666666667, 'translation_length': 50, 'reference_length': 30}
+{'rouge1': 0.057971014492753624, 'rouge2': 0.0, 'rougeL': 0.028985507246376812, 'rougeLsum': 0.028985507246376812}
+0.45743539929389954
+---------------------------------------------------------
+@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa | Colectivo: subsaharianos | Propiedad: tirados  -  vendiendo copias | Justificación: con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos (fact)  | Conclusión: en ciudades y pueblos estamos llenos a su casa (policy)  | Pivot: hay demasiados  -  estamos llenos
+No es cierto que anden "tirados, vendiendo copias". Además ser vendedor ambulante es un empleo tan digno como cualquier otro.
+
+<pad> aqu<unk> hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroqu<unk>es donde trabaja el y viven la mujer 4 ni<unk>os y 4 abuelos en ciudades</s>
+{'precision': [0.7949116230010986], 'recall': [0.8182581663131714], 'f1': [0.8064159154891968], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08, 0.02040816326530612, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 50, 'reference_length': 25}
+{'rouge1': 0.16666666666666666, 'rouge2': 0.034482758620689655, 'rougeL': 0.13333333333333333, 'rougeLsum': 0.13333333333333333}
+0.49898800253868103
+---------------------------------------------------------
+@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa | Colectivo: subsaharianos | Propiedad: tirados  -  vendiendo copias | Justificación: con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos (fact)  | Conclusión: en ciudades y pueblos estamos llenos a su casa (policy)  | Pivot: hay demasiados  -  estamos llenos
+No es cierto que seamos demasiados, como tampoco es verdad lo que dices de ellos.
+
+<pad> aqu<unk> hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroqu<unk>es donde trabaja el y viven la mujer 4 ni<unk>os y 4 abuelos en ciudades</s>
+{'precision': [0.7791012525558472], 'recall': [0.8260006904602051], 'f1': [0.801865816116333], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.04, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.9411764705882355, 'translation_length': 50, 'reference_length': 17}
+{'rouge1': 0.07407407407407407, 'rouge2': 0.0, 'rougeL': 0.07407407407407407, 'rougeLsum': 0.07407407407407407}
+0.4694986939430237
+---------------------------------------------------------
+obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña | Colectivo: moro | Propiedad: mierdas que han abusado en tudela de una niña | Justificación: 3 moro mierdas que han abusado en tudela de una niña (fact)  | Conclusión: obviamente @user no iba a desvelar la nacionalidad de los 3 (fact)  | Pivot: 
+Pues quizás porque no es relevante realmente.
+
+<pad> obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una ni<unk>a</s>
+{'precision': [0.779549241065979], 'recall': [0.8101137280464172], 'f1': [0.7945376038551331], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.030303030303030304, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 4.125, 'translation_length': 33, 'reference_length': 8}
+{'rouge1': 0.12121212121212122, 'rouge2': 0.0, 'rougeL': 0.06060606060606061, 'rougeLsum': 0.06060606060606061}
+0.3789583742618561
+---------------------------------------------------------
+obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña | Colectivo: moro | Propiedad: mierdas que han abusado en tudela de una niña | Justificación: 3 moro mierdas que han abusado en tudela de una niña (fact)  | Conclusión: obviamente @user no iba a desvelar la nacionalidad de los 3 (fact)  | Pivot: 
+Que sea moro no tiene nada que ver. Hay tantos violadores moros como en cualquier otro grupo.
+
+<pad> obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una ni<unk>a</s>
+{'precision': [0.7896683812141418], 'recall': [0.8124231100082397], 'f1': [0.8008840680122375], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12121212121212122, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.736842105263158, 'translation_length': 33, 'reference_length': 19}
+{'rouge1': 0.19047619047619052, 'rouge2': 0.0, 'rougeL': 0.14285714285714282, 'rougeLsum': 0.14285714285714282}
+0.41571640968322754
+---------------------------------------------------------
+obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña | Colectivo: moro | Propiedad: mierdas que han abusado en tudela de una niña | Justificación: 3 moro mierdas que han abusado en tudela de una niña (fact)  | Conclusión: obviamente @user no iba a desvelar la nacionalidad de los 3 (fact)  | Pivot: 
+Es muy triste que ocurra eso, pero si te enfocas solo en su nacionalidad, estas dejando ver que es lo unico que te importa.
+
+<pad> obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una ni<unk>a</s>
+{'precision': [0.7987056374549866], 'recall': [0.8145473003387451], 'f1': [0.8065487146377563], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09090909090909091, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.2222222222222223, 'translation_length': 33, 'reference_length': 27}
+{'rouge1': 0.12244897959183673, 'rouge2': 0.0, 'rougeL': 0.08163265306122448, 'rougeLsum': 0.08163265306122448}
+0.48579585552215576
+---------------------------------------------------------
+asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7 | Colectivo:  | Propiedad:  | Justificación: asiaticos devastados por la guerra hoy tienen mejor estructura que chilito (fact)  | Conclusión: cosas sudacas (value)  | Pivot: chilito  -  sudacas
+Pues no, no es porque sean "sudacas", sino porque sus circunstancias materiales son diferentes.
+
+<pad> | Propiedad: | Justificación: asiaticos devastados por la guerra hoy tienen mejor estructura que chilito (fact) | Conclusión: cosas sudacas (value) | Pivot:</s>
+{'precision': [0.803722620010376], 'recall': [0.8030537962913513], 'f1': [0.8033879995346069], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.02631578947368421, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 38, 'reference_length': 19}
+{'rouge1': 0.05405405405405405, 'rouge2': 0.0, 'rougeL': 0.05405405405405405, 'rougeLsum': 0.05405405405405405}
+0.5384477972984314
+---------------------------------------------------------
+asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7 | Colectivo:  | Propiedad:  | Justificación: asiaticos devastados por la guerra hoy tienen mejor estructura que chilito (fact)  | Conclusión: cosas sudacas (value)  | Pivot: chilito  -  sudacas
+Son dos circunstancias muy diferentes, no puedes comparar de forma tan simplificada.
+
+<pad> | Propiedad: | Justificación: asiaticos devastados por la guerra hoy tienen mejor estructura que chilito (fact) | Conclusión: cosas sudacas (value) | Pivot:</s>
+{'precision': [0.7955832481384277], 'recall': [0.8001978993415833], 'f1': [0.797883927822113], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.7142857142857144, 'translation_length': 38, 'reference_length': 14}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.30365315079689026
+---------------------------------------------------------
+atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn | Colectivo: subsaharianos | Propiedad: invasión | Justificación: atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos (fact)  | Conclusión: hashtag defiendeespaña elecciones ya (policy)  | Pivot: 
+Dudo que las elecciones puedan cambiar algo. Esas políticas están reguladas por leyes, no por el capricho del gobierno de turno, y esta bien que así sea. 
+
+<pad>teamericana</s>
+{'precision': [0.7943674921989441], 'recall': [0.7646892666816711], 'f1': [0.779245913028717], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.05641613950377735, 'length_ratio': 0.25806451612903225, 'translation_length': 8, 'reference_length': 31}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.11787283420562744
+---------------------------------------------------------
+atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn | Colectivo: subsaharianos | Propiedad: invasión | Justificación: atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos (fact)  | Conclusión: hashtag defiendeespaña elecciones ya (policy)  | Pivot: 
+Hablar de invasión en vez de migración, en el contexto actual, es sacar a relucir tu racismo.
+
+<pad>teamericana</s>
+{'precision': [0.7968248128890991], 'recall': [0.7755956649780273], 'f1': [0.7860668897628784], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.22313016014842982, 'length_ratio': 0.4, 'translation_length': 8, 'reference_length': 20}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.09198599308729172
+---------------------------------------------------------
+atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn | Colectivo: subsaharianos | Propiedad: invasión | Justificación: atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos (fact)  | Conclusión: hashtag defiendeespaña elecciones ya (policy)  | Pivot: 
+¿Y a donde se publico tal informe, y por qué deberíamos confiar en la inteligencia de otro país?
+
+<pad>teamericana</s>
+{'precision': [0.7902675867080688], 'recall': [0.753012478351593], 'f1': [0.7711902856826782], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.22313016014842982, 'length_ratio': 0.4, 'translation_length': 8, 'reference_length': 20}
+{'rouge1': 0.08695652173913045, 'rouge2': 0.0, 'rougeL': 0.08695652173913045, 'rougeLsum': 0.08695652173913045}
+0.1273162066936493
+---------------------------------------------------------
+que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto | Colectivo:  | Propiedad:  | Justificación: soy negro pero tampoco para tanto (fact)  | Conclusión: que les pasa a todos que me quieren hacer usar turbante de arabe (value)  | Pivot: 
+Tranquilo, nadie te va a obligar a nada.
+
+<pad> | Propiedad: | Justificación: soy negro pero tampoco para tanto (fact) | Conclusión: que les pasa a todos que me quieren hacer usar turbante de arabe (value) | Pivot:</s>
+{'precision': [0.774698793888092], 'recall': [0.7808033227920532], 'f1': [0.7777389883995056], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.022727272727272728, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 4.4, 'translation_length': 44, 'reference_length': 10}
+{'rouge1': 0.05405405405405405, 'rouge2': 0.0, 'rougeL': 0.05405405405405405, 'rougeLsum': 0.05405405405405405}
+0.3608779311180115
+---------------------------------------------------------
+" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia"" pues que se quede allí indefinidamente " | Colectivo: manteros | Propiedad: atacan a turistas | Justificación: mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia"" (fact)  | Conclusión: pues que se quede allí indefinidamente (policy)  | Pivot: 
+Lo dices solo porque te caen mal los inmigrantes, y eso. Realmente no es que este mal lo que hizo.
+
+<pad> el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia""</s>
+{'precision': [0.79607754945755], 'recall': [0.8242915868759155], 'f1': [0.809938907623291], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.06060606060606061, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.434782608695652, 'translation_length': 33, 'reference_length': 23}
+{'rouge1': 0.08888888888888889, 'rouge2': 0.04651162790697675, 'rougeL': 0.08888888888888889, 'rougeLsum': 0.08888888888888889}
+0.53178870677948
+---------------------------------------------------------
+" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia"" pues que se quede allí indefinidamente " | Colectivo: manteros | Propiedad: atacan a turistas | Justificación: mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia"" (fact)  | Conclusión: pues que se quede allí indefinidamente (policy)  | Pivot: 
+Estas suponiendo que solo los manteros agreden personas, y eso es prejuicioso. Ademas, no es cierto
+
+<pad> el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia""</s>
+{'precision': [0.8025040626525879], 'recall': [0.8181596994400024], 'f1': [0.8102562427520752], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.030303030303030304, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.736842105263158, 'translation_length': 33, 'reference_length': 19}
+{'rouge1': 0.048780487804878044, 'rouge2': 0.0, 'rougeL': 0.048780487804878044, 'rougeLsum': 0.048780487804878044}
+0.37771832942962646
+---------------------------------------------------------
+" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia"" pues que se quede allí indefinidamente " | Colectivo: manteros | Propiedad: atacan a turistas | Justificación: mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia"" (fact)  | Conclusión: pues que se quede allí indefinidamente (policy)  | Pivot: 
+No entiendo que tiene de malo que se de "un ejemplo de acogida, integración y lucha contra la xenofobia".  Además, los manteros y las agresiones a turistas no tienen nada que ver.
+
+<pad> el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un ""ejemplo de acogida integración y lucha contra la xenofobia""</s>
+{'precision': [0.8754358291625977], 'recall': [0.855130672454834], 'f1': [0.8651641607284546], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.19999042854865295, 'precisions': [0.45454545454545453, 0.25, 0.1935483870967742, 0.13333333333333333], 'brevity_penalty': 0.8594048608885094, 'length_ratio': 0.868421052631579, 'translation_length': 33, 'reference_length': 38}
+{'rouge1': 0.5084745762711865, 'rouge2': 0.3508771929824562, 'rougeL': 0.4406779661016949, 'rougeLsum': 0.4406779661016949}
+0.5851532220840454
+---------------------------------------------------------
+80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii | Colectivo: inmigrantes | Propiedad: enviados para invadir españa | Justificación: 80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc (fact)  | Conclusión: ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? (fact)  | Pivot: marruecos  -  marruecos
+¿Quién puede tener un proyecto a tan largo plazo para invadir España, como para enviar menores de edad? No tiene sentido.
+
+<pad>? <unk>son inmigrantes o enviados para invadir espa<unk></s>
+{'precision': [0.8327186107635498], 'recall': [0.8171679377555847], 'f1': [0.8248699307441711], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14285714285714285, 0.05, 0.0, 0.0], 'brevity_penalty': 0.8668778997501817, 'length_ratio': 0.875, 'translation_length': 21, 'reference_length': 24}
+{'rouge1': 0.1764705882352941, 'rouge2': 0.12500000000000003, 'rougeL': 0.1764705882352941, 'rougeLsum': 0.1764705882352941}
+0.33192741870880127
+---------------------------------------------------------
+80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii | Colectivo: inmigrantes | Propiedad: enviados para invadir españa | Justificación: 80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc (fact)  | Conclusión: ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? (fact)  | Pivot: marruecos  -  marruecos
+Son menores! no pueden tener ninguna intención de invadir, seguro ni siquiera entienden lo que eso significa.
+
+<pad>? <unk>son inmigrantes o enviados para invadir espa<unk></s>
+{'precision': [0.821976363658905], 'recall': [0.800471305847168], 'f1': [0.8110812902450562], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.047619047619047616, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.05, 'translation_length': 21, 'reference_length': 20}
+{'rouge1': 0.13793103448275862, 'rouge2': 0.0, 'rougeL': 0.13793103448275862, 'rougeLsum': 0.13793103448275862}
+0.3861883580684662
+---------------------------------------------------------
+80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii | Colectivo: inmigrantes | Propiedad: enviados para invadir españa | Justificación: 80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc (fact)  | Conclusión: ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? (fact)  | Pivot: marruecos  -  marruecos
+80000? Estas seguro que es una noticia real y no solo un rumor? Porque suena inventado.
+
+<pad>? <unk>son inmigrantes o enviados para invadir espa<unk></s>
+{'precision': [0.7963746786117554], 'recall': [0.8035646677017212], 'f1': [0.7999535202980042], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.047619047619047616, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.105263157894737, 'translation_length': 21, 'reference_length': 19}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.23163890838623047
+---------------------------------------------------------
+los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w | Colectivo: subsaharianos | Propiedad: se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones | Justificación: los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones (fact)  | Conclusión: no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales (fact)  | Pivot: 
+Tampoco hay que ridiculizar al punto de vista opuesto. Seguro vienen buscando una mejor vida, y ya.
+
+<pad> Genera una respuesta sin odio</s>
+{'precision': [0.8651992082595825], 'recall': [0.8048474788665771], 'f1': [0.8339328169822693], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08333333333333333, 0.0, 0.0, 0.0], 'brevity_penalty': 0.513417119032592, 'length_ratio': 0.6, 'translation_length': 12, 'reference_length': 20}
+{'rouge1': 0.08333333333333333, 'rouge2': 0.0, 'rougeL': 0.08333333333333333, 'rougeLsum': 0.08333333333333333}
+0.38592857122421265
+---------------------------------------------------------
+los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w | Colectivo: subsaharianos | Propiedad: se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones | Justificación: los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones (fact)  | Conclusión: no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales (fact)  | Pivot: 
+No es cierto que se organicen para "robar" nuestras jubilaciones. Nuestras jubilaciones no estan en riesgo por unos inmigrantes.
+
+<pad> Genera una respuesta sin odio</s>
+{'precision': [0.8510565161705017], 'recall': [0.8140988945960999], 'f1': [0.8321675658226013], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 0.3998496543448473, 'length_ratio': 0.5217391304347826, 'translation_length': 12, 'reference_length': 23}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.3508131504058838
+========================================
+F1 AVG:
+2.109981293678284
+Bleu AVG:
+0.007999617141946119
+Rouge AVG:
+0.22181898948913545
+SBERT AVG:
+1.04629531532526

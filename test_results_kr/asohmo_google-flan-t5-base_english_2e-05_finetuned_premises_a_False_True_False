@@ -1,0 +1,1251 @@
+---------------------------------------------------------
+@user @user @user wrong none are refugees zero the are economic migrants/invaders colonizing at the expense of host countries while pretending to be "asylum seekers" they are a disaster for the countries that allow this to hap | Justification: wrong none are refugees zero the are economic migrants/invaders colonizing at the expense of host countries while pretending to be "asylum seekers" (fact)  | Conclusion: they are a disaster for the countries that allow this to hap (fact)  | Pivot: host countries  -  countries that allow
+In general, in countries that accept them, nothing happens. "Nothing happens" can't be a disaster
+
+<pad><SCN> I don't see how they are a disaster for the host countries. They are just a bunch of immigrants who are trying to make a living. <ECN></s>
+{'precision': [0.8491573333740234], 'recall': [0.8774182796478271], 'f1': [0.8630565404891968], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0975609756097561, 0.025, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.05, 'translation_length': 41, 'reference_length': 20}
+{'rouge1': 0.1702127659574468, 'rouge2': 0.04444444444444444, 'rougeL': 0.12765957446808507, 'rougeLsum': 0.12765957446808507}
+0.3522055149078369
+---------------------------------------------------------
+a valedictorian daca illegal (is there any other kind?)took time out of her busy brain surgeon scheduleto smuggle smore4 0 med students &amp quantum physicists illegal s into the us she musta heard that we were gonna use a merit-based immigration system https://t co/bppfv8har5 | Justification: a valedictorian daca illegal (is there any other kind?)took time out of her busy brain surgeon scheduleto smuggle smore4 0 med students &amp quantum physicists illegal s into the us (fact)  | Conclusion: she musta heard that we were gonna use a merit-based immigration system (fact)  | Pivot: illegal s  -  immigration
+What a great sarcasm. It's funny you talk about merits while wasting your time here. Tell me, doctor, are you on your break?
+
+<pad><SCN> I don't know what you are talking about, but I think it's a good thing that you don't have to be a valedictorian to believe that we are going to use a merit-based immigration system. <ECN></s>
+{'precision': [0.8175895810127258], 'recall': [0.8488172292709351], 'f1': [0.8329108357429504], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7857142857142858, 'translation_length': 50, 'reference_length': 28}
+{'rouge1': 0.2388059701492537, 'rouge2': 0.030769230769230767, 'rougeL': 0.14925373134328357, 'rougeLsum': 0.14925373134328357}
+0.2917216420173645
+---------------------------------------------------------
+wow - nz play the weak fascist snowflake backwards little brother to australia - i suspect they will not be taking refugees from the uk caliphate - shameful - i really hope your people get ashamed in time to save yourselves nz https://t co/xbncqihcme | Justification: wow - nz play the weak fascist snowflake backwards little brother to australia - i suspect they will not be taking refugees from the uk caliphate - (value)  | Conclusion: shameful - i really hope your people get ashamed in time to save yourselves nz (value)  | Pivot: nz  -  nz
+Not accepting refugees is not "saving themselves". It's just not accepting refugees (and it's wrong).
+
+<pad><SCN> I don't think you're playing the weak fascist snowflake backwards. It's a shameful thing to do. I hope your people get ashamed in time to save yourselves <ECN></s>
+{'precision': [0.8191436529159546], 'recall': [0.8548653721809387], 'f1': [0.8366233706474304], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07142857142857142, 0.024390243902439025, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 42, 'reference_length': 21}
+{'rouge1': 0.11764705882352942, 'rouge2': 0.04081632653061225, 'rougeL': 0.11764705882352942, 'rougeLsum': 0.11764705882352942}
+0.17789441347122192
+---------------------------------------------------------
+"@user the disgrace is the illegal parent who brought their kids on their cirme spree to illegally invade the u s so taxpayers pay for their kids education wic and medicaid we dont owe illegals our tax dollars hashtag sendthemback hashtag walkaway hashtag trump hashtag maga hashtag rednationrising" | Justification: we dont owe illegals our tax dollars (fact)  | Conclusion: the disgrace is the illegal parent who brought their kids on their cirme spree to illegally invade the u s so taxpayers pay for their kids education wic and medicaid (fact)  | Pivot: taxpayers  -  tax dollars
+Perhaps, but even if you are right, the state must do something about the disgraces. We can't just watch people suffer.
+
+<pad><SCN> I don't understand why you are blaming the illegals for what you do. You are just trying to get people to pay for what you don't do. <ECN></s>
+{'precision': [0.8417718410491943], 'recall': [0.8650638461112976], 'f1': [0.8532588481903076], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.19047619047619047, 0.024390243902439025, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.68, 'translation_length': 42, 'reference_length': 25}
+{'rouge1': 0.2545454545454546, 'rouge2': 0.03773584905660377, 'rougeL': 0.21818181818181817, 'rougeLsum': 0.21818181818181817}
+0.15486016869544983
+---------------------------------------------------------
+under obama illegal aliens claim credible fear at the border once released into the us they never applied for asylum - deport asap stop the hashtag asylum scam hashtag trump hashtag maga hashtag sendthemback hashtag immigration hashtag rednationrising https://t co/p5s2oaxbjj | Justification: under obama illegal aliens claim credible fear at the border once released into the us they never applied for asylum (fact)  | Conclusion: deport asap stop the hashtag asylum scam (policy)  | Pivot: asylum  -  asylum
+Okay, someone found a little glitch in the system, let's fix it by kicking out all the immigrants... Typical xenophobe...v
+
+<pad><SCN> I don't see how you can stop the asylum scam. It's a scam, you know? <ECN></s>
+{'precision': [0.8359758853912354], 'recall': [0.860137403011322], 'f1': [0.847884476184845], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12903225806451613, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0689655172413792, 'translation_length': 31, 'reference_length': 29}
+{'rouge1': 0.18604651162790697, 'rouge2': 0.0, 'rougeL': 0.09302325581395349, 'rougeLsum': 0.09302325581395349}
+0.3043690025806427
+---------------------------------------------------------
+@user " can you think of a place that has been improved by mass immigration or the movements of large numbers of refugees ?" "not one the immigration policies in europe are a disaster youre destroying europe youre destroying the cultureâ | Justification: can you think of a place that has been improved by mass immigration or the movements of large numbers of refugees ?" (fact)  | Conclusion: "not one the immigration policies in europe are a disaster youre destroying europe youre destroying the cultureâ (fact)  | Pivot: immigration  -  immigration
+Just because something hasn't happened yet doesn't mean it can't happen....
+
+<pad><SCN> I don't think you are destroying the culture. You are destroying a country, not a culture. <ECN></s>
+{'precision': [0.843174397945404], 'recall': [0.8279037475585938], 'f1': [0.8354692459106445], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0625, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.1333333333333333, 'translation_length': 32, 'reference_length': 15}
+{'rouge1': 0.057142857142857134, 'rouge2': 0.0, 'rougeL': 0.057142857142857134, 'rougeLsum': 0.057142857142857134}
+0.042073022574186325
+---------------------------------------------------------
+caucasians not welcome in europe nwo intentions are to eradicate all traces of white skinned people known as the kalergi white genocide plan this is why these only so called refugees allowed to settle in europe are all dark skinned no white skinned https://t co/tupgwexmtx | Justification: nwo intentions are to eradicate all traces of white skinned people known as the kalergi white genocide plan (fact)  | Conclusion: this is why these only so called refugees allowed to settle in europe are all dark skinned no white skinned (fact)  | Pivot: white skinned  -  white skinned
+Doesn't make sense, whites perpetuating a white genocide? What's next, serial suicide? lol.
+
+<pad><SCN> I don't understand why you would want to eradicate all traces of white skinned people. It's not like you are a racist. <ECN></s>
+{'precision': [0.8288885354995728], 'recall': [0.8501504063606262], 'f1': [0.8393847942352295], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08108108108108109, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0555555555555554, 'translation_length': 37, 'reference_length': 18}
+{'rouge1': 0.18604651162790697, 'rouge2': 0.0, 'rougeL': 0.13953488372093023, 'rougeLsum': 0.13953488372093023}
+0.40555232763290405
+---------------------------------------------------------
+jihadists in action more reason to hashtag sendthemback hashtag auspol @user @user @user | Justification: jihadists in action more reason to hashtag sendthemback (fact)  | Conclusion: hashtag sendthemback (policy)  | Pivot: 
+To those who commit crimes, okay, but the others, what is their fault? You are generalizing, and getting the wrong conclusions.
+
+<pad><SCN> Sending them back is not the same as sending them back, it's just that you don't like them. <ECN></s>
+{'precision': [0.8299340009689331], 'recall': [0.8476660847663879], 'f1': [0.8387062549591064], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12121212121212122, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.2222222222222223, 'translation_length': 33, 'reference_length': 27}
+{'rouge1': 0.13333333333333333, 'rouge2': 0.0, 'rougeL': 0.08888888888888889, 'rougeLsum': 0.08888888888888889}
+-0.002196121960878372
+---------------------------------------------------------
+hashtag buildthatwallnow i do not want those vile thugs in our country hashtag endchainmigration hashtag endsanctuarycities hashtag endvisalottery hashtag angelfamlies | Justification: i do not want those vile thugs in our country (value)  | Conclusion: hashtag buildthatwallnow (policy)  | Pivot: 
+We're not going to build a wall just because you don't like your neighbors.
+
+<pad><SCN> I don't think we should build a wall to stop vile thugs from entering our country. It's not a good idea. <ECN></s>
+{'precision': [0.8523332476615906], 'recall': [0.8872257471084595], 'f1': [0.8694295883178711], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.19444444444444445, 0.05714285714285714, 0.029411764705882353, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.4, 'translation_length': 36, 'reference_length': 15}
+{'rouge1': 0.37209302325581395, 'rouge2': 0.14634146341463417, 'rougeL': 0.18604651162790697, 'rougeLsum': 0.18604651162790697}
+0.45867374539375305
+---------------------------------------------------------
+un wants ˜immediate halt to separation of migrant families in us https://t co/v63incrjin tell the un to kiss our azs and stay out of our business | Justification: un wants ˜immediate halt to separation of migrant families in us (fact)  | Conclusion: tell the un to kiss our azs and stay out of our business (policy)  | Pivot: un  -  un
+Well, you're going to make some enemies that way. Particularly because the UN is right
+
+<pad><SCN> I don't understand why you want to tell the un to kiss our azs and stay out of our business. It's a joke. <ECN></s>
+{'precision': [0.824526309967041], 'recall': [0.8486225605010986], 'f1': [0.8364009261131287], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07894736842105263, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.235294117647059, 'translation_length': 38, 'reference_length': 17}
+{'rouge1': 0.17777777777777778, 'rouge2': 0.046511627906976744, 'rougeL': 0.17777777777777778, 'rougeLsum': 0.17777777777777778}
+0.5493345260620117
+---------------------------------------------------------
+" apparently @user considered setting annual refugee admissions cap at 5 000 hashtag refugees if that low number was admitted it would blow to smithereens the budgets of nine federal resettlement contractors learn who the nine supposed charities are https://t co/4d0drr2zar https://t co/yqfsnzqyuu" | Justification: apparently @user considered setting annual refugee admissions cap at 5 000 hashtag refugees (fact)  | Conclusion: if that low number was admitted it would blow to smithereens the budgets of nine federal resettlement contractors (fact)  | Pivot: 
+If they were only concerned about the "quality" of the immigrants, as they say, then they wouldn't worry about "quantity", don't you think?
+
+<pad><SCN> I don't think it's a bad idea to set a refugee admissions cap. It's not a good idea. <ECN></s>
+{'precision': [0.8384718894958496], 'recall': [0.8390301465988159], 'f1': [0.8387508988380432], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.06060606060606061, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.064516129032258, 'translation_length': 33, 'reference_length': 31}
+{'rouge1': 0.12, 'rouge2': 0.041666666666666664, 'rougeL': 0.12, 'rougeLsum': 0.12}
+0.13328932225704193
+---------------------------------------------------------
+we need to show people more of whats really happening in the eu countries who have open borders @user @user @user @user @user @user hashtag buildthatwall hashtag wakeupamerica @user hashtag maga hashtag tuesdaythoughts | Justification: whats really happening in the eu countries who have open borders (fact)  | Conclusion: we need to show people more of whats really happening in the eu (policy)  | Pivot: 
+Nothing is happening because of open borders. The fact that it happens there means nothing.
+
+<pad><SCN> I don't think you're going to be able to show people more of what's really happening in the EU. It's just a matter of time. <ECN></s>
+{'precision': [0.8320517539978027], 'recall': [0.8646984100341797], 'f1': [0.8480610251426697], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.3529411764705883, 'translation_length': 40, 'reference_length': 17}
+{'rouge1': 0.16666666666666666, 'rouge2': 0.0, 'rougeL': 0.12500000000000003, 'rougeLsum': 0.12500000000000003}
+0.2593926191329956
+---------------------------------------------------------
+learn from most of hashtag europe thats been hashtag invaded by mostly muslims then look at hashtag italy hashtag poland & others who elected politicians to hashtag stopim migration & hashtag deportillegals hashtag sweden & hashtag germany now trying to reverse the huge mistakes of unlimited migration of ppl who refuse to hashtag assimilate | Justification: then look at hashtag italy hashtag poland & others who elected politicians to hashtag stopim migration & hashtag deportillegals hashtag sweden & hashtag germany now trying to reverse the huge mistakes of unlimited migration of ppl who refuse to hashtag assimilate (fact)  | Conclusion: learn from most of hashtag europe thats been hashtag invaded by mostly muslims (policy)  | Pivot: muslims  -  migration  -  migration
+There is nothing to "learn", because one learns from mistakes, and there was no "mistake".
+
+<pad><SCN> I don't know what you are talking about, but if you don't understand it, you can't learn from it. <ECN></s>
+{'precision': [0.8318523168563843], 'recall': [0.847309947013855], 'f1': [0.8395099639892578], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14285714285714285, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.5909090909090908, 'translation_length': 35, 'reference_length': 22}
+{'rouge1': 0.0975609756097561, 'rouge2': 0.0, 'rougeL': 0.0975609756097561, 'rougeLsum': 0.0975609756097561}
+0.18718500435352325
+---------------------------------------------------------
+orban declares easterneurope free of refugees he says that soros want to make europe to a multiculturell society which is poor https://t co/puqlwnxtyj | Justification: orban declares easterneurope free of refugees he says that soros want to make europe to a multiculturell society (fact)  | Conclusion: soros want to make europe to a multiculturell society (fact)  | Pivot: 
+That sounds like an excuse. He knows what he is doing is not right.
+
+<pad><SCN> I don't understand what he is trying to do. He is trying to make Europe a multiculturell society, not a poor society. <ECN></s>
+{'precision': [0.840008020401001], 'recall': [0.8822248578071594], 'f1': [0.8605990409851074], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.21052631578947367, 0.08108108108108109, 0.027777777777777776, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.375, 'translation_length': 38, 'reference_length': 16}
+{'rouge1': 0.29268292682926833, 'rouge2': 0.10256410256410257, 'rougeL': 0.24390243902439024, 'rougeLsum': 0.24390243902439024}
+0.13997392356395721
+---------------------------------------------------------
+americans agree with @user on hashtag immigration we can not afford to give welfare to illegals while u s citizens are homeless hashtag votedemsout hashtag familiesbelongtogethermarch https://t co/f3dteejp34 | Justification: americans agree with @user on hashtag immigration (fact)  | Conclusion: we can not afford to give welfare to illegals while u s citizens are homeless (fact)  | Pivot: immigration  -  illegals
+I think there is sufficient for everyone. Unless you're suggesting not giving it to anyone, but I don't think that's what you're proposing, is it?
+
+<pad><SCN> I don't see how you can afford to give welfare to people who are homeless. You can't afford to give it to them. <ECN></s>
+{'precision': [0.844612181186676], 'recall': [0.8587120771408081], 'f1': [0.8516037464141846], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.13157894736842105, 0.05405405405405406, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3103448275862069, 'translation_length': 38, 'reference_length': 29}
+{'rouge1': 0.27586206896551724, 'rouge2': 0.10714285714285714, 'rougeL': 0.1724137931034483, 'rougeLsum': 0.1724137931034483}
+0.3044458031654358
+---------------------------------------------------------
+iranians either entered via greece or serbia which recklessly grants visas to iranians some iranians now fly into serbia ðÿ‰then leave for richer state in eu indirect support of illegal migration must end or others must impose sanctions on serbia to adjust attitude @user https://t co/pzhlgojaxc | Justification: iranians either entered via greece or serbia which recklessly grants visas to iranians some iranians now fly into serbia ðÿ‰then leave for richer state in eu (fact)  | Conclusion: indirect support of illegal migration must end or others must impose sanctions on serbia to adjust attitude (policy)  | Pivot: serbia  -  serbia  -  serbia
+You want to sanction other states because they don't follow the immigration policy you would like them to follow? You should respect democracy and the right to autodetermination a little more
+
+<pad><SCN> I don't understand why you are blaming the immigrants for what you are doing. It's not like you are imposing sanctions on them for what you do. <ECN></s>
+{'precision': [0.8405991792678833], 'recall': [0.8413263559341431], 'f1': [0.8409625887870789], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11904761904761904, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3125, 'translation_length': 42, 'reference_length': 32}
+{'rouge1': 0.24615384615384617, 'rouge2': 0.031746031746031744, 'rougeL': 0.21538461538461537, 'rougeLsum': 0.21538461538461537}
+0.36998099088668823
+---------------------------------------------------------
+soon turists will stay away from spain bathbeaches today new refugees come to spain from maroco and escaped without registration and walk through the bathingpeople 1600 come last days https://t co/3v3zt9ndpr | Justification: today new refugees come to spain from maroco and escaped without registration and walk through the bathingpeople 1600 come last days (fact)  | Conclusion: soon turists will stay away from spain bathbeaches (fact)  | Pivot: bathbeaches  -  bathingpeople
+Tourists will not come because they are afraid of... people? I don't think so...
+
+<pad><SCN> I don't know what you are talking about, but I think it's a good idea to avoid bathing people. I'm not sure what you are saying, but it's not a bad idea. <ECN></s>
+{'precision': [0.8415040969848633], 'recall': [0.8595383167266846], 'f1': [0.8504256010055542], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.16326530612244897, 0.020833333333333332, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.3333333333333335, 'translation_length': 49, 'reference_length': 21}
+{'rouge1': 0.2545454545454546, 'rouge2': 0.11320754716981134, 'rougeL': 0.14545454545454545, 'rougeLsum': 0.14545454545454545}
+0.17216405272483826
+---------------------------------------------------------
+@user @user where is the outrage an illegal alien permanently separated this woman from her son or does hashtag families belongtogether only apply to illegals hashtag trump hashtag maga hashtag rednationrising hashtag jobsreoport hashtag immigration @user https://t co/gsdq | Justification: where is the outrage an illegal alien permanently separated this woman from her son (policy)  | Conclusion: or does hashtag families belongtogether only apply to illegals (fact)  | Pivot: her son  -  families
+I guess not. But I don't think you're understanding it correctly....
+
+<pad><SCN> I don't understand why you are outraged by the separation of a woman from her son. It's just a matter of time. <ECN></s>
+{'precision': [0.8362209796905518], 'recall': [0.8514024615287781], 'f1': [0.8437434434890747], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10810810810810811, 0.027777777777777776, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.3125, 'translation_length': 37, 'reference_length': 16}
+{'rouge1': 0.24390243902439027, 'rouge2': 0.10256410256410256, 'rougeL': 0.24390243902439027, 'rougeLsum': 0.24390243902439027}
+0.20150215923786163
+---------------------------------------------------------
+@user @user @user @user @user @user @user if we were into putin i would try to be the best putin ever so careful what you wish for commie are there any real lawyers in commie countries? are there an | Justification: if we were into putin i would try to be the best putin ever (value)  | Conclusion: so careful what you wish for commie are there any real lawyers in commie countries? (policy)  | Pivot: 
+It seems like the only answer you have are threats. They only expose your xenophobia and racism
+
+<pad><SCN> If we were into Putin, I would try to be the best Putin ever. I don't think there are any real lawyers in commie countries. <ECN></s>
+{'precision': [0.8193403482437134], 'recall': [0.8447436094284058], 'f1': [0.8318480849266052], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07317073170731707, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.2777777777777777, 'translation_length': 41, 'reference_length': 18}
+{'rouge1': 0.0851063829787234, 'rouge2': 0.0, 'rougeL': 0.0851063829787234, 'rougeLsum': 0.0851063829787234}
+0.21264395117759705
+---------------------------------------------------------
+@user sheme there is no attention on our own people and foodbanks while do you have to be a migrant to be treated with respect? | Justification: sheme there is no attention on our own people and foodbanks (fact)  | Conclusion: do you have to be a migrant to be treated with respect? (fact)  | Pivot: 
+Who disrespects you? Are you sure it was because you are a citizen, or is it just a coincidence?
+
+<pad><SCN> I don't see how you can treat a migrant like that. You don't have to be a citizen to be treated with respect. <ECN></s>
+{'precision': [0.8404080271720886], 'recall': [0.8554791212081909], 'f1': [0.8478766679763794], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10526315789473684, 0.02702702702702703, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7272727272727273, 'translation_length': 38, 'reference_length': 22}
+{'rouge1': 0.20833333333333334, 'rouge2': 0.043478260869565216, 'rougeL': 0.16666666666666666, 'rougeLsum': 0.16666666666666666}
+0.3849473297595978
+---------------------------------------------------------
+@user @user @user hispanics are the hardest hit by illegal immigration it impacts their wages jobs and communites as well as african americans hashtag walkaway hashtag walkawayfromdemocrats | Justification: it impacts their wages jobs and communites as well as african americans (fact)  | Conclusion: hispanics are the hardest hit by illegal immigration (fact)  | Pivot: 
+The fact that someone is " hardest hit" does not mean that they has been "hit hardest".
+
+<pad><SCN> I don't think it's a good idea to walk away from a country that has a lot of immigrants. It doesn't make sense. <ECN></s>
+{'precision': [0.8247685432434082], 'recall': [0.8307353258132935], 'f1': [0.8277412056922913], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07894736842105263, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.8095238095238095, 'translation_length': 38, 'reference_length': 21}
+{'rouge1': 0.08695652173913045, 'rouge2': 0.0, 'rougeL': 0.08695652173913045, 'rougeLsum': 0.08695652173913045}
+-0.05247524380683899
+---------------------------------------------------------
+so the economic migration crisis will now get rapidly worse into 2021 and anyone opining that a province like ontario can absorb a million people into the social infrastructure is not understanding the macro events underway and the system collapse that would trigger | Justification: so the economic migration crisis will now get rapidly worse into 2021 (fact)  | Conclusion: and anyone opining that a province like ontario can absorb a million people into the social infrastructure is not understanding the macro events underway and the system collapse that would trigger (fact)  | Pivot: crisis  -  collapse
+One million is too much, let's stop exaggerating.
+
+<pad><SCN> I don't understand what you're saying, but it's not the same as saying that a province can absorb a million people into the social infrastructure. <ECN></s>
+{'precision': [0.8299112915992737], 'recall': [0.8822575211524963], 'f1': [0.8552842140197754], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.075, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 4.0, 'translation_length': 40, 'reference_length': 10}
+{'rouge1': 0.0975609756097561, 'rouge2': 0.0, 'rougeL': 0.0975609756097561, 'rougeLsum': 0.0975609756097561}
+0.2077893316745758
+---------------------------------------------------------
+turkish government must immediately take precautions to protect its borders and find solution for the trouble in syria or else turkey will be a refugee storage in the near future and this is a big threat for our survival hashtag nomore refugee s | Justification: or else turkey will be a refugee storage in the near future and this is a big threat for our survival (fact)  | Conclusion: turkish government must immediately take precautions to protect its borders and find solution for the trouble in syria (policy)  | Pivot: turkish government  -  turkey
+Wanting to protect its borders is natural. Not letting in a single refugee is xenophobic, and not at all humanitarian....
+
+<pad><SCN> I don't think that Turkey will be a refugee storage in the near future. It is a big threat to our survival. <ECN></s>
+{'precision': [0.8334122896194458], 'recall': [0.8426672220230103], 'f1': [0.8380141854286194], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1891891891891892, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4230769230769231, 'translation_length': 37, 'reference_length': 26}
+{'rouge1': 0.2127659574468085, 'rouge2': 0.0, 'rougeL': 0.12765957446808512, 'rougeLsum': 0.12765957446808512}
+0.44377344846725464
+---------------------------------------------------------
+@user cameron is a coward he attacks the poor yet again because of immigration the numbers dont add up we need to get out now | Justification: cameron is a coward he attacks the poor yet again because of immigration the numbers dont add up (fact)  | Conclusion: we need to get out now (policy)  | Pivot: 
+Have you thought that getting out may have bigger consequences than just immigration and that it may make numbers worst?
+
+<pad><SCN> I don't understand why he's a coward. He's not a racist, he just doesn't like people. <ECN></s>
+{'precision': [0.8295127153396606], 'recall': [0.8336032629013062], 'f1': [0.8315529823303223], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.03125, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.5238095238095237, 'translation_length': 32, 'reference_length': 21}
+{'rouge1': 0.04545454545454545, 'rouge2': 0.0, 'rougeL': 0.04545454545454545, 'rougeLsum': 0.04545454545454545}
+0.09975141286849976
+---------------------------------------------------------
+seven texas mall robbery suspects are from mexico in the country illegally: https://t co/w4xrmgngn2 hashtag stoptheinvasion | Justification: seven texas mall robbery suspects are from mexico in the country illegally: (fact)  | Conclusion: hashtag stoptheinvasion (policy)  | Pivot: 
+There is no invasion to stop, you are just using this to support a xenophobous policy
+
+<pad><SCN> I don't think you're going to stop the invasion. You're not going to stop robbery, you know? <ECN></s>
+{'precision': [0.8332815170288086], 'recall': [0.8531413078308105], 'f1': [0.8430944681167603], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.18181818181818182, 0.0625, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.9411764705882353, 'translation_length': 33, 'reference_length': 17}
+{'rouge1': 0.25, 'rouge2': 0.052631578947368425, 'rougeL': 0.2, 'rougeLsum': 0.2}
+0.5304759740829468
+---------------------------------------------------------
+@user sir pl dont bow to mad mamta/tmc whims&amp threats centre must go ahead&amp deport all illegal migrants from all over india india must not be made home to muslim illegal migrants pl dont abt consequences entire india is with u in throwin | Justification: india must not be made home to muslim illegal migrants  -  entire india is with u in throwin (fact)  | Conclusion: sir pl dont bow to mad mamta/tmc whims&amp threats centre must go ahead&amp deport all illegal migrants from all over india  -  pl dont abt consequences (policy)  | Pivot: india india  -  india
+There is no need to deport them if they did no harm, there should be a way to regularize the status of these people.
+
+<pad><SCN> I don't understand why you would want to deport all immigrants from all over India. You are a racist. <ECN></s>
+{'precision': [0.8331946134567261], 'recall': [0.8644441366195679], 'f1': [0.8485317230224609], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11764705882352941, 0.030303030303030304, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3076923076923077, 'translation_length': 34, 'reference_length': 26}
+{'rouge1': 0.125, 'rouge2': 0.043478260869565216, 'rougeL': 0.125, 'rougeLsum': 0.125}
+0.4719778597354889
+---------------------------------------------------------
+@user dogs in america or dogs in mexico ?? a mexican asked me whether i was saying that hispanic immigrants had no right to a country meaning ours i replied "immigrants have a country or they wouldnt be immigrants " | Justification: a mexican asked me whether i was saying that hispanic immigrants had no right to a country meaning ours i replied "immigrants have a country or they wouldnt be immigrants " (fact)  | Conclusion: dogs in america or dogs in mexico ?? (policy)  | Pivot: mexico  -  hispanic
+The fact that they come from another country does not give us the right to run them. At the end of the day, we all come from somewhere else.
+
+<pad><SCN> I don't understand what you are trying to say. You are just trying to get people to believe you. <ECN></s>
+{'precision': [0.8216285705566406], 'recall': [0.8391069173812866], 'f1': [0.8302757740020752], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08823529411764706, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0625, 'translation_length': 34, 'reference_length': 32}
+{'rouge1': 0.03773584905660377, 'rouge2': 0.0, 'rougeL': 0.03773584905660377, 'rougeLsum': 0.03773584905660377}
+0.040164269506931305
+---------------------------------------------------------
+@user @user what a non-sense answer: you learned that yourself? anyone who actively or passively subscribes to immigration and especially assimilation is joining the battle to destroy whites and it makes no difference whether their | Justification: anyone who actively or passively subscribes to immigration and especially assimilation is joining the battle to destroy whites (fact)  | Conclusion: what a non-sense answer: (value)  | Pivot: 
+Non-sense answer is what you say. Do you really believe that accepting immigrants is genocide? You have no idea...
+
+<pad><SCN> I don't think you're a racist. You're not a racist, you know? <ECN></s>
+{'precision': [0.8373021483421326], 'recall': [0.8535223007202148], 'f1': [0.8453344106674194], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10714285714285714, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.1666666666666667, 'translation_length': 28, 'reference_length': 24}
+{'rouge1': 0.15384615384615385, 'rouge2': 0.0, 'rougeL': 0.15384615384615385, 'rougeLsum': 0.15384615384615385}
+0.24563120305538177
+---------------------------------------------------------
+the german government pays for 3 week vacation for refugees to go home hashtag muslimimmigration no the german government isnt paying the german taxpayers are paying the german government is robbing native germans to finance the islamization of germany https://t co/4cqbuf4in4 | Justification: the german government pays for 3 week vacation for refugees to go home (fact)  | Conclusion: no the german government isnt paying the german taxpayers are paying the german government is robbing native germans to finance the islamization of germany (fact)  | Pivot: the german government  -  the german government  -  the german government
+Just because the German Government spends money on refugees that doesn't mean that they are robbing native Germans to finance the "islamization" of Germany. Germany is a country with religious freedom and refugees pay taxes too
+
+<pad><SCN> I don't understand why the government pays for vacations for refugees. It's a joke. <ECN></s>
+{'precision': [0.8583548069000244], 'recall': [0.860997200012207], 'f1': [0.8596739768981934], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.13793103448275862, 0.0, 0.0, 0.0], 'brevity_penalty': 0.7083424709523612, 'length_ratio': 0.7435897435897436, 'translation_length': 29, 'reference_length': 39}
+{'rouge1': 0.1754385964912281, 'rouge2': 0.0, 'rougeL': 0.14035087719298245, 'rougeLsum': 0.14035087719298245}
+0.36801350116729736
+---------------------------------------------------------
+@user seems isis rape document is being followed by young male arabs immigrants and others in germany add france no respect no entry | Justification: seems isis rape document is being followed by young male arabs immigrants and others in germany add france (fact)  | Conclusion: no respect no entry (policy)  | Pivot: 
+As long as you don't assume they are all bad, and therefore don't let anyone in....
+
+<pad><SCN> I don't understand how you can add France to a document that is being followed by young males, immigrants and others in Germany. You are a racist. <ECN></s>
+{'precision': [0.8245347142219543], 'recall': [0.8408606648445129], 'f1': [0.8326176404953003], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.18604651162790697, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0476190476190474, 'translation_length': 43, 'reference_length': 21}
+{'rouge1': 0.24000000000000005, 'rouge2': 0.041666666666666664, 'rougeL': 0.16, 'rougeLsum': 0.16}
+0.03913702815771103
+---------------------------------------------------------
+@user a gang of streets sellers ? this is " bbc speak " what u meant to say was third world illegal immigrants hashtag lbc | Justification: a gang of streets sellers ? this is " bbc speak " (fact)  | Conclusion: what u meant to say was third world illegal immigrants (fact)  | Pivot: 
+It's fine that you don't like street sellers, but to say that they are third world illegals without basis, is not right
+
+<pad><SCN> I don't understand what you are saying. You are referring to a gang of street sellers, not a third world illegal immigrants. <ECN></s>
+{'precision': [0.8600037097930908], 'recall': [0.8664152026176453], 'f1': [0.8631975054740906], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.2631578947368421, 0.08108108108108109, 0.027777777777777776, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.5833333333333333, 'translation_length': 38, 'reference_length': 24}
+{'rouge1': 0.4313725490196078, 'rouge2': 0.12244897959183673, 'rougeL': 0.23529411764705882, 'rougeLsum': 0.23529411764705882}
+0.4978927969932556
+---------------------------------------------------------
+norway: migrant quality not quantity "based on the idea that the welfare state has limited resources 1) immigration must be limited "https://t co/tgumbymdn6 | Justification: "based on the idea that the welfare state has limited resources (fact)  | Conclusion: migrant quality not quantity  -  immigration must be limited (policy)  | Pivot: limited  -  limited
+What would be the correlation between immigration and resources? And how do you think that limiting immigration would solve the problem of limited resources?
+
+<pad><SCN> I don't understand what you're saying, but I think it's a waste of money and resources. I'm not sure if that's true, but it's not true. <ECN></s>
+{'precision': [0.8291794061660767], 'recall': [0.8435076475143433], 'f1': [0.8362821340560913], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09302325581395349, 0.023809523809523808, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.6538461538461537, 'translation_length': 43, 'reference_length': 26}
+{'rouge1': 0.2333333333333333, 'rouge2': 0.034482758620689655, 'rougeL': 0.16666666666666669, 'rougeLsum': 0.16666666666666669}
+0.006608776748180389
+---------------------------------------------------------
+californias u s senator kamala harris her first piece of legislation the access to counsel act by providing lawyers to anyone arriving at u s border crossings hashtag buildthewall hashtag nodaca hashtag endchainmigration hashtag enddiversitylotteryisis thanks you @user hashtag kamalaharris | Justification: californias u s senator kamala harris her first piece of legislation the access to counsel act by providing lawyers to anyone arriving at u s border crossings (fact)  | Conclusion: hashtag buildthewall hashtag nodaca hashtag endchainmigration (policy)  | Pivot: 
+Would building a wall stop people from getting to the border? hm. I don't think so.
+
+<pad><SCN> I don't understand why you would want to build a wall to prevent illegal immigrants from entering the country. It's not a good idea. <ECN></s>
+{'precision': [0.8538921475410461], 'recall': [0.8833761811256409], 'f1': [0.8683839440345764], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.23076923076923078, 0.05263157894736842, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0526315789473686, 'translation_length': 39, 'reference_length': 19}
+{'rouge1': 0.3829787234042553, 'rouge2': 0.13333333333333333, 'rougeL': 0.21276595744680848, 'rougeLsum': 0.21276595744680848}
+0.5390982031822205
+---------------------------------------------------------
+@user why is it that illegals that have been in the u s for years that are being deported get to claim asylum when the laws states they must claim aslyum within one year of their last arrival ? stop allowng illegals to game the hashtag immigration s | Justification: why is it that illegals that have been in the u s for years that are being deported get to claim asylum when the laws states they must claim aslyum within one year of their last arrival ? (fact)  | Conclusion: stop allowng illegals to game the hashtag immigration (policy)  | Pivot: illegals  -  illegals
+Being humanitarian in interpreting the law is not the same as allowing someone to game the immigration system. Who cares if someone takes a little while to complete their paperwork...everyone does it.
+
+<pad><SCN> I don't understand what you are trying to say. You are a racist, you are a xenophobous person, you don't want to be a racist. <ECN></s>
+{'precision': [0.8187985420227051], 'recall': [0.8382564783096313], 'f1': [0.8284132480621338], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11904761904761904, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.105263157894737, 'translation_length': 42, 'reference_length': 38}
+{'rouge1': 0.09375000000000001, 'rouge2': 0.0, 'rougeL': 0.09375000000000001, 'rougeLsum': 0.09375000000000001}
+0.19428351521492004
+---------------------------------------------------------
+@user time to leave the uk commonwealth and europe that would end immigration people do not want more refugees enough is enough | Justification: people do not want more refugees enough is enough (fact)  | Conclusion: time to leave the uk commonwealth and europe that would end immigration (policy)  | Pivot: immigration  -  refugees
+Leaving the UK and European Union will not end immigration because it is a global problem, and migrants usually migrate because they have the necessity, even if they have no facilites.
+
+<pad><SCN> I don't think it's a good idea to leave the UK and Europe, it's just a matter of time. If you don't want more refugees, you can't leave. <ECN></s>
+{'precision': [0.8544576168060303], 'recall': [0.86190265417099], 'f1': [0.8581640124320984], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.15555555555555556, 0.045454545454545456, 0.023255813953488372, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3235294117647058, 'translation_length': 45, 'reference_length': 34}
+{'rouge1': 0.1764705882352941, 'rouge2': 0.0606060606060606, 'rougeL': 0.1764705882352941, 'rougeLsum': 0.1764705882352941}
+0.5973071455955505
+---------------------------------------------------------
+hungary referendum: 98% of voters reject islamic immigration - muslims are offended - free speech time - https://t co/dlnslapka7 @user | Justification: hungary referendum: 98% of voters reject islamic immigration (fact)  | Conclusion: muslims are offended (fact)  | Pivot: islamic  -  muslims
+I would also be offended if I were deprived of my right to emigrate.... Even more so if I were discriminated because of my religion.
+
+<pad><SCN> I don't understand why people are offended by a referendum on islamic immigration. Secondly, if you are a Muslim, you are not offended. <ECN></s>
+{'precision': [0.8452452421188354], 'recall': [0.8584704995155334], 'f1': [0.8518065214157104], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.125, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3333333333333333, 'translation_length': 40, 'reference_length': 30}
+{'rouge1': 0.1132075471698113, 'rouge2': 0.0, 'rougeL': 0.1132075471698113, 'rougeLsum': 0.1132075471698113}
+0.46998605132102966
+---------------------------------------------------------
+the u s must stop importing the worlds poor if they cant take care of themselves hashtag sendthemback stop allowing foreigners to live off u s taxpayers hashtag trump hashtag maga | Justification: the u s must stop importing the worlds poor if they cant take care of themselves (fact)  | Conclusion: hashtag sendthemback stop allowing foreigners to live off u s taxpayers (policy)  | Pivot: 
+Sending them back is also a cost. If it's the cost that really bothers you, then you should stop worrying about it.
+
+<pad><SCN> I don't understand why you would want to send them back if they can't take care of themselves. It's not like you are trying to get them to live off your taxpayers. <ECN></s>
+{'precision': [0.8299673795700073], 'recall': [0.8648209571838379], 'f1': [0.847035825252533], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1276595744680851, 0.021739130434782608, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.88, 'translation_length': 47, 'reference_length': 25}
+{'rouge1': 0.22580645161290322, 'rouge2': 0.06666666666666667, 'rougeL': 0.1935483870967742, 'rougeLsum': 0.1935483870967742}
+0.450905978679657
+---------------------------------------------------------
+@user time to start firing judges who dont detain immigrants so @user can deport if he was detain and not given a bond that citizen would be alive | Justification: if he was detain and not given a bond that citizen would be alive (fact)  | Conclusion: time to start firing judges who dont detain immigrants so @user can deport (policy)  | Pivot: detain  -  detain
+I don't get it, so you care about the safety of immigrants? Great, but that's not the best solution. We should regulate, not prohibit
+
+<pad><SCN> I don't think it's time to start firing judges who don't detain immigrants so that they can deport someone else. It's not like they don't have a bond. <ECN></s>
+{'precision': [0.8323232531547546], 'recall': [0.8606985807418823], 'f1': [0.8462731838226318], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.13953488372093023, 0.023809523809523808, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4827586206896552, 'translation_length': 43, 'reference_length': 29}
+{'rouge1': 0.2857142857142857, 'rouge2': 0.09836065573770492, 'rougeL': 0.25396825396825395, 'rougeLsum': 0.25396825396825395}
+0.3551163077354431
+---------------------------------------------------------
+" spoken like a true globalist a borderless one world government has always been their goal no borders means social mayhem the more chaos they foment the more the public will demand an all powerful superstate ordo ab chao (out of chaos order) is their motto hashtag buildthatwall" | Justification: no borders means social mayhem the more chaos they foment the more the public will demand an all powerful superstate ordo ab chao (out of chaos order) is their motto (fact)  | Conclusion: spoken like a true globalist a borderless one world government has always been their goal  -  hashtag buildthatwall" (policy)  | Pivot: world government  -  superstate
+Building a wall will not prevent chaos. If anything, keeping society satisfied will.
+
+<pad><SCN> I don't understand why they want to build a wall. It's not a good idea, it's just not right. <ECN></s>
+{'precision': [0.8245676755905151], 'recall': [0.8604626655578613], 'f1': [0.8421328067779541], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.17142857142857143, 0.029411764705882353, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.1875, 'translation_length': 35, 'reference_length': 16}
+{'rouge1': 0.15384615384615388, 'rouge2': 0.05405405405405406, 'rougeL': 0.15384615384615388, 'rougeLsum': 0.15384615384615388}
+0.40813732147216797
+---------------------------------------------------------
+@user who care for these children of criminal refugees really they play no role in times of overpopulation | Justification: they play no role in times of overpopulation (fact)  | Conclusion: who care for these children of criminal refugees really (policy)  | Pivot: 
+Why should a person have to play a role to matter to anyone?
+
+<pad><SCN> I don't understand why you would care for these children of criminal refugees. They are a part of the population, not the children. <ECN></s>
+{'precision': [0.8387539386749268], 'recall': [0.8500652313232422], 'f1': [0.8443717360496521], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.02564102564102564, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.7857142857142856, 'translation_length': 39, 'reference_length': 14}
+{'rouge1': 0.0975609756097561, 'rouge2': 0.0, 'rougeL': 0.0975609756097561, 'rougeLsum': 0.0975609756097561}
+0.07082916796207428
+---------------------------------------------------------
+this is outrageous hashtag stopillegalimmigration hashtag meritimmigration | Justification: this is outrageous (fact)  | Conclusion: stopillegalimmigration (policy)  | Pivot: 
+Just because you say it's outrageous, should we listen to you? no, thank you
+
+<pad><SCN> I don't think it's the right thing to do, but it's not the only way to do it... <ECN></s>
+{'precision': [0.8464488983154297], 'recall': [0.8518278002738953], 'f1': [0.8491297960281372], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08571428571428572, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0588235294117645, 'translation_length': 35, 'reference_length': 17}
+{'rouge1': 0.15, 'rouge2': 0.052631578947368425, 'rougeL': 0.15, 'rougeLsum': 0.15}
+0.04409324377775192
+---------------------------------------------------------
+this should make every american called senatorstell them build the dam wallno chain migration/visa lottery & no amnesty corrupt democrats cant winwith hard working american s because they are hashtag walkaway from lies hashtag maga hashtag nodaca | Justification: corrupt democrats cant winwith hard working american s because they are hashtag walkaway from lies (fact)  | Conclusion: this should make every american called senatorstell them build the dam wallno chain migration/visa lottery & no amnesty (policy)  | Pivot: american  -  american s
+So, we are going to do what will ensure that we win the election, and not what is right? Don't count with me.
+
+<pad><SCN> I don't understand why you are calling them "walkaway from lies". They are just a bunch of people who don't care about anything. <ECN></s>
+{'precision': [0.8312163352966309], 'recall': [0.8471662998199463], 'f1': [0.8391155004501343], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.05, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4814814814814814, 'translation_length': 40, 'reference_length': 27}
+{'rouge1': 0.11320754716981132, 'rouge2': 0.0392156862745098, 'rougeL': 0.11320754716981132, 'rougeLsum': 0.11320754716981132}
+0.09299644827842712
+---------------------------------------------------------
+// we will send back the illegal immigrants to bangladesh tough days are ahead we will not tolerate any illegal immigrants in bengal with these statements west bengal https://t co/bphdib4fkf | Justification: tough days are ahead we will not tolerate any illegal immigrants in bengal (policy)  | Conclusion: we will send back the illegal immigrants to bangladesh (policy)  | Pivot: 
+Maybe you will not, but most of us will. Immigrants do not harm anyone so there is no reason to send them antwhere
+
+<pad><SCN> I don't understand what you are trying to say. I think it's a bad idea to send them back. <ECN></s>
+{'precision': [0.8436400890350342], 'recall': [0.8616767525672913], 'f1': [0.8525630831718445], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14705882352941177, 0.06060606060606061, 0.03125, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.36, 'translation_length': 34, 'reference_length': 25}
+{'rouge1': 0.16666666666666666, 'rouge2': 0.08695652173913043, 'rougeL': 0.16666666666666666, 'rougeLsum': 0.16666666666666666}
+0.14737346768379211
+---------------------------------------------------------
+another illegal immigrant assaults young girl - florida hashtag illegalimmigration hashtag stopthemadness | Justification: another illegal immigrant assaults young girl - florida (fact)  | Conclusion: hashtag illegalimmigration hashtag stopthemadness (policy)  | Pivot: illegal immigrant  -  hashtag illegalimmigration
+You are not going to end crime by ending immigration. You're only going to end a few crimes committed by immigrants. But what about ALL THE OTHERS? And what about all the other immigrants? You know, the non-criminals?
+
+<pad><SCN> I don't understand why someone assaults a young girl. It's not a crime. <ECN></s>
+{'precision': [0.8289822340011597], 'recall': [0.828305184841156], 'f1': [0.8286436200141907], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.17857142857142858, 0.0, 0.0, 0.0], 'brevity_penalty': 0.5647181220077593, 'length_ratio': 0.6363636363636364, 'translation_length': 28, 'reference_length': 44}
+{'rouge1': 0.10169491525423728, 'rouge2': 0.0, 'rougeL': 0.06779661016949153, 'rougeLsum': 0.06779661016949153}
+0.17808228731155396
+---------------------------------------------------------
+street interview whit italians "send all migrants back to where they came from they block streets to pray " - free speech time - https://t co/d5dqr8pg3r @user | Justification: street interview whit italians "send all migrants back to where they came from they block streets to pray " (fact)  | Conclusion: "send all migrants back to where they came from they block streets to pray " (policy)  | Pivot: migrants  -  they  -  they
+Some italians are calling for people to be deported based on that they don't like them praying in the street. But in Rome and the Vatican Christians block the street all the time. I think they need a better excuse for xenophobia.
+
+<pad><SCN> I don't think it's a good idea to send all migrants back to where they came from, because it's not a good way to pray. <ECN></s>
+{'precision': [0.8337669372558594], 'recall': [0.8551186919212341], 'f1': [0.8443078398704529], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.2, 0.0, 0.0, 0.0], 'brevity_penalty': 0.8824969025845955, 'length_ratio': 0.8888888888888888, 'translation_length': 40, 'reference_length': 45}
+{'rouge1': 0.21333333333333332, 'rouge2': 0.0273972602739726, 'rougeL': 0.13333333333333336, 'rougeLsum': 0.13333333333333336}
+0.4170475900173187
+---------------------------------------------------------
+@user we all know what you mean by scum pal couldnt agree more hashtag sendthemback | Justification: @user we all know what you mean by scum pal couldnt agree more (value)  | Conclusion: hashtag sendthemback (policy)  | Pivot: 
+"Hey, this guy says we should send them back, maybe we should"... Is that what you expect to happen? Well, I'm sorry, but no.
+
+<pad><SCN> Send them back if you don't agree with them. You are a racist, you are a hypocrite. <ECN></s>
+{'precision': [0.8374839425086975], 'recall': [0.8511040210723877], 'f1': [0.8442391157150269], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.18181818181818182, 0.03125, 0.0, 0.0], 'brevity_penalty': 0.9411939401248326, 'length_ratio': 0.9428571428571428, 'translation_length': 33, 'reference_length': 35}
+{'rouge1': 0.1702127659574468, 'rouge2': 0.08888888888888889, 'rougeL': 0.1702127659574468, 'rougeLsum': 0.1702127659574468}
+0.37459737062454224
+---------------------------------------------------------
+does he realize hes cheering for the hashtag racialreplacement and genocide of the french people? how many of those players were hashtag french ? hashtag stoptheinvasion hashtag stopthegreatreplacement hashtag stopwhitegenocide hashtag whitepride hashtag migrantcrisis hashtag emmanuelmacron hashtag whitelivesmatter hashtag securetheborder hashtag worldcup https://t co/sfiznkwsyx | Justification: how many of those players were hashtag french ? (fact)  | Conclusion: does he realize hes cheering for the hashtag racialreplacement and genocide of the french people? (fact)  | Pivot: french  -  french
+It is normal for a team to have many players from other countries. It happens in every team in the world. Besides, 5 or 10 people are too few to say that there is a "racial replacement" plan.
+
+<pad><SCN> I don't think he realizes that he is cheering for racial reintegration and genocide of the french people. He is a racist. <ECN></s>
+{'precision': [0.8204725980758667], 'recall': [0.845893383026123], 'f1': [0.8329890966415405], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.2702702702702703, 0.027777777777777776, 0.0, 0.0], 'brevity_penalty': 0.8276299132500707, 'length_ratio': 0.8409090909090909, 'translation_length': 37, 'reference_length': 44}
+{'rouge1': 0.24615384615384617, 'rouge2': 0.031746031746031744, 'rougeL': 0.18461538461538463, 'rougeLsum': 0.18461538461538463}
+0.17302823066711426
+---------------------------------------------------------
+for all the people holding up signs regarding illegal immigrants hand them each a bill to pay the cost of how much these people take from the american taxpayer and i bet they would take down their signs and go home | Justification: and i bet they would take down their signs and go home (fact)  | Conclusion: for all the people holding up signs regarding illegal immigrants hand them each a bill to pay the cost of how much these people take from the american taxpayer (policy)  | Pivot: signs  -  signs
+It is not true that taxes increase if there are more immigrants, so it makes no sense what you are proposing.
+
+<pad><SCN> I don't know what you are talking about, but I think it's a waste of money and time. I'm not sure if it's true, but it's not. <ECN></s>
+{'precision': [0.8506779074668884], 'recall': [0.8773451447486877], 'f1': [0.8638057708740234], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.18181818181818182, 0.046511627906976744, 0.023809523809523808, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.9130434782608696, 'translation_length': 44, 'reference_length': 23}
+{'rouge1': 0.2807017543859649, 'rouge2': 0.07272727272727272, 'rougeL': 0.14035087719298245, 'rougeLsum': 0.14035087719298245}
+0.025267373770475388
+---------------------------------------------------------
+@user stands up for real canadians while comrade @user allows millions of illegals stream across our undefended border https://t co/b7itg6yahz hashtag cdnpoli hashtag cpc hashtag lpc hashtag nomore refugees hashtag refugees hashtag onpoli hashtag abpoli hashtag ableg hashtag ucp hashtag pcpo hashtag fordnation | Justification: @user allows millions of illegals stream across our undefended border (fact)  | Conclusion: @user stands up for real canadians while comrade  -  hashtag nomore refugees (policy)  | Pivot: illegals  -  refugees  -  refugees
+What's a "real Canadian" - a xenophobe like you?
+
+<pad><SCN> I don't understand why you would want to allow millions of illegals to stream across our undefended border. It's a joke. <ECN></s>
+{'precision': [0.8211163282394409], 'recall': [0.8255864381790161], 'f1': [0.8233453631401062], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.05555555555555555, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.0, 'translation_length': 36, 'reference_length': 12}
+{'rouge1': 0.16666666666666666, 'rouge2': 0.058823529411764705, 'rougeL': 0.1111111111111111, 'rougeLsum': 0.1111111111111111}
+0.1104494035243988
+---------------------------------------------------------
+happy hashtag laborday to all legal american workers shame on illegal workers who steal ssn and ids to take hashtag jobs from americans and lower wages hashtag maga hashtag sendthemback hashtag laborday | Justification: happy hashtag laborday to all legal american workers (fact)  | Conclusion: shame on illegal workers who steal ssn and ids to take hashtag jobs from americans and lower wages (value)  | Pivot: workers  -  workers
+Hey, they're just trying to work. It costs money to live...
+
+<pad><SCN> I don't think it's a good idea to send them back, because they are stealing jobs from us. <ECN></s>
+{'precision': [0.8414139747619629], 'recall': [0.8635530471801758], 'f1': [0.8523397445678711], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09090909090909091, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0625, 'translation_length': 33, 'reference_length': 16}
+{'rouge1': 0.16666666666666666, 'rouge2': 0.0, 'rougeL': 0.1111111111111111, 'rougeLsum': 0.1111111111111111}
+0.2327384352684021
+---------------------------------------------------------
+all crimina l illegals must be deported whether they are daca recipients or not crime & welfare are draining our limited resources what deterrent will be implemented for re-entry? hashtag noamnesty hashtag buildthewall hashtag endsanctuarycities hashtag endchainmigration hashtag endvisalottery hashtag mandatoryeverify https://t co/ltchyumjrp | Justification: crime & welfare are draining our limited resources (fact)  | Conclusion: all crimina l illegals must be deported whether they are daca recipients or not (policy)  | Pivot: crimina  -  crime
+And how exactly do you expect to deport all immigrants without "draining our limited resources"? By asking them to "please, leave"?
+
+<pad><SCN> I don't see how you can deport someone who is not a recipient of Daca. It's a waste of money. <ECN></s>
+{'precision': [0.8360106945037842], 'recall': [0.8419840335845947], 'f1': [0.8389867544174194], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08571428571428572, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.25, 'translation_length': 35, 'reference_length': 28}
+{'rouge1': 0.12765957446808512, 'rouge2': 0.0, 'rougeL': 0.12765957446808512, 'rougeLsum': 0.12765957446808512}
+0.35991230607032776
+---------------------------------------------------------
+@user and this is exactly how it should be in england crime is low in slovakia etc but all the scumbags come to to commit crimes as they know they can get away with it - they never return hashtag stop immigration | Justification: crime is low in slovakia etc but all the scumbags come to to commit crimes as they know they can get away with it - they never return (fact)  | Conclusion: and this is exactly how it should be in england  -  hashtag stop immigration (value)  | Pivot: 
+So you think that banning immigration will stop crime. How wrong is that.
+
+<pad><SCN> I don't think it's the right thing to do, but it's not the way it should be. It's not what it should be, it's how it should be... <ECN></s>
+{'precision': [0.8210285902023315], 'recall': [0.8706972599029541], 'f1': [0.8451337814331055], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.06382978723404255, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.1333333333333333, 'translation_length': 47, 'reference_length': 15}
+{'rouge1': 0.08, 'rouge2': 0.0, 'rougeL': 0.08, 'rougeLsum': 0.08}
+0.07447751611471176
+---------------------------------------------------------
+these people are native americans the land you claim is yours was theres until our immigrant ancestors stole it from them heres your small history lesson you should have learned in school thanks for coming to my ted talk https://t co/mbovkjt5rx | Justification: these people are native americans (fact)  | Conclusion: the land you claim is yours was theres until our immigrant ancestors stole it from them (fact)  | Pivot: 
+While it is true that the natives are the original owners of this land, immigration is a right. They are not in all cases "stealing" land.
+
+<pad><SCN> I don't know what you are talking about, but it's not the same as saying that the land you claim is yours was there until our immigrants stole it from them. <ECN></s>
+{'precision': [0.8459787964820862], 'recall': [0.8764723539352417], 'f1': [0.8609555959701538], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.21739130434782608, 0.022222222222222223, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4838709677419355, 'translation_length': 46, 'reference_length': 31}
+{'rouge1': 0.25396825396825395, 'rouge2': 0.03278688524590164, 'rougeL': 0.15873015873015872, 'rougeLsum': 0.15873015873015872}
+0.6021416187286377
+---------------------------------------------------------
+@user families should not bring their kids into a country illegally would you? we cant afford them hashtag send them home | Justification: families should not bring their kids into a country illegally would you? we cant afford them (value)  | Conclusion: send them home (policy)  | Pivot: kids into a country illegally  -  them  -  them
+You are talking about kids that were separated from their parents by force, they need help and you want to send them home. It's inhumane
+
+<pad><SCN> If you don't want to bring your kids to a country illegally, you can't afford them. If you want to send them back to your country, you have to pay for them. <ECN></s>
+{'precision': [0.8515076637268066], 'recall': [0.8580758571624756], 'f1': [0.8547791242599487], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.07838844608918008, 'precisions': [0.16326530612244897, 0.08333333333333333, 0.06382978723404255, 0.043478260869565216], 'brevity_penalty': 1.0, 'length_ratio': 1.8148148148148149, 'translation_length': 49, 'reference_length': 27}
+{'rouge1': 0.25, 'rouge2': 0.12903225806451613, 'rougeL': 0.25, 'rougeLsum': 0.25}
+0.38847970962524414
+---------------------------------------------------------
+@user did you forget?? stop trying to give credibility to an illegal immigrant with an anchor baby &amp chain migration parents who wore an fing "i really dont care" trench coat to the border in 90 degree weather she is irrelevant hashtag msnbc hashtag vel | Justification: an illegal immigrant with an anchor baby &amp chain migration parents who wore an fing "i really dont care" trench coat to the border in 90 degree weather (fact)  | Conclusion: she is irrelevant (policy)  | Pivot: 
+You can't claim she is irrelevant just because immigrated in unfavorable conditions. That's aporophobic
+
+<pad><SCN> I don't understand why you are trying to give credibility to an illegal immigrant with an anchor baby and an anchor family migration parents who wore an fing "I really don't care" trench coat to the border in 90 degree weather. <ECN></s>
+{'precision': [0.8127195835113525], 'recall': [0.8462610840797424], 'f1': [0.8291512727737427], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.03508771929824561, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.8, 'translation_length': 57, 'reference_length': 15}
+{'rouge1': 0.12698412698412698, 'rouge2': 0.0, 'rougeL': 0.12698412698412698, 'rougeLsum': 0.12698412698412698}
+0.36190131306648254
+---------------------------------------------------------
+" the ngo rescueship lifeline will now go to malta this is the wrong signal for all the humancatcher from the ngos the crew should send into jail because the have ignored the law and the refugees should be brought back to libya https://t co/hp1yvydepf" | Justification: the ngo rescueship lifeline will now go to malta this is the wrong signal for all the humancatcher from the ngos (fact)  | Conclusion: the crew should send into jail because the have ignored the law and the refugees should be brought back to libya (policy)  | Pivot: rescueship  -  crew
+I mean, they are rescuers, and the refugees are humans? what is the crime? what law did they break?
+
+<pad><SCN> I don't understand what you are trying to say. It's just a joke. <ECN></s>
+{'precision': [0.8304473161697388], 'recall': [0.839036226272583], 'f1': [0.8347196578979492], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10714285714285714, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.1666666666666667, 'translation_length': 28, 'reference_length': 24}
+{'rouge1': 0.15789473684210525, 'rouge2': 0.0, 'rougeL': 0.10526315789473684, 'rougeLsum': 0.10526315789473684}
+0.03272958844900131
+---------------------------------------------------------
+@user for god sake dont put india to danger by unchecked appeasement of ur special community illegal migrants nation is supreme | Justification: for god sake dont put india to danger by unchecked (policy)  | Conclusion: appeasement of ur special community illegal migrants nation is supreme (policy)  | Pivot: 
+Are you suggesting that migrants risk peace of the nation? Why? Migrants are usually peaceful hard working people. The only threat to peace is xenophobia.
+
+<pad><SCN> I don't think it's a good idea to put India to danger by unchecked appeasement of your special community illegal immigrants nation. It's not a good policy. <ECN></s>
+{'precision': [0.8227488398551941], 'recall': [0.8479982614517212], 'f1': [0.835182785987854], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11904761904761904, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4482758620689655, 'translation_length': 42, 'reference_length': 29}
+{'rouge1': 0.10169491525423728, 'rouge2': 0.0, 'rougeL': 0.06779661016949153, 'rougeLsum': 0.06779661016949153}
+0.3456140160560608
+---------------------------------------------------------
+japan is able to keep clean his country from refugees 2017 they accept only 20 from nearly 20 000 requests this is worldrecord https://t co/y6xvy2gxbc | Justification: 2017 they accept only 20 from nearly 20 000 requests (fact)  | Conclusion: japan is able to keep clean his country from refugees (fact)  | Pivot: 
+Maybe that's true, but you know, it's not right. It's racism. Explicit racism.
+
+<pad><SCN> I don't understand why they accept only 20 requests from nearly 20 000 people. It's just a matter of time. <ECN></s>
+{'precision': [0.824735164642334], 'recall': [0.8590642213821411], 'f1': [0.8415496945381165], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08571428571428572, 0.029411764705882353, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.9444444444444444, 'translation_length': 35, 'reference_length': 18}
+{'rouge1': 0.14285714285714285, 'rouge2': 0.05, 'rougeL': 0.14285714285714285, 'rougeLsum': 0.14285714285714285}
+-0.005207907408475876
+---------------------------------------------------------
+the real truth is after cologne and in the nordic countries and others no one trusts any refugees a better life for them doesnt mean 1 4 u | Justification: the real truth is after cologne and in the nordic countries and others no one trusts any refugees (fact)  | Conclusion: a better life for them doesnt mean 1 4 u (fact)  | Pivot: refugees  -  them
+Do you have any evidence that in Cologne and in the Nordic countries people's quality of life is worst because of immigrants?
+
+<pad><SCN> I don't know what you mean by "better life for them" <ECN></s>
+{'precision': [0.8262985944747925], 'recall': [0.8452664017677307], 'f1': [0.8356748819351196], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07692307692307693, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.1304347826086956, 'translation_length': 26, 'reference_length': 23}
+{'rouge1': 0.15384615384615383, 'rouge2': 0.0, 'rougeL': 0.10256410256410256, 'rougeLsum': 0.10256410256410256}
+0.1949402093887329
+---------------------------------------------------------
+@user @user @user @user @user @user @user @user @user republican voters will not forgive you for not building the wall hashtag buildthat wall hashtag maga2020 | Justification: republican voters will not forgive you for not building the wall (fact)  | Conclusion: hashtag buildthat wall (policy)  | Pivot: wall  -  wall
+So we should do something just because a small portion of the electorate wants to? I don't think it works that way...
+
+<pad><SCN> If you don't forgive them for not building a wall, they will not forgive you for not doing it. <ECN></s>
+{'precision': [0.8346906900405884], 'recall': [0.8490886688232422], 'f1': [0.8418281078338623], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11764705882352941, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3076923076923077, 'translation_length': 34, 'reference_length': 26}
+{'rouge1': 0.1702127659574468, 'rouge2': 0.04444444444444444, 'rougeL': 0.1276595744680851, 'rougeLsum': 0.1276595744680851}
+-0.005965441465377808
+---------------------------------------------------------
+@user guatemala is sending their finest hashtag buildthatwall | Justification: guatemala is sending their finest hashtag buildthatwall (fact)  | Conclusion: hashtag buildthatwall (policy)  | Pivot: 
+Do you dislike people from Guatemala? I will not waste that  money on a whim
+
+<pad><SCN> I don't think it's a good idea to build a wall. It's not a good policy. <ECN></s>
+{'precision': [0.8270451426506042], 'recall': [0.8450478315353394], 'f1': [0.8359495997428894], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0967741935483871, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.9375, 'translation_length': 31, 'reference_length': 16}
+{'rouge1': 0.15789473684210528, 'rouge2': 0.0, 'rougeL': 0.15789473684210528, 'rougeLsum': 0.15789473684210528}
+0.0552237406373024
+---------------------------------------------------------
+is the judge on crack? he said said govt needs to prove it considered the benefits of having illegal aliens here and working illegal immigration cost $135 b a year while illegals pay $8 b in taxes illegals are no benefit to the u s hashtag trump hashtag maga https://t co/9eervu5h7x | Justification: is the judge on crack? he said said govt needs to prove it considered the benefits of having illegal aliens here and working illegal immigration cost $135 b a year while illegals pay $8 b in taxes (fact)  | Conclusion: illegals are no benefit to the u (fact)  | Pivot: benefits  -  no benefit
+You claim that only because you believe in those made-up numbers....
+
+<pad><SCN> I don't understand why you are comparing the benefits of illegal immigrants to the benefits of having them here and working illegal immigration. It's just a matter of time. <ECN></s>
+{'precision': [0.8235844373703003], 'recall': [0.8492173552513123], 'f1': [0.8362045288085938], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.06818181818181818, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.933333333333333, 'translation_length': 44, 'reference_length': 15}
+{'rouge1': 0.0425531914893617, 'rouge2': 0.0, 'rougeL': 0.0425531914893617, 'rougeLsum': 0.0425531914893617}
+0.11274954676628113
+---------------------------------------------------------
+unbelievable census bureau: 44 6% in ca dont hashtag speakenglish at home 35 6% 35 6% in tx 34 5% in nm 31 7% in nj 31 0% in ny our schools r getting 150% funding for every student who doesnt speak hashtag english well parents job hashtag stop immigration https://t co/vi6xxhik1b | Justification: census bureau: 44 6% in ca dont hashtag speakenglish at home 35 6% 35 6% in tx 34 5% in nm 31 7% in nj 31 0% in ny our schools r getting 150% funding for every student who doesnt speak hashtag english well parents job (fact)  | Conclusion: unbelievable  -  hashtag stop immigration (policy)  | Pivot: 
+And would ending immigration improve English? I don't think so...
+
+<pad><SCN> I don't see how you can stop immigration if you don't speak English at home. You don't have to be a citizen to be able to speak English. <ECN></s>
+{'precision': [0.8469205498695374], 'recall': [0.8697298169136047], 'f1': [0.858173668384552], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.13953488372093023, 0.023809523809523808, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 3.0714285714285716, 'translation_length': 43, 'reference_length': 14}
+{'rouge1': 0.21739130434782608, 'rouge2': 0.0909090909090909, 'rougeL': 0.17391304347826086, 'rougeLsum': 0.17391304347826086}
+0.3757299482822418
+---------------------------------------------------------
+@user migrant s get here then they phone for the next load to come mobile phones cost not such a thing as a poor migrant with a phon | Justification: migrant s get here then they phone for the next load to come mobile phones cost (fact)  | Conclusion: not such a thing as a poor migrant with a phon (fact)  | Pivot: migrant s  -  migrant
+Are you seriously implying that someone can't be poor because she has a phone? A phone is a basic necessity in order to work or survive on today's world and it can costs a tiny fraction of what you need to live
+
+<pad><SCN> I don't think it's a bad idea to call a migrant a phon. It's not a good idea. <ECN></s>
+{'precision': [0.8295480012893677], 'recall': [0.8179268836975098], 'f1': [0.8236964344978333], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12121212121212122, 0.0, 0.0, 0.0], 'brevity_penalty': 0.7385767149187981, 'length_ratio': 0.7674418604651163, 'translation_length': 33, 'reference_length': 43}
+{'rouge1': 0.2318840579710145, 'rouge2': 0.0, 'rougeL': 0.17391304347826086, 'rougeLsum': 0.17391304347826086}
+0.1546291708946228
+---------------------------------------------------------
+one-third of 214 arrested ms-13 gangsters were unaccompanied alien children - breitbart hashtag enddaca hashtag noamnesty hashtag buildthewall hashtag protectamerica hashtag enforceuslaws hashtag keepamericanssafe | Justification: one-third of 214 arrested ms-13 gangsters were unaccompanied alien children - breitbart (fact)  | Conclusion: hashtag enddaca hashtag noamnesty hashtag buildthewall (policy)  | Pivot: 
+Do you realize that this is a product of repressive policies like the one you propose and not the other way around? You could start thinking about other solutions...
+
+<pad><SCN> I don't understand why you would want to build a wall to stop gangsters from committing crimes. You don't have to do anything to stop them. <ECN></s>
+{'precision': [0.844699501991272], 'recall': [0.8403193354606628], 'f1': [0.8425037860870361], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12195121951219512, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.2424242424242424, 'translation_length': 41, 'reference_length': 33}
+{'rouge1': 0.13114754098360656, 'rouge2': 0.0, 'rougeL': 0.09836065573770493, 'rougeLsum': 0.09836065573770493}
+0.23328186571598053
+---------------------------------------------------------
+edmonton attacker identified as 30yo somali refugee abdulahi hasan sharif was known to police - chthis is my shocked face ðÿ˜ emoji registered emoji ed | Justification: edmonton attacker identified as 30yo somali refugee abdulahi hasan sharif was known to police (fact)  | Conclusion: chthis is my shocked face (value)  | Pivot: 
+The fact that a Somali refugee committed a crime doesn't mean that all refugees are criminals. Irony is a good resource when  used smartly. It's not your case though
+
+<pad><SCN> I don't understand why you are so shocked. You are not a racist, you are a racist. <ECN></s>
+{'precision': [0.8399100303649902], 'recall': [0.8444992303848267], 'f1': [0.842198371887207], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.18181818181818182, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.064516129032258, 'translation_length': 33, 'reference_length': 31}
+{'rouge1': 0.22641509433962262, 'rouge2': 0.0, 'rougeL': 0.1509433962264151, 'rougeLsum': 0.1509433962264151}
+0.20735801756381989
+---------------------------------------------------------
+hashtag buildthewall from the pacific ocean to the gulf of mexico - hashtag deport all illegals and their families - hashtag nodaca hashtag noamnesty - hashtag proudamerica hashtag americafirst hashtag votered | Justification: hashtag buildthewall from the pacific ocean to the gulf of mexico - hashtag deport all illegals and their families - hashtag nodaca hashtag noamnesty - hashtag proudamerica hashtag americafirst (policy)  | Conclusion: hashtag votered (policy)  | Pivot: 
+Precisely, if that is what they propose, I hope that the majority will not vote for them.
+
+<pad><SCN> I don't understand why you would want to build a wall from the pacific ocean to the gulf of mexico. It's not a good idea. <ECN></s>
+{'precision': [0.8233599662780762], 'recall': [0.8556803464889526], 'f1': [0.8392090797424316], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 40, 'reference_length': 20}
+{'rouge1': 0.125, 'rouge2': 0.0, 'rougeL': 0.125, 'rougeLsum': 0.125}
+0.12976637482643127
+---------------------------------------------------------
+many lice you will find in viennese schools some refugees has brought us this as gift to rescue it will cost 30 â‚¬ a person https://t co/uav43bylfb | Justification: many lice you will find in viennese schools some refugees has brought us this as gift (fact)  | Conclusion: to rescue it will cost 30 â‚¬ a person (fact)  | Pivot: lice  -  it
+If treatment for lices costs the taxpayer 30$ per person then you should blame the politicians and the government because they are robbing you. Refugees are not a significant cost to the taxpayers, stupidity and xenophobia is 
+
+<pad><SCN> I don't think it's a good idea to bring a gift to a refugee. It's not a good way to save someone, it's just not fair. <ECN></s>
+{'precision': [0.8404704928398132], 'recall': [0.841106653213501], 'f1': [0.8407884240150452], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11904761904761904, 0.024390243902439025, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.05, 'translation_length': 42, 'reference_length': 40}
+{'rouge1': 0.08450704225352113, 'rouge2': 0.028985507246376812, 'rougeL': 0.08450704225352113, 'rougeLsum': 0.08450704225352113}
+0.3708714544773102
+---------------------------------------------------------
+good this makes it a safe country ðÿ immigrants can now go home ðÿ ðÿ‹ðÿ"ðÿ‹ðÿ"ðÿ‹ðÿ"ðÿ‹ðÿ"ðÿ‹ðÿ"ðÿ‹ðÿ" https://t co/199kxd98br | Justification: good this makes it a safe country (fact)  | Conclusion: immigrants can now go home (policy)  | Pivot: 
+What is "this"? You should be more specific with your arguments.... 
+
+<pad><SCN> I don't think it's a safe country, it's just a country, and it's not a safe place to live. <ECN></s>
+{'precision': [0.825230598449707], 'recall': [0.83343905210495], 'f1': [0.8293145298957825], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.02857142857142857, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.9444444444444444, 'translation_length': 35, 'reference_length': 18}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.08376231789588928
+---------------------------------------------------------
+illegals do not have constitutional rights per hashtag scotus therfeore no right to free education on u s taxpayers back stop rewarding illegals hashtag sendthemhome trump maga hashtag rednationrising hashtag sundaymorning https://t co/ewb4mu2frj via @user | Justification: illegals do not have constitutional rights per hashtag scotus therfeore no right to free education on u s taxpayers back (fact)  | Conclusion: stop rewarding illegals hashtag sendthemhome (policy)  | Pivot: illegals  -  illegals
+Illegals are not getting any reward. All the contrary, they receive hate and predjudice from ignorant xenophobous like you
+
+<pad><SCN> I don't think you should reward illegals for their right to free education. You are a racist. <ECN></s>
+{'precision': [0.8475626111030579], 'recall': [0.8442742824554443], 'f1': [0.8459153175354004], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.125, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.5238095238095237, 'translation_length': 32, 'reference_length': 21}
+{'rouge1': 0.1951219512195122, 'rouge2': 0.0, 'rougeL': 0.0975609756097561, 'rougeLsum': 0.0975609756097561}
+0.559407114982605
+---------------------------------------------------------
+hispanics are the hardest hit by illegal immigration it impacts their wages jobs and communites as well as african americans hashtag walkaway hashtag walkawayfromdemocrats socialist pro illegal immigration policies @user hashtag democrats https://t co/aa61gyhmgo | Justification: hispanics are the hardest hit by illegal immigration it impacts their wages jobs and communites as well as african americans (fact)  | Conclusion: hashtag walkawayfromdemocrats socialist pro illegal immigration policies (policy)  | Pivot: illegal immigration  -  illegal immigration
+This is opposition political propaganda. Because I don't think any party is in favor of something "illegal.
+
+<pad><SCN> I don't see how you can make a difference if you don't support the policies of the democrats. You are a socialist, not a racist. <ECN></s>
+{'precision': [0.8486603498458862], 'recall': [0.8679472208023071], 'f1': [0.8581954836845398], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12195121951219512, 0.025, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.05, 'translation_length': 41, 'reference_length': 20}
+{'rouge1': 0.16326530612244897, 'rouge2': 0.0851063829787234, 'rougeL': 0.16326530612244897, 'rougeLsum': 0.16326530612244897}
+0.21417982876300812
+---------------------------------------------------------
+the illegal immigration problem was started by continued and made worse by government 100 years ago we had free and open borders to the south and supply and demand for labor determined how many came | Justification: 100 years ago we had free and open borders to the south and supply and demand for labor determined how many came (fact)  | Conclusion: the illegal immigration problem was started by continued and made worse by government (fact)  | Pivot: 
+Are you suggesting that the government should eliminate immigration, or that it should stop controlling it altogether? No to everything. Both decisions would have adverse consequences.
+
+<pad><SCN> I don't think it's a bad thing, but it's not a good thing. It's just not right. <ECN></s>
+{'precision': [0.8335371613502502], 'recall': [0.8453266620635986], 'f1': [0.8393905162811279], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09090909090909091, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.1, 'translation_length': 33, 'reference_length': 30}
+{'rouge1': 0.0784313725490196, 'rouge2': 0.0, 'rougeL': 0.0784313725490196, 'rougeLsum': 0.0784313725490196}
+0.08938547968864441
+---------------------------------------------------------
+europe is fed up with muslim immigration - new eu deal to stop the madness - free speech time - https://t co/blr3iqoxdl @user | Justification: europe is fed up with muslim immigration (fact)  | Conclusion: new eu deal to stop the madness (policy)  | Pivot: 
+The madness we need to stop is not Muslim immigration but xenophobous hate spreaders like you.
+
+<pad><SCN> I don't know what you are talking about, but I think it's a good idea to make a deal to stop the immigration of Muslims. <ECN></s>
+{'precision': [0.8314909934997559], 'recall': [0.8588665723800659], 'f1': [0.8449571132659912], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.15, 0.02564102564102564, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.3529411764705883, 'translation_length': 40, 'reference_length': 17}
+{'rouge1': 0.25531914893617014, 'rouge2': 0.04444444444444444, 'rougeL': 0.12765957446808507, 'rougeLsum': 0.12765957446808507}
+0.4484623670578003
+---------------------------------------------------------
+this would be amusing if it didnt empower our enemies libprog cucks out to little brown people (whom of course are majorities in their own countries ) hashtag whitegenocide hashtag stoptheinvasion https://t co/gjvyjoslh3 | Justification: this would be amusing if it didnt empower our enemies libprog cucks out to little brown people (whom of course are majorities in their own countries ) (fact)  | Conclusion: hashtag stoptheinvasion (policy)  | Pivot: 
+This is not about who is or is not majority or minority, we are all just people trying to have a better future. There is no invasion
+
+<pad><SCN> I don't think it's amusing that our enemies are libprog cucks out to minorities in their own countries. It's a joke. <ECN></s>
+{'precision': [0.8309515118598938], 'recall': [0.8436546325683594], 'f1': [0.8372549414634705], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1111111111111111, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.2413793103448276, 'translation_length': 36, 'reference_length': 29}
+{'rouge1': 0.10909090909090909, 'rouge2': 0.0, 'rougeL': 0.10909090909090909, 'rougeLsum': 0.10909090909090909}
+0.3217204511165619
+---------------------------------------------------------
+hashtag buildthewall hashtag endchainmigration call tweet email your representatives today say you are willing to support a government shutdown or whatever it takes to secure our borders let those elitists and rinos know who is in charge | Justification: to secure our borders (fact)  | Conclusion: hashtag buildthewall hashtag endchainmigration call tweet email your representatives today say you are willing to support a government shutdown or whatever it takes (policy)  | Pivot: 
+Because your tweets are going to make our borders more secure, yeah.
+
+<pad><SCN> I don't understand why you want to build a wall. You are a racist, you are a rabid xenophobous person. <ECN></s>
+{'precision': [0.8377337455749512], 'recall': [0.8783950209617615], 'f1': [0.8575826287269592], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1111111111111111, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.5714285714285716, 'translation_length': 36, 'reference_length': 14}
+{'rouge1': 0.10810810810810811, 'rouge2': 0.0, 'rougeL': 0.05405405405405406, 'rougeLsum': 0.05405405405405406}
+0.3420177102088928
+---------------------------------------------------------
+uae saudi arabia qatar and kuwait who refuse to take in refugees why should the u s take in more costing taxpayers billions while we have homeless citizens and hashtag veterans hashtag trump hashtag maga hashtag rednationrising https://t co/z6ky8iukpi | Justification: uae saudi arabia qatar and kuwait who refuse to take in refugees (fact)  | Conclusion: why should the u s take in more costing taxpayers billions while we have homeless citizens and hashtag veterans (policy)  | Pivot: to take in  -  take in
+Maybe because no country should make its decisions based on what other countries do, but based on what is right, and what is best for its population...
+
+<pad><SCN> Why should the US take in more homeless citizens and veterans? It's a waste of taxpayers money. <ECN></s>
+{'precision': [0.8319115042686462], 'recall': [0.8456407785415649], 'f1': [0.8387200236320496], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09375, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0, 'translation_length': 32, 'reference_length': 32}
+{'rouge1': 0.08163265306122448, 'rouge2': 0.0, 'rougeL': 0.08163265306122448, 'rougeLsum': 0.08163265306122448}
+0.26741570234298706
+---------------------------------------------------------
+@user @user agree with your idea to use the army to build the wall do it hashtag buildthatwall hashtag buildthewall | Justification: @user agree with your idea to use the army to build the wall (value)  | Conclusion: do it hashtag buildthatwall hashtag buildthewall (policy)  | Pivot: to build the wall  -  hashtag buildthewall
+Just because someone agrees with your idea doesn't make it a good idea.
+
+<pad><SCN> Do you agree with the idea that the army should build the wall? I don't think so... <ECN></s>
+{'precision': [0.8303334712982178], 'recall': [0.8727197647094727], 'f1': [0.850999116897583], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08823529411764706, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.4285714285714284, 'translation_length': 34, 'reference_length': 14}
+{'rouge1': 0.16666666666666663, 'rouge2': 0.0, 'rougeL': 0.16666666666666663, 'rougeLsum': 0.16666666666666663}
+0.30717772245407104
+---------------------------------------------------------
+canada is an immigrant country dont change it to refugee country please | Justification: canada is an immigrant country (fact)  | Conclusion: dont change it to refugee country please (policy)  | Pivot: country  -  country
+What is the real difference? That one comes from a country at war and the other does not...? How much could that "change" Canada?
+
+<pad><SCN> I don't understand why you would change it to a refugee country. It's not a country, it's a country. <ECN></s>
+{'precision': [0.8356075286865234], 'recall': [0.8346777558326721], 'f1': [0.8351424336433411], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.17142857142857143, 0.029411764705882353, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.09375, 'translation_length': 35, 'reference_length': 32}
+{'rouge1': 0.16, 'rouge2': 0.041666666666666664, 'rougeL': 0.12000000000000001, 'rougeLsum': 0.12000000000000001}
+0.1863892376422882
+---------------------------------------------------------
+@user just deport all these illegal aliens and their kids back to their 3rd world nations a merican citizens taxpayers are tired of being robbed by the 3rd world nation paying for these illegal aliens and their kids hashtag maga hashtag buildthewall hashtag nodaca hashtag noamne | Justification: merican citizens taxpayers are tired of being robbed by the 3rd world nation paying for these illegal aliens and their kids (fact)  | Conclusion: just deport all these illegal aliens and their kids back to their 3rd world nations (policy)  | Pivot: illegal aliens and their kids  -  illegal aliens and their kids
+Some American taxpayers being tired of "being robbed" don't justify deporting kids
+
+<pad><SCN> I don't think it's a good idea to deport people who don't want to be robbed by the 3rd world nation. It's just not fair. <ECN></s>
+{'precision': [0.8356848955154419], 'recall': [0.8670668601989746], 'f1': [0.8510866761207581], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.05, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.857142857142857, 'translation_length': 40, 'reference_length': 14}
+{'rouge1': 0.13043478260869568, 'rouge2': 0.045454545454545456, 'rougeL': 0.08695652173913043, 'rougeLsum': 0.08695652173913043}
+0.48896148800849915
+---------------------------------------------------------
+eu is a big spender of taxmoney turkey gets again many â‚¬ for keeping the refugees away from europe of course also other countries in africa want now money from the eu like libya sudan aso the only help would be now concentrationcamps hopefully without food and water https://t co/y8gujkv6qo | Justification: eu is a big spender of taxmoney turkey gets again many â‚¬ for keeping the refugees away from europe of course also other countries in africa want now money from the eu like libya sudan aso (fact)  | Conclusion: the only help would be now concentrationcamps hopefully without food and water (policy)  | Pivot: 
+I can't decide which is worse. that you without hesitation propose concentration camps, or the fact that you actually believe that systematically killing people and covering it up would be cheaper
+
+<pad><SCN> I don't understand why the EU is a big spender of tax money. It's a waste of money. <ECN></s>
+{'precision': [0.8310247659683228], 'recall': [0.8412675857543945], 'f1': [0.8361148238182068], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12121212121212122, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0, 'translation_length': 33, 'reference_length': 33}
+{'rouge1': 0.17857142857142858, 'rouge2': 0.0, 'rougeL': 0.14285714285714288, 'rougeLsum': 0.14285714285714288}
+0.10533313453197479
+---------------------------------------------------------
+eu to migrants: go home and stay home https://t co/kbucjy2mrq | Justification: eu to migrants: go home and stay home (fact)  | Conclusion: go home and stay home (policy)  | Pivot: 
+Their home is in the country they choose, not where you say it is
+
+<pad><SCN> I don't understand why you are blaming the EU for what you are doing. Leaving the EU is not the right thing to do. <ECN></s>
+{'precision': [0.8410758972167969], 'recall': [0.8575258255004883], 'f1': [0.8492211699485779], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10256410256410256, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.6, 'translation_length': 39, 'reference_length': 15}
+{'rouge1': 0.18604651162790697, 'rouge2': 0.0, 'rougeL': 0.1395348837209302, 'rougeLsum': 0.1395348837209302}
+0.17137901484966278
+---------------------------------------------------------
+@user china we want a square deal and america want a strong economy and a wall hashtag stoptheinvasion there is no blue wave they hashtag fakenews are setting you up for a russian interference once the hashtag redtsunami slaps them silly watch ) | Justification: there is no blue wave they hashtag fakenews are setting you up for a russian interference once the hashtag redtsunami slaps them silly watch (fact)  | Conclusion: china we want a square deal and america want a strong economy and a wall hashtag stoptheinvasion (value)  | Pivot: 
+What does China have to do with a wall and America's immigration policy? There is an ocean in between...
+
+<pad><SCN> I don't know what you are talking about, but it's not the same as saying "stop the invasion" or "stop the invasion" <ECN></s>
+{'precision': [0.8324764966964722], 'recall': [0.840367317199707], 'f1': [0.8364033102989197], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7391304347826086, 'translation_length': 40, 'reference_length': 23}
+{'rouge1': 0.08333333333333333, 'rouge2': 0.0, 'rougeL': 0.08333333333333333, 'rougeLsum': 0.08333333333333333}
+0.1306883990764618
+---------------------------------------------------------
+why hashtag nodaca ? illegals est between 11 - 30 millionillegal vote 80% dem or 600 000 dem vote advantage / 1 000 000 illegal voters70 000 votes gave @user 2016 electionwhy do you think dems pushing no walls no borders no voter ids? hashtag potus hashtag maga hashtag kag hashtag trump hashtag news hashtag votered | Justification: illegals est between 11 - 30 millionillegal vote 80% dem or 600 000 dem vote advantage / 1 000 000 illegal voters70 000 votes gave @user 2016 electionwhy do you think dems pushing no walls no borders no voter ids? (fact)  | Conclusion: why hashtag nodaca ? (policy)  | Pivot: 
+It doesn't seem to be a relationship between these statistics and DACA....
+
+<pad><SCN> I don't think it's the right thing to do, but it's not a good idea. If you don't believe me, you can't vote. <ECN></s>
+{'precision': [0.834031879901886], 'recall': [0.8554725646972656], 'f1': [0.844616174697876], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.5, 'translation_length': 40, 'reference_length': 16}
+{'rouge1': 0.17777777777777778, 'rouge2': 0.0, 'rougeL': 0.13333333333333333, 'rougeLsum': 0.13333333333333333}
+-0.07837466895580292
+---------------------------------------------------------
+"governor cuomo on wednesday called ice ""a bunch of thugs"" trying to remember when he used such harsh language when describing ms-13 bloodthirsty killersoh he didnt hashtag maga hashtag kag hashtag potus hashtag nodaca hashtag walkaway hashtag news hashtag americafirst hashtag backtheblue hashtag alllivesmatter" | Justification: "governor cuomo on wednesday called ice ""a bunch of thugs"" (fact)  | Conclusion: trying to remember when he used such harsh language when describing ms-13 bloodthirsty killersoh he didnt (fact)  | Pivot: 
+So what about that? You're not saying anything, really...
+
+<pad><SCN> I don't understand why he called ice "a bunch of thugs"... <ECN></s>
+{'precision': [0.8280779123306274], 'recall': [0.8450649976730347], 'f1': [0.8364852070808411], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10344827586206896, 0.07142857142857142, 0.037037037037037035, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0714285714285716, 'translation_length': 29, 'reference_length': 14}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.11864370107650757
+---------------------------------------------------------
+immigration gone crazy 100 trainee doctors from abroad what about nurse practitioners who are their equivalent get pain peanuts and are trained and come from the uk | Justification: 100 trainee doctors from abroad what about nurse practitioners who are their equivalent get pain peanuts and are trained and come from the uk (fact)  | Conclusion: immigration gone crazy (value)  | Pivot: immigration  -  from abroad
+Are you implying that immigration is out of control just because 100 doctors came from abroad? Do you know how many people live in this country?
+
+<pad><SCN> I don't think it's a bad idea to discriminate against people from outside the country. It's just not fair. <ECN></s>
+{'precision': [0.8432778120040894], 'recall': [0.8498744368553162], 'f1': [0.8465632796287537], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11764705882352941, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.2142857142857142, 'translation_length': 34, 'reference_length': 28}
+{'rouge1': 0.15384615384615385, 'rouge2': 0.0, 'rougeL': 0.07692307692307693, 'rougeLsum': 0.07692307692307693}
+0.21083691716194153
+---------------------------------------------------------
+100 bangladeshi nationals apprehended near texas border in 3 weeks via @user hashtag noamnesty hashtag deport illegals hashtag buildthatwall hashtag trump hashtag maga hashtag masa | Justification: 100 bangladeshi nationals apprehended near texas border in 3 weeks (fact)  | Conclusion: hashtag deport illegals hashtag buildthatwall (policy)  | Pivot: bangladeshi  -  illegals
+Do you know why where they apprehended? Why do you assume they were illegals?
+
+<pad><SCN> I don't think it's necessary to build a wall to deport illegals. It's not a good idea. <ECN></s>
+{'precision': [0.8287621736526489], 'recall': [0.8415262699127197], 'f1': [0.8350954055786133], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.03125, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 32, 'reference_length': 16}
+{'rouge1': 0.052631578947368425, 'rouge2': 0.0, 'rougeL': 0.052631578947368425, 'rougeLsum': 0.052631578947368425}
+0.28855615854263306
+---------------------------------------------------------
+banning " hate speech " is directly proportional to crime rise in germany by sharia enablers " hate speech " is a tool to hide uns mass immigration to conquer the west hashtag unitedagainstsharia https://t co/fxddkyzdga | Justification: banning " hate speech " is directly proportional to crime rise in germany by sharia enablers (fact)  | Conclusion: " hate speech " is a tool to hide uns mass immigration to conquer the west (fact)  | Pivot: hate speech "  -  hate speech "
+So you are fighting this secret plan to conquer the West by spreading hate to anyone that is different from you?
+
+<pad><SCN> I don't think it's true that hate speech is a tool to hide mass immigration to conquer the west. It's just that it's not true. <ECN></s>
+{'precision': [0.8311736583709717], 'recall': [0.8616262674331665], 'f1': [0.8461260795593262], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.175, 0.05128205128205128, 0.02631578947368421, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.8181818181818181, 'translation_length': 40, 'reference_length': 22}
+{'rouge1': 0.2962962962962963, 'rouge2': 0.11538461538461538, 'rougeL': 0.18518518518518517, 'rougeLsum': 0.18518518518518517}
+0.4685715138912201
+---------------------------------------------------------
+@user unchecked population &amp migration to cities is biggest evil for dirty india disincentive large families such as withdrawl of sops | Justification: unchecked population &amp migration to cities is biggest evil for dirty india (fact)  | Conclusion: disincentive large families such as withdrawl of sops (policy)  | Pivot: population  -  large families
+Perhaps there are better ways to discourage population accumulation without taking away the money that many families count on to eat. Why not encourage more opportunities away from the big cities?
+
+<pad><SCN> I don't think it's a good idea to disincentive large families to migrate to cities. It's not a good policy. <ECN></s>
+{'precision': [0.8512629270553589], 'recall': [0.8721108436584473], 'f1': [0.8615608215332031], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.17142857142857143, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0606060606060606, 'translation_length': 35, 'reference_length': 33}
+{'rouge1': 0.17241379310344826, 'rouge2': 0.0, 'rougeL': 0.13793103448275862, 'rougeLsum': 0.13793103448275862}
+0.47386425733566284
+---------------------------------------------------------
+"""@user @user @user it may have to do with plain honest speech so many politicians have the """political speech""" bug theyre accustomed to stating what people want to hear & not what they need to like saying it is hashtag fucktarded to believe the mass hashtag refugee / hashtag rapefugee immigration was good is idiodic"" " | Justification: it may have to do with plain honest speech so many politicians have the """political speech""" bug theyre accustomed to stating what people want to hear & not what they need to (fact)  | Conclusion: like saying it is hashtag fucktarded to believe the mass hashtag refugee / hashtag rapefugee immigration was good is idiodic"" (fact)  | Pivot: 
+Well, that's your opinion...your wrong opinion.....  You can't expect everyone to agree. That's not how democracy works
+
+<pad> Conclusion: Like saying it is "fucktarded" to believe the mass "refugee / rapefugee immigration was good is idiodic" is idiocy... <ECN></s>
+{'precision': [0.7871243953704834], 'recall': [0.831505537033081], 'f1': [0.808706521987915], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10526315789473684, 0.05405405405405406, 0.027777777777777776, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3571428571428572, 'translation_length': 38, 'reference_length': 28}
+{'rouge1': 0.09302325581395349, 'rouge2': 0.0, 'rougeL': 0.09302325581395349, 'rougeLsum': 0.09302325581395349}
+0.3131566047668457
+---------------------------------------------------------
+@user americans want @user to fund the wall also want you as speaker please hashtag buildthe wall hashtag endchainmigration hashtag endvisalottery hashtag enacteverify hashtag passsaf | Justification: @user americans want @user to fund the wall also want you as speaker (fact)  | Conclusion: please hashtag buildthe wall (policy)  | Pivot: wall  -  wall
+Just because you and your friends at the bar say so? It's so funny how these people talk about "Americans" only when it suits them.
+
+<pad><SCN> I don't understand why people want to fund a wall. It's not a good idea. <ECN></s>
+{'precision': [0.8517728447914124], 'recall': [0.84734046459198], 'f1': [0.8495508432388306], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0344827586206897, 'translation_length': 30, 'reference_length': 29}
+{'rouge1': 0.12765957446808512, 'rouge2': 0.044444444444444446, 'rougeL': 0.0851063829787234, 'rougeLsum': 0.0851063829787234}
+0.053610965609550476
+---------------------------------------------------------
+this should be every country they come here seeking asylum better life then become a burden to our financials system and criminal system why do we allow this hashtag deport them all no respect for hashtag america @user hashtag buildthatwall hashtag maga hashtag patriotsunited hashtag apologytourisover | Justification: this should be every country they come here seeking asylum better life then become a burden to our financials system and criminal system why do we allow this  -  no respect for hashtag america (fact)  | Conclusion: hashtag deport them all  -  hashtag buildthatwall (policy)  | Pivot: they  -  them
+Deporting people seeking asylum (victims of human trafficking, natural disasters, wars) is inhuman. Not being humans is worse than a small burden to our financial system
+
+<pad><SCN> I don't understand why they should be deported. They are a burden to our financial system and criminal system. <ECN></s>
+{'precision': [0.8491594791412354], 'recall': [0.8502838611602783], 'f1': [0.8497212529182434], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.11084119214562044, 'precisions': [0.20588235294117646, 0.12121212121212122, 0.09375, 0.06451612903225806], 'brevity_penalty': 1.0, 'length_ratio': 1.096774193548387, 'translation_length': 34, 'reference_length': 31}
+{'rouge1': 0.24000000000000002, 'rouge2': 0.16666666666666666, 'rougeL': 0.24000000000000002, 'rougeLsum': 0.24000000000000002}
+0.45071136951446533
+---------------------------------------------------------
+@user hello?? stop groping my nation schneider: current migrant crisis " represents a plan orchestrated and prepared for a long time by international powers to radically alter christian and national identity of european peoples " http | Justification: schneider: current migrant crisis " represents a plan orchestrated and prepared for a long time by international powers to radically alter christian and national identity of european peoples " (fact)  | Conclusion: @user hello?? stop groping my nation (policy)  | Pivot: 
+No one is "groping" your nation. We have enough with this conspiratorial madness
+
+<pad><SCN> I don't understand why you are groping your nation. It's not a problem, it's just that you don't like it. <ECN></s>
+{'precision': [0.8478584289550781], 'recall': [0.8709248900413513], 'f1': [0.8592368960380554], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1111111111111111, 0.05714285714285714, 0.029411764705882353, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.25, 'translation_length': 36, 'reference_length': 16}
+{'rouge1': 0.14634146341463414, 'rouge2': 0.10256410256410256, 'rougeL': 0.14634146341463414, 'rougeLsum': 0.14634146341463414}
+0.3663937449455261
+---------------------------------------------------------
+@user i just read the guy that broke into many homes including chef jaime oliver was let go but dont call a refugee a rapefugee or the soros sponsored police of the uk will not let you go | Justification: i just read the guy that broke into many homes including chef jaime oliver was let go (fact)  | Conclusion: but dont call a refugee a rapefugee or the soros sponsored police of the uk will not let you go (fact)  | Pivot: 
+it's called presumption of innocence. You can't call a thief a "rapist". By the way, is he really a refugee or did you just make him up?
+
+<pad><SCN> I don't understand what you are saying. You are a racist, you are not a refugee, you are a rapefugee. <ECN></s>
+{'precision': [0.8431454300880432], 'recall': [0.847211480140686], 'f1': [0.8451735377311707], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.24324324324324326, 0.05555555555555555, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.121212121212121, 'translation_length': 37, 'reference_length': 33}
+{'rouge1': 0.29629629629629634, 'rouge2': 0.03846153846153846, 'rougeL': 0.1851851851851852, 'rougeLsum': 0.1851851851851852}
+0.3894699811935425
+---------------------------------------------------------
+"the hillary server/unmasking of u s citizens/fbi-cia-doj conspiracy perjury & obstruction - a silent coup - to take down a u s president by far the largest & deepest scandal to ever hit u s government hashtag maga hashtag kag hashtag trump hashtag potus hashtag news hashtag usa hashtag walkaway hashtag draintheswamp hashtag nodaca" | Justification: "the hillary server/unmasking of u s citizens/fbi-cia-doj conspiracy perjury & obstruction - a silent coup - to take down a u s president (fact)  | Conclusion: by far the largest & deepest scandal to ever hit u s government (fact)  | Pivot: president  -  government
+I do not know. There were so many scandals...
+
+<pad><SCN> I don't think it's a big scandal, but it's not a silent coup. It's just a ploy to take down a president. <ECN></s>
+{'precision': [0.8329078555107117], 'recall': [0.8658756613731384], 'f1': [0.8490718603134155], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10526315789473684, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.923076923076923, 'translation_length': 38, 'reference_length': 13}
+{'rouge1': 0.10256410256410256, 'rouge2': 0.0, 'rougeL': 0.10256410256410256, 'rougeLsum': 0.10256410256410256}
+0.5941818952560425
+---------------------------------------------------------
+@user must deport all illegal migrants india already reeling under constant threat of muslim radicals curb population | Justification: india already reeling under constant threat of muslim radicals curb population (fact)  | Conclusion: must deport all illegal migrants (policy)  | Pivot: 
+Why don't we improve the immigration system, reinforcing controls and favoring legal immigration? I think it makes much more sense to solve it this way.
+
+<pad><SCN> I don't think it's a good idea to deport all illegal immigrants. It's not a good policy. <ECN></s>
+{'precision': [0.8439493775367737], 'recall': [0.8575698137283325], 'f1': [0.850705087184906], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.15625, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.1428571428571428, 'translation_length': 32, 'reference_length': 28}
+{'rouge1': 0.27999999999999997, 'rouge2': 0.08333333333333333, 'rougeL': 0.24000000000000002, 'rougeLsum': 0.24000000000000002}
+0.4479658007621765
+---------------------------------------------------------
+today in tallin: puppets of the financial establishment dream from a new europe with many slaves macron a wordmouth and kern a refugeelover https://t co/yfkd6dsjfm | Justification: puppets of the financial establishment dream from a new europe with many slaves (fact)  | Conclusion: macron a wordmouth and kern a refugeelover (fact)  | Pivot: 
+ I understand the relationship between refugees and slaves that you state, and you're just wrong.
+
+<pad><SCN> I don't know what you are talking about, but you are a puppet of the financial establishment, not a refugeelover. <ECN></s>
+{'precision': [0.8333240151405334], 'recall': [0.8655442595481873], 'f1': [0.8491286039352417], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1388888888888889, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.1176470588235294, 'translation_length': 36, 'reference_length': 17}
+{'rouge1': 0.19512195121951217, 'rouge2': 0.0, 'rougeL': 0.14634146341463414, 'rougeLsum': 0.14634146341463414}
+0.44466373324394226
+---------------------------------------------------------
+"w h o t h e h e l l are these people ? hashtag burning if this is the effects of hashtag migrant hashtag migrant s what about hashtag illegalimmigration illegal migrant s ?? hashtag india hashtag indians we cannot neglect @user @user @user @user @user @user @user" | Justification: hashtag burning if this is the effects of hashtag migrant hashtag migrant s (fact)  | Conclusion: what about hashtag illegalimmigration illegal migrant s ?? (fact)  | Pivot: migrant  -  migrant  -  migrant
+Maybe the same? I don't know... Why should it be any different?
+
+<pad><SCN> I don't think it's a good idea to burn a migrant unless it's the right thing to do. If you don't believe me, you're not a racist. <ECN></s>
+{'precision': [0.8323670029640198], 'recall': [0.8239912986755371], 'f1': [0.8281580209732056], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11627906976744186, 0.023809523809523808, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.5294117647058822, 'translation_length': 43, 'reference_length': 17}
+{'rouge1': 0.20408163265306123, 'rouge2': 0.0851063829787234, 'rougeL': 0.163265306122449, 'rougeLsum': 0.163265306122449}
+0.1295984387397766
+---------------------------------------------------------
+meanwhile in europe nobody speaks the truth that all of the potential millions of migrants and refugees can not be taken into the euro zone former colonial powers like france &amp britain are not without guilt in the creation of the mess that is most of the african continent today | Justification: former colonial powers like france &amp britain are not without guilt in the creation of the mess that is most of the african continent today (fact)  | Conclusion: the truth that all of the potential millions of migrants and refugees can not be taken into the euro zone (fact)  | Pivot: millions of migrants and refugees  -  the mess that is most of the african continent
+Though the responsability of the former colonial powers in the refugee crisis is true, it is not true that refugees and migrants can not be taken into the Euro Zone. If there are resources for war, there must be resources for aid
+
+<pad><SCN> I don't understand what you are trying to say. You are trying to make people think that you are a racist, that you don't like immigrants, and that you are not a racist. <ECN></s>
+{'precision': [0.8363098502159119], 'recall': [0.8366038799285889], 'f1': [0.836456835269928], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.1111111111111112, 'translation_length': 50, 'reference_length': 45}
+{'rouge1': 0.09876543209876541, 'rouge2': 0.0, 'rougeL': 0.07407407407407408, 'rougeLsum': 0.07407407407407408}
+0.2396143674850464
+---------------------------------------------------------
+problem for the pm re johnson is that a person who sent round vans telling immigrants to go home is not in a position to lecture anyone on racism the lesson of which is: if you pander theyll take everything you give them and keep pushing for more | Justification: problem for the pm re johnson is that a person who sent round vans telling immigrants to go home is not in a position to lecture anyone on racism (fact)  | Conclusion: the lesson of which is: if you pander theyll take everything you give them and keep pushing for more (fact)  | Pivot: 
+What do you call "to pander"? Giving asylum to refugees? Come on... You are mixing things up 
+
+<pad><SCN> I don't think that you should lecture anyone on racism. If you are a racist, then you are not in a position to lecture anyone. <ECN></s>
+{'precision': [0.8269844055175781], 'recall': [0.823509693145752], 'f1': [0.8252434134483337], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14634146341463414, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7083333333333333, 'translation_length': 41, 'reference_length': 24}
+{'rouge1': 0.21276595744680848, 'rouge2': 0.044444444444444446, 'rougeL': 0.1702127659574468, 'rougeLsum': 0.1702127659574468}
+0.22252333164215088
+---------------------------------------------------------
+time to stop illegals from using kids as a get out of jail card hashtag detain and deport never let them see a u s city stop hashtag catchnrelease hashtag sendthemback asap hashtag trump hashtag maga hashtag rednationrising hashtag immigration no illegals | Justification: time to stop illegals from using kids as a get out of jail card (policy)  | Conclusion: hashtag detain and deport never let them see a u s city stop hashtag catchnrelease hashtag sendthemback asap (policy)  | Pivot: 
+There is no reason to detain and deport all immigrants, you are just being xenophobic.
+
+<pad><SCN> I don't think it's a good idea to deport people who don't have a criminal record. It's not a good policy, it's just not right. <ECN></s>
+{'precision': [0.8396837711334229], 'recall': [0.8873136639595032], 'f1': [0.8628419637680054], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.12195121951219512, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.411764705882353, 'translation_length': 41, 'reference_length': 17}
+{'rouge1': 0.12244897959183675, 'rouge2': 0.0, 'rougeL': 0.12244897959183675, 'rougeLsum': 0.12244897959183675}
+0.477939635515213
+---------------------------------------------------------
+@user @user @user @user @user american citizens need @user illegal s can reunite back across the border in mexico we dont need the extra crime that the illegal or refugees invaders bring to america hashtag nodaca hashtag novisalotte | Justification: we dont need the extra crime that the illegal or refugees invaders bring to america (fact)  | Conclusion: american citizens need @user illegal s can reunite back across the border in mexico (fact)  | Pivot: illegal s  -  illegal
+Maybe if you didn't look at them from your prejudice, you wouldn't think it was so necessary to control immigration...
+
+<pad><SCN> I don't understand why you are saying that. You are a racist, you are a xenophobous person, you are not a citizen... <ECN></s>
+{'precision': [0.8385113477706909], 'recall': [0.8478330373764038], 'f1': [0.8431464433670044], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14634146341463414, 0.075, 0.02564102564102564, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7083333333333333, 'translation_length': 41, 'reference_length': 24}
+{'rouge1': 0.12244897959183673, 'rouge2': 0.0, 'rougeL': 0.08163265306122448, 'rougeLsum': 0.08163265306122448}
+0.39832741022109985
+---------------------------------------------------------
+rich african countries dont take in african migrants rich muslim countries dont take in muslim migrants rich latin american countries dont take it latin migrants but white countries are suppose to accept them ?? | Justification: rich african countries dont take in african migrants rich muslim countries dont take in muslim migrants rich latin american countries dont take it latin migrants (fact)  | Conclusion: but white countries are suppose to accept them ?? (policy)  | Pivot: migrants  -  migrants  -  migrants  -  them
+So you are suggesting that Rich African Countries should be our role model to lead? Which Rich African Country do you think we should follow?
+
+<pad><SCN> I don't understand why you are saying that if you are a muslim or a latin american, you are not going to accept them. <ECN></s>
+{'precision': [0.8202096223831177], 'recall': [0.8345541954040527], 'f1': [0.8273197412490845], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1282051282051282, 0.02631578947368421, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4444444444444444, 'translation_length': 39, 'reference_length': 27}
+{'rouge1': 0.1851851851851852, 'rouge2': 0.03846153846153846, 'rougeL': 0.14814814814814817, 'rougeLsum': 0.14814814814814817}
+0.09101110696792603
+---------------------------------------------------------
+@user hashtag democrats and liberals are lying about illegal hashtag immigration its time we take back our country hashtag sendthembac k hashtag indepenceday happy 4th of juluy hashtag fourthofjuly happy birthday america god bless america hashtag trump hashtag maga hashtag rednationrising https://t co/j | Justification: democrats and liberals are lying about illegal hashtag immigration (fact)  | Conclusion: its time we take back our country hashtag sendthembac (policy)  | Pivot: 
+If you have lost the elections, you can't decide the course of the country... it's called democracy...
+
+<pad><SCN> I don't know what you are talking about, but I think it's time to take back our country. If you don't agree with me, I'm not going to send them back. <ECN></s>
+{'precision': [0.8524094820022583], 'recall': [0.8678752183914185], 'f1': [0.8600728511810303], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.16666666666666666, 0.0425531914893617, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 48, 'reference_length': 24}
+{'rouge1': 0.2413793103448276, 'rouge2': 0.07142857142857142, 'rougeL': 0.13793103448275865, 'rougeLsum': 0.13793103448275865}
+0.25510716438293457
+---------------------------------------------------------
+@user theres an agenda jprdan: white genocide is a crime eu funded report tells journalists not to write negative articles on migrant crisis "it even urges them to report colleagues to the authorities for hate speech crimes "https://t | Justification: eu funded report tells journalists not to write negative articles on migrant crisis "it even urges them to report colleagues to the authorities for hate speech crimes (fact)  | Conclusion: @user theres an agenda jprdan: white genocide is a crime (fact)  | Pivot: 
+I don't see the relationship between preventing hate speech and a genocidal agenda. I even think they are contradictory 
+
+<pad><SCN> I don't understand why the EU funded report tells journalists not to write negative articles on migrant crisis... <ECN></s>
+{'precision': [0.8486621379852295], 'recall': [0.8714559674263], 'f1': [0.8599080443382263], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11764705882352941, 0.030303030303030304, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7, 'translation_length': 34, 'reference_length': 20}
+{'rouge1': 0.18604651162790697, 'rouge2': 0.0975609756097561, 'rougeL': 0.18604651162790697, 'rougeLsum': 0.18604651162790697}
+0.18018566071987152
+---------------------------------------------------------
+the hashtag americancommunists who live in our country want open borders hashtag draintheswamp hashtag stopthe invasion https://t co/vyuwzhiafp | Justification: the hashtag americancommunists who live in our country want open borders (fact)  | Conclusion: hashtag draintheswamp hashtag stopthe invasion (policy)  | Pivot: open borders  -  invasion
+So your argument is that if #AmerivanCommunist want something you want the opposite? That means that if they want people to feed you want people to starve?
+
+<pad><SCN> I don't see how you can stop the invasion if you don't want to be a communist. You are a racist. <ECN></s>
+{'precision': [0.8418530821800232], 'recall': [0.8418320417404175], 'f1': [0.8418426513671875], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.16666666666666666, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.2, 'translation_length': 36, 'reference_length': 30}
+{'rouge1': 0.2222222222222222, 'rouge2': 0.0, 'rougeL': 0.2222222222222222, 'rougeLsum': 0.2222222222222222}
+0.20299813151359558
+---------------------------------------------------------
+@user @user @user @user a very high wall must be build to protect usa from bad elements of illigal refugees | Justification: to protect usa from bad elements of illigal refugees (fact)  | Conclusion: a very high wall must be build (policy)  | Pivot: 
+Building a damn wall along the entire border it's probably the worst way to protect a country from crime...
+
+<pad><SCN> I don't think it's necessary to build a wall to protect us from bad elements of illigal refugees. It's not a good idea. <ECN></s>
+{'precision': [0.8502504229545593], 'recall': [0.8806893825531006], 'f1': [0.8652022480964661], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.23684210526315788, 0.02702702702702703, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7272727272727273, 'translation_length': 38, 'reference_length': 22}
+{'rouge1': 0.32, 'rouge2': 0.08333333333333333, 'rougeL': 0.2, 'rougeLsum': 0.2}
+0.5962796807289124
+---------------------------------------------------------
+remember kate steinle today it is the third anniversary of her deathwe must not forget hashtag katesteinle hashtag illegalaliens hashtag openborders hashtag buildthatwall hashtag mondaymorning hashtag immigrationreform hashtag immigrationisaweapon | Justification: it is the third anniversary of her deathwe must not forget (fact)  | Conclusion: remember kate steinle today  -  hashtag buildthatwall (policy)  | Pivot: 
+Ok, that's sad but... Building the wall wouldn't change anything, and you know it. It's just a waste of time and money.
+
+<pad><SCN> I don't understand why you would want to build a wall if you were to forget Kate steinle. I'm not sure if that's the right thing to do, but it's not a good idea. <ECN></s>
+{'precision': [0.8479740619659424], 'recall': [0.8812559843063354], 'f1': [0.864294707775116], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.18, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7241379310344827, 'translation_length': 50, 'reference_length': 29}
+{'rouge1': 0.2985074626865672, 'rouge2': 0.061538461538461535, 'rougeL': 0.1791044776119403, 'rougeLsum': 0.1791044776119403}
+0.467671662569046
+---------------------------------------------------------
+israel is coming back to africa just 3 months ago african migrants and asylum seekers in israel were going to be forcibly coming back to africa as well hashtag israel hashtag comingtoafrica hashtag ethiopia https://t co/aknbrxhtj1 | Justification: just 3 months ago african migrants and asylum seekers in israel were going to be forcibly coming back to africa as well (fact)  | Conclusion: israel is coming back to africa (fact)  | Pivot: coming back to africa  -  coming back to africa
+Well, running people works, if you want to run people. The problem is not that, it's that it's wrong.
+
+<pad><SCN> I don't think it's true that israel is coming back to africa. It's just that if you don't believe it, it's not true. <ECN></s>
+{'precision': [0.8380796909332275], 'recall': [0.8705822229385376], 'f1': [0.8540218472480774], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.3076923076923077, 0.05263157894736842, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.625, 'translation_length': 39, 'reference_length': 24}
+{'rouge1': 0.4150943396226415, 'rouge2': 0.11764705882352941, 'rougeL': 0.22641509433962265, 'rougeLsum': 0.22641509433962265}
+0.08237457275390625
+---------------------------------------------------------
+" ""germany: doctor stabbed to death in his own surgery by somali """asylum seeker""" migrant his 10-year-old daughter forced to watch hashtag buildthatwall hashtag buildthewall hashtag immigrationreform hashtag immigration hashtag germany""" | Justification: ""germany: doctor stabbed to death in his own surgery by somali """asylum seeker""" migrant his 10-year-old daughter forced to watch (fact)  | Conclusion: hashtag buildthatwall hashtag buildthewall (policy)  | Pivot: 
+So we're going to spend a lot of money building a wall, just to keep out the criminals who are already inside. Meanwhile, we deny entry to the good people.... It doesn't make sense
+
+<pad><SCN> I don't understand why you would want to build a wall if your daughter was stabbed to death by a Somali asylum seeker. <ECN></s>
+{'precision': [0.8484950661659241], 'recall': [0.8615025877952576], 'f1': [0.8549493551254272], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.16216216216216217, 0.027777777777777776, 0.0, 0.0], 'brevity_penalty': 0.8975305608544599, 'length_ratio': 0.9024390243902439, 'translation_length': 37, 'reference_length': 41}
+{'rouge1': 0.1875, 'rouge2': 0.03225806451612903, 'rougeL': 0.125, 'rougeLsum': 0.125}
+0.3959400951862335
+---------------------------------------------------------
+mo brooks: the 15m illegals in u s give blue states 20 congressional seats hashtag maga hashtag walkaway hashtag nodaca hashtag noamnesty hashtag drainthedeepstate hashtag thewall | Justification: mo brooks: the 15m illegals in u s give blue states 20 congressional seats (fact)  | Conclusion: hashtag walkaway hashtag nodaca hashtag noamnesty hashtag drainthedeepstate (policy)  | Pivot: 
+And how do you think building a wall will stop people ALREADY INSIDE from doing the wrong thing?
+
+<pad><SCN> I don't understand why you are saying that. Unless you are a racist, you are not going to be able to do anything about it. <ECN></s>
+{'precision': [0.8327927589416504], 'recall': [0.8397302031517029], 'f1': [0.8362470269203186], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07317073170731707, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.1578947368421053, 'translation_length': 41, 'reference_length': 19}
+{'rouge1': 0.125, 'rouge2': 0.0, 'rougeL': 0.08333333333333334, 'rougeLsum': 0.08333333333333334}
+0.0467115119099617
+---------------------------------------------------------
+watch what happens next muslim migrant challenges welfare worker and t https://t co/6xotv681pq via @user thats exactly what we must do | Justification: watch what happens next muslim migrant challenges welfare worker and t (fact)  | Conclusion: thats exactly what we must do (policy)  | Pivot: 
+And " that" is what? You wrote only half of the message
+
+<pad><SCN> I don't know what you mean by "watch what happens next muslim migrant challenges welfare worker and t" <ECN></s>
+{'precision': [0.8069308996200562], 'recall': [0.8404723405838013], 'f1': [0.8233601450920105], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09090909090909091, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.357142857142857, 'translation_length': 33, 'reference_length': 14}
+{'rouge1': 0.1764705882352941, 'rouge2': 0.06250000000000001, 'rougeL': 0.1176470588235294, 'rougeLsum': 0.1176470588235294}
+0.17173784971237183
+---------------------------------------------------------
+comparatively our own inner city youth & fellow americans live like 3rd class citizens while illegals are housed at ice centers that rival the best elementary schools & college dorms in the country hashtag buildthatwall @user @user @user @user @user | Justification: comparatively our own inner city youth & fellow americans live like 3rd class citizens while illegals are housed at ice centers that rival the best elementary schools & college dorms in the country (fact)  | Conclusion: hashtag buildthatwall (policy)  | Pivot: 
+And you think building a wall is going to help allocate funds better? Seems like a way to spend more
+
+<pad><SCN> I don't understand why you would want to build a wall if you don't want to live like a 3rd class citizen. <ECN></s>
+{'precision': [0.8317577838897705], 'recall': [0.8625218868255615], 'f1': [0.8468605279922485], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.19444444444444445, 0.05714285714285714, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7142857142857142, 'translation_length': 36, 'reference_length': 21}
+{'rouge1': 0.2916666666666667, 'rouge2': 0.08695652173913043, 'rougeL': 0.25, 'rougeLsum': 0.25}
+0.3610532581806183
+---------------------------------------------------------
+we are living in dangerous times losing our identity while the hashtag illegalaliens steal them they steal our jobs hashtag buildthatwall hashtag stopillegals hashtag saveourjobs hashtag maga hashtag drainthedeepstate hashtag americafirst hashtag americansfirst | Justification: losing our identity while the hashtag illegalaliens steal them they steal our jobs (fact)  | Conclusion: we are living in dangerous times  -  hashtag buildthatwall (policy)  | Pivot: 
+I don't understand how a wall would prevent someone else from taking our jobs. What it would be, though, is a huge waste of money.
+
+<pad><SCN> We are living in dangerous times. We are losing our identity because of the illegals. We are not living in danger because of the immigrants. <ECN></s>
+{'precision': [0.8420923948287964], 'recall': [0.8598581552505493], 'f1': [0.8508825898170471], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.0975609756097561, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4137931034482758, 'translation_length': 41, 'reference_length': 29}
+{'rouge1': 0.07272727272727274, 'rouge2': 0.0, 'rougeL': 0.07272727272727274, 'rougeLsum': 0.07272727272727274}
+0.17444857954978943
+---------------------------------------------------------
+ðÿ‡ðÿ‡denmark: ill pay denmark niqab fines: french- algeria n millionaire no go back to algeria better yet tell algeria to open its borders to african migrants instead of europe | Justification: ill pay denmark niqab fines: french- algeria n millionaire (fact)  | Conclusion: no go back to algeria better yet tell algeria to open its borders to african migrants instead of europe (policy)  | Pivot: algeria n  -  algeria  -  algeria
+Stop making stupid demands. Everyone helps as they can... I mean, some at least are helpful...
+
+<pad><SCN> I don't understand why you would want to go back to Algeria if you don't want to be a millionaire. You are not going to do anything about it. <ECN></s>
+{'precision': [0.8293835520744324], 'recall': [0.8493291139602661], 'f1': [0.8392378687858582], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.09090909090909091, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.8333333333333333, 'translation_length': 44, 'reference_length': 24}
+{'rouge1': 0.0784313725490196, 'rouge2': 0.0, 'rougeL': 0.0784313725490196, 'rougeLsum': 0.0784313725490196}
+0.11282598972320557
+---------------------------------------------------------
+@user stop being spineless and tell the eu its our country and stop migrants dictating to us via eu | Justification: stop being spineless and tell the eu its our country (policy)  | Conclusion: stop migrants dictating to us via eu (policy)  | Pivot: eu  -  eu
+To be independent is not to decide "against" others, but to decide freely. It is one thing to demand that the EU does not dictate to us. Another is to pretend that this is sufficient reason to argue for a radical change of policies.
+
+<pad><SCN> I don't understand why you want to be spineless and tell the EU that it's our country, but it's not our country, it's your country. <ECN></s>
+{'precision': [0.8422678709030151], 'recall': [0.851132869720459], 'f1': [0.8466771841049194], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.21951219512195122, 0.05, 0.0, 0.0], 'brevity_penalty': 0.8029103660434959, 'length_ratio': 0.82, 'translation_length': 41, 'reference_length': 50}
+{'rouge1': 0.2077922077922078, 'rouge2': 0.05333333333333333, 'rougeL': 0.12987012987012989, 'rougeLsum': 0.12987012987012989}
+0.3718845844268799
+---------------------------------------------------------
+black catolic bishops are against their pope franciscus they dont want to loose their sheep which like to go to europe as refugees in the meantime hypocrises franciscus pray and dont open the st petersdom for refugees to stay https://t co/vxiffbao55 | Justification: in the meantime hypocrises franciscus pray and dont open the st petersdom for refugees to stay (fact)  | Conclusion: black catolic bishops are against their pope franciscus they dont want to loose their sheep which like to go to europe as refugees (fact)  | Pivot: refugees  -  refugees
+If he doesn't do anything, what's the problem? They are literally opposing someone who does not do what bothers them.
+
+<pad><SCN> I don't understand why they are against the pope. He is a good pope, but he is a bad pope. <ECN></s>
+{'precision': [0.8360501527786255], 'recall': [0.8714542388916016], 'f1': [0.8533851504325867], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1388888888888889, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.565217391304348, 'translation_length': 36, 'reference_length': 23}
+{'rouge1': 0.2553191489361702, 'rouge2': 0.044444444444444446, 'rougeL': 0.1276595744680851, 'rougeLsum': 0.1276595744680851}
+0.26312753558158875
+---------------------------------------------------------
+hashtag deportillegalaliens sanctuary cities government aid ( taxpayer $$$ ) for illegals no excuses hashtag buildthatwall hashtag buildthatdamnwall | Justification: sanctuary cities government aid ( taxpayer $$$ ) for illegals (fact)  | Conclusion: no excuses hashtag buildthatwall hashtag buildthatdamnwall (policy)  | Pivot: 
+You are complaining about immigrants being an excesive expense for the state and you want to build a wall that is going to cost dozens times more? That doesn't make any sense
+
+<pad><SCN> I don't think it's a good idea to build a wall because it's going to make life difficult for all of us. It's just a bad idea. <ECN></s>
+{'precision': [0.8565137982368469], 'recall': [0.8464499115943909], 'f1': [0.851452112197876], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.06986433942827834, 'precisions': [0.19047619047619047, 0.0975609756097561, 0.05, 0.02564102564102564], 'brevity_penalty': 1.0, 'length_ratio': 1.2727272727272727, 'translation_length': 42, 'reference_length': 33}
+{'rouge1': 0.2647058823529411, 'rouge2': 0.12121212121212122, 'rougeL': 0.2058823529411765, 'rougeLsum': 0.2058823529411765}
+0.3717312812805176
+---------------------------------------------------------
+frontex ships ngo ships and criminal elements transport refugees from africa to europe they all have a good buisness because only few goverments of europe will and are able to ban refugees from their territory there isnt a wil l https://t co/cv3s2btoxj | Justification: frontex ships ngo ships and criminal elements transport refugees from africa to europe  -  because only few goverments of europe will and are able to ban refugees from their territory (fact)  | Conclusion: they all have a good buisness  -  there isnt a wil (value)  | Pivot: 
+People have always emigrated, and this has never generated big problems. Why should be a will to stop it?
+
+<pad><SCN> I don't understand why they are able to ban refugees from their territory. It's just a matter of time. <ECN></s>
+{'precision': [0.8247617483139038], 'recall': [0.8530280590057373], 'f1': [0.8386567831039429], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.08823529411764706, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.5454545454545454, 'translation_length': 34, 'reference_length': 22}
+{'rouge1': 0.1818181818181818, 'rouge2': 0.0, 'rougeL': 0.13636363636363635, 'rougeLsum': 0.13636363636363635}
+0.37311768531799316
+---------------------------------------------------------
+https://t co/jhgqsvi8vg "mass migration from the islamic world seeded with terrorist cells is the greatest threat to europe from middle east but would not a u s war w-iran increase rather than diminish that threat"? another neocon nightmare bolton a discredited failure hashtag v4 | Justification: "mass migration from the islamic world seeded with terrorist cells is the greatest threat to europe from middle east but would not a u s war w-iran increase rather than diminish that threat"? (fact)  | Conclusion: another neocon nightmare bolton a discredited failure (fact)  | Pivot: 
+No country should interfere in the affairs of others. That this is a neocon nightmare is a problem for the neocon's, not from us.
+
+<pad><SCN> I don't see how this is a discredited failure. It's just a neocon nightmare. <ECN></s>
+{'precision': [0.8506117463111877], 'recall': [0.8717023134231567], 'f1': [0.8610278964042664], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.27586206896551724, 0.14285714285714285, 0.07407407407407407, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.0740740740740742, 'translation_length': 29, 'reference_length': 27}
+{'rouge1': 0.3111111111111111, 'rouge2': 0.186046511627907, 'rougeL': 0.2666666666666666, 'rougeLsum': 0.2666666666666666}
+0.2862934470176697
+---------------------------------------------------------
+@user @user americas public assistance medicare medicaid ss et al are strained and americans "benefits" are being cut not even able to maintain status quo no immigrants should be granted entry that need assistance hashtag nodaca hashtag norefuge | Justification: americas public assistance medicare medicaid ss et al are strained and americans "benefits" are being cut not even able to maintain status quo (fact)  | Conclusion: no immigrants should be granted entry that need assistance (policy)  | Pivot: 
+That's an excuse for not letting them in. Everyone is potentially sick, even citizens.
+
+<pad><SCN> I don't see how this is a problem. It's not a problem, it's just that it's not right. <ECN></s>
+{'precision': [0.8330384492874146], 'recall': [0.8680069446563721], 'f1': [0.8501632213592529], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.14705882352941177, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 34, 'reference_length': 17}
+{'rouge1': 0.1951219512195122, 'rouge2': 0.0, 'rougeL': 0.14634146341463417, 'rougeLsum': 0.14634146341463417}
+0.0902889147400856
+---------------------------------------------------------
+calais jungle refugees get a grip france they are visitors they have no rights or in a position to demand europe needs to get a grip | Justification: calais jungle refugees get a grip france they are visitors (fact)  | Conclusion: they have no rights or in a position to demand europe needs to get a grip (policy)  | Pivot: 
+The "visitors" has no rights? as if they were no humans... I think it's people like you who needs to get a grip...
+
+<pad><SCN> I don't see how they are going to get a grip on France. They are not citizens, they are immigrants. <ECN></s>
+{'precision': [0.8452745676040649], 'recall': [0.842990517616272], 'f1': [0.8441309928894043], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0763342527979876, 'precisions': [0.2222222222222222, 0.08571428571428572, 0.058823529411764705, 0.030303030303030304], 'brevity_penalty': 1.0, 'length_ratio': 1.125, 'translation_length': 36, 'reference_length': 32}
+{'rouge1': 0.2857142857142857, 'rouge2': 0.1276595744680851, 'rougeL': 0.20408163265306126, 'rougeLsum': 0.20408163265306126}
+0.21054169535636902
+---------------------------------------------------------
+" the nature of the hispanic is to abuse corrupt and subvert all anchors must go and the 14th amendment retroactively clarified hashtag deportthemall hashtag buildthewall hashtag mawa hashtag maga hashtag americafirst hashtag usa hashtag trumptrain hashtag ccot hashtag whitegenocide @user @user" | Justification: the nature of the hispanic is to abuse corrupt and subvert (fact)  | Conclusion: all anchors must go and the 14th amendment retroactively clarified hashtag deportthemall hashtag buildthewall (policy)  | Pivot: 
+Deport them just because they were born somewhere else? If you are bothered by criminals, I understand, so am I, but there are ways to fight them without being a racist.
+
+<pad><SCN> I don't understand why you would want to deport a Hispanic if you don't agree with what you are saying. <ECN></s>
+{'precision': [0.8339794874191284], 'recall': [0.8546731472015381], 'f1': [0.844199538230896], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.20588235294117646, 0.030303030303030304, 0.0, 0.0], 'brevity_penalty': 0.9428731438548749, 'length_ratio': 0.9444444444444444, 'translation_length': 34, 'reference_length': 36}
+{'rouge1': 0.2807017543859649, 'rouge2': 0.07272727272727272, 'rougeL': 0.14035087719298245, 'rougeLsum': 0.14035087719298245}
+0.47302407026290894
+---------------------------------------------------------
+drunken refugees - is that sad or a nature law no refugee have to leave his country to have a better life this means he can also get dead on his journey for hope and so its better to stay home than to dream https://t co/hzyiafrp9m | Justification: drunken refugees - is that sad or a nature law no refugee have to leave his country to have a better life this means he can also get dead on his journey for hope (fact)  | Conclusion: and so its better to stay home than to dream (fact)  | Pivot: 
+It is sad to see that many people close the door for no reason to people who are just looking for a better place to live, and who do not represent a danger to anyone.
+
+<pad><SCN> I don't think it's a bad idea to leave your country to have a better life, but it's not the same as dreaming. It's just that you don't want to be a refugee. <ECN></s>
+{'precision': [0.8375165462493896], 'recall': [0.8619276881217957], 'f1': [0.8495467901229858], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.24489795918367346, 0.020833333333333332, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3243243243243243, 'translation_length': 49, 'reference_length': 37}
+{'rouge1': 0.28571428571428575, 'rouge2': 0.02666666666666667, 'rougeL': 0.1818181818181818, 'rougeLsum': 0.1818181818181818}
+0.4116644561290741
+---------------------------------------------------------
+about 3700 refugee medicine doctors are allowed to work in germany in hospitals now they realize that some of them are not on the standard of western medicine and often some buyed the certificats home without knowledge so some patients died https://t co/belfz7m72z | Justification: about 3700 refugee medicine doctors are allowed to work in germany in hospitals (fact)  | Conclusion: now they realize that some of them are not on the standard of western medicine and often some buyed the certificats home without knowledge so some patients died (fact)  | Pivot: medicine doctors  -  medicine
+Don't test the foreign professionals in your country? If not... well, whose fault is it?
+
+<pad><SCN> I don't understand why they are allowed to work in hospitals. They are not on the standard of western medicine... <ECN></s>
+{'precision': [0.8267157077789307], 'recall': [0.8511103391647339], 'f1': [0.8387356400489807], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.16216216216216217, 0.05555555555555555, 0.02857142857142857, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7619047619047619, 'translation_length': 37, 'reference_length': 21}
+{'rouge1': 0.24390243902439027, 'rouge2': 0.05128205128205127, 'rougeL': 0.19512195121951217, 'rougeLsum': 0.19512195121951217}
+0.22688773274421692
+---------------------------------------------------------
+@user @user string him up to show the message that you will pay for your crimes in a country where you are not supposed to be in hashtag buildthatwall we are losing our legal citizens to those who should not be here in the first place if they werent here we would still have our loved ones | Justification: we are losing our legal citizens to those who should not be here in the first place if they werent here we would still have our loved ones (fact)  | Conclusion: string him up to show the message that you will pay for your crimes in a country where you are not supposed to be in hashtag buildthatwall (policy)  | Pivot: country  -  citizens
+What crimes? Why "they shouldn't be here"? All this is an invention to justify the building of a useless wall.
+
+<pad><SCN> I don't understand why you would want to build a wall to protect your legal citizens. It's not a good idea. <ECN></s>
+{'precision': [0.8367937803268433], 'recall': [0.8670591115951538], 'f1': [0.8516576886177063], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1111111111111111, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.44, 'translation_length': 36, 'reference_length': 25}
+{'rouge1': 0.20833333333333334, 'rouge2': 0.0, 'rougeL': 0.16666666666666666, 'rougeLsum': 0.16666666666666666}
+0.46803587675094604
+---------------------------------------------------------
+@user @user muslims coming illegally across the southern border hashtag maga hashtag kag hashtag buildthatwall hashtag votered hashtag buildthedamnwall | Justification: muslims coming illegally across the southern border (fact)  | Conclusion: hashtag buildthatwall hashtag votered hashtag buildthedamnwall (policy)  | Pivot: 
+Or maybe we could not force them into this situation, by revising our archaic laws...
+
+<pad><SCN> I don't understand why you would vote against building a wall. It's not a good policy, it's just not right. <ECN></s>
+{'precision': [0.8274253606796265], 'recall': [0.8371099829673767], 'f1': [0.8322395086288452], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1111111111111111, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.894736842105263, 'translation_length': 36, 'reference_length': 19}
+{'rouge1': 0.047619047619047616, 'rouge2': 0.0, 'rougeL': 0.047619047619047616, 'rougeLsum': 0.047619047619047616}
+0.2039487659931183
+---------------------------------------------------------
+"that anonymous source piece in the nyt is so over-the-top & anti- hashtag potus it smells like omarosa had something to do with it hashtag maga hashtag kag hashtag potus hashtag trump hashtag news hashtag votered hashtag nodaca hashtag walkaway hashtag americafirst hashtag usa hashtag backtheblue hashtag alllivesmatter hashtag draintheswamp hashtag liberalismisamentaldisorder" | Justification: "that anonymous source piece in the nyt is so over-the-top & anti- hashtag potus (fact)  | Conclusion: it smells like omarosa had something to do with it (fact)  | Pivot: 
+Besides the fact that you are accusing her without evidence, you are accusing her of doing something she has the right to do, that is, to express herself.
+
+<pad><SCN> I don't think it smells like omarosa, it just doesn't make sense. <ECN></s>
+{'precision': [0.8185722231864929], 'recall': [0.841441810131073], 'f1': [0.8298494815826416], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07407407407407407, 0.0, 0.0, 0.0], 'brevity_penalty': 0.830950389901292, 'length_ratio': 0.84375, 'translation_length': 27, 'reference_length': 32}
+{'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0, 'rougeLsum': 0.0}
+0.05322089046239853
+---------------------------------------------------------
+"@user chuck todd will not debate you for the same reason that carrot top would not fight mike tyson in his prime both todd & ct w/be decimated & never the same which in todd s case w/be a good thing hashtag maga hashtag kag hashtag potus hashtag trump hashtag news hashtag votered hashtag nodaca hashtag walkaway hashtag usa" | Justification: both todd & ct w/be decimated & never the same which in todd s case w/be a good thing (fact)  | Conclusion: chuck todd will not debate you for the same reason that carrot top would not fight mike tyson in his prime (fact)  | Pivot: todd  -  todd  -  todd
+Are you comparing politics to a boxing match? There's no way to progress that.
+
+<pad><SCN> I don't understand why Chuck Todd would not debate you for the same reason that carrot top would not fight mike tyson in his prime. <ECN></s>
+{'precision': [0.8076813220977783], 'recall': [0.8391536474227905], 'f1': [0.8231167197227478], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.07692307692307693, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.4375, 'translation_length': 39, 'reference_length': 16}
+{'rouge1': 0.13333333333333333, 'rouge2': 0.0, 'rougeL': 0.08888888888888888, 'rougeLsum': 0.08888888888888888}
+0.3299275040626526
+---------------------------------------------------------
+"@user if the refugees dont get food and water - they will go back quick here the president havnt to do much " | Justification: they will go back quick here the president havnt to do much (fact)  | Conclusion: if the refugees dont get food and water (policy)  | Pivot: 
+That is precisely the most inhumane policy we could adopt. What a country...
+
+<pad><SCN> I don't think that the president will do much if the refugees don't get food and water. It's just a matter of time. <ECN></s>
+{'precision': [0.8281320333480835], 'recall': [0.8536092042922974], 'f1': [0.8406776189804077], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10526315789473684, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.235294117647059, 'translation_length': 38, 'reference_length': 17}
+{'rouge1': 0.13953488372093023, 'rouge2': 0.0, 'rougeL': 0.13953488372093023, 'rougeLsum': 0.13953488372093023}
+0.3034592866897583
+---------------------------------------------------------
+regardless of intent the term " undocumented immigrant " is incorrect because illegal aliens are foreigners (i e aliens ) who are unlawfully present in the united states (i e illegal) https://t co/aarjtduwya https://t co/hkrv7mpzok | Justification: because illegal aliens are foreigners (i e aliens ) who are unlawfully present in the united states (i e illegal) (fact)  | Conclusion: regardless of intent the term " undocumented immigrant " is incorrect (fact)  | Pivot: immigrant  -  aliens  -  aliens
+Everyone has the right to migrate. Whether a state recognizes and documents it, or not, is circumstantial. Nobody is "illegal".
+
+<pad><SCN> I don't think it's a good idea to call someone "undocumented" or "illegal" based on the fact that they don't live in the US. <ECN></s>
+{'precision': [0.8311124444007874], 'recall': [0.8532952666282654], 'f1': [0.8420577645301819], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.19047619047619047, 0.04878048780487805, 0.025, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.5555555555555556, 'translation_length': 42, 'reference_length': 27}
+{'rouge1': 0.23529411764705882, 'rouge2': 0.0, 'rougeL': 0.11764705882352941, 'rougeLsum': 0.11764705882352941}
+0.42670804262161255
+---------------------------------------------------------
+@user @user @user these boats act like a taxi service for economic migrants posing as refugees and only come to europe to seek welfare benefits of the west ? if they were refugees why not stop at turkey like the real refugees ? instea | Justification: if they were refugees why not stop at turkey like the real refugees ? (fact)  | Conclusion: these boats act like a taxi service for economic migrants posing as refugees and only come to europe to seek welfare benefits of the west ? (fact)  | Pivot: refugees  -  refugees  -  refugees
+Maybe they were just looking for a better place to settle down, nothing wrong with that...
+
+<pad><SCN> I don't understand why they are posing as refugees. They are just trying to get a better life. <ECN></s>
+{'precision': [0.8461266756057739], 'recall': [0.8733683824539185], 'f1': [0.8595317602157593], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.21212121212121213, 0.03125, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.65, 'translation_length': 33, 'reference_length': 20}
+{'rouge1': 0.2564102564102564, 'rouge2': 0.05405405405405406, 'rougeL': 0.20512820512820512, 'rougeLsum': 0.20512820512820512}
+0.3478347957134247
+---------------------------------------------------------
+@user @user and meanwhile as they bicker our lettuce strainer of a border sees well dressed and outfitted " refugees " (code for country shoppers ) other illegals and undocumented crossing the border daily https://t co/ghvm5izviu | Justification: @user @user and meanwhile as they bicker (fact)  | Conclusion: our lettuce strainer of a border sees well dressed and outfitted " refugees " (code for country shoppers ) other illegals and undocumented crossing the border daily (fact)  | Pivot: 
+Well, maybe if they didn't hold back with repressive proposals....
+
+<pad><SCN> I don't understand why they are bickering. It's just a joke. <ECN></s>
+{'precision': [0.829370379447937], 'recall': [0.8242723345756531], 'f1': [0.8268135190010071], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.11538461538461539, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.7333333333333334, 'translation_length': 26, 'reference_length': 15}
+{'rouge1': 0.14285714285714285, 'rouge2': 0.0, 'rougeL': 0.07142857142857142, 'rougeLsum': 0.07142857142857142}
+0.11267906427383423
+---------------------------------------------------------
+@user anti american illegal immigrant uprising in california gets exceedingly worse for american citizens who are now in grave danger they are in a state of emergency https://t co/vhh7jstfhf | Justification: anti american illegal immigrant uprising in california gets exceedingly worse for american citizens who are now in grave danger (fact)  | Conclusion: they are in a state of emergency (fact)  | Pivot: 
+You can't declare a state of emergency just because a couple of people have lost their minds. Stop exaggerating
+
+<pad><SCN> I don't understand why they are in a state of emergency. It's not like they are in danger, it's just that they are not in danger. <ECN></s>
+{'precision': [0.8482919335365295], 'recall': [0.8821641206741333], 'f1': [0.8648964762687683], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.06050429276350786, 'precisions': [0.14285714285714285, 0.07317073170731707, 0.05, 0.02564102564102564], 'brevity_penalty': 1.0, 'length_ratio': 2.1, 'translation_length': 42, 'reference_length': 20}
+{'rouge1': 0.22641509433962265, 'rouge2': 0.11764705882352941, 'rougeL': 0.22641509433962265, 'rougeLsum': 0.22641509433962265}
+0.43398118019104004
+---------------------------------------------------------
+@user tough decisions mean easy ones ban those families who supported isis in germany they murdered many and if you do not learn from recent events like mass immigration rises in rape and crime family isis deserve no return to the country the | Justification: they murdered many and if you do not learn from recent events like mass immigration rises in rape and crime family isis deserve no return to the country the (fact)  | Conclusion: tough decisions mean easy ones ban those families who supported isis in germany (policy)  | Pivot: isis  -  isis
+Why would you use their political leanings to run them out of your country? They don't vote, nor do they have any influence.
+
+<pad><SCN> I don't understand what you are trying to say. You are trying to make a bad decision, not a good one. <ECN></s>
+{'precision': [0.8347651958465576], 'recall': [0.8454701900482178], 'f1': [0.8400835394859314], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.13513513513513514, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.4230769230769231, 'translation_length': 37, 'reference_length': 26}
+{'rouge1': 0.16, 'rouge2': 0.041666666666666664, 'rougeL': 0.08, 'rougeLsum': 0.08}
+0.04579513520002365
+---------------------------------------------------------
+@user will islam ever be at peace with its self as it goes to war with itsel f no wonder uk people do not accept its refugees | Justification: will islam ever be at peace with its self as it goes to war with itsel f (fact)  | Conclusion: no wonder uk people do not accept its refugees (fact)  | Pivot: islam  -  refugees
+Its refugees are fleeing precisely that war. There are no excuses, only xenophobia.
+
+<pad><SCN> I don't understand why people don't accept refugees. It's just that they don't like it. <ECN></s>
+{'precision': [0.8382249474525452], 'recall': [0.8800686001777649], 'f1': [0.858637273311615], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.13333333333333333, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.875, 'translation_length': 30, 'reference_length': 16}
+{'rouge1': 0.1111111111111111, 'rouge2': 0.0, 'rougeL': 0.1111111111111111, 'rougeLsum': 0.1111111111111111}
+0.4798479676246643
+---------------------------------------------------------
+but i thought hashtag white genocide wasnt real? hashtag deportthemigrants hashtag refugees notwelcome hashtag white pride | Justification: but i thought hashtag white genocide wasnt real? (fact)  | Conclusion: hashtag deportthemigrants hashtag refugees notwelcome hashtag white pride (policy)  | Pivot: white  -  white
+You use something that doesn't exist as an excuse to run off people you don't like. That is just pure xenophobia
+
+<pad><SCN> I don't think it's true that white genocide is real. It's just a joke. <ECN></s>
+{'precision': [0.8470140695571899], 'recall': [0.8562692403793335], 'f1': [0.8516165614128113], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1724137931034483, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 1.3181818181818181, 'translation_length': 29, 'reference_length': 22}
+{'rouge1': 0.22727272727272724, 'rouge2': 0.04761904761904762, 'rougeL': 0.22727272727272724, 'rougeLsum': 0.22727272727272724}
+0.258129745721817
+---------------------------------------------------------
+"@user @user @user @user @user @user theyve spread to every corner of our country apparently millions (who knows how many really) but millions infiltrated us they must go too all of them hashtag noamnesty hashtag nodaca hashtag b" | Justification: theyve spread to every corner of our country apparently millions (who knows how many really) but millions infiltrated us (fact)  | Conclusion: they must go too all of them hashtag noamnesty (policy)  | Pivot: 
+But why? Just because you don't like to see them? lol, you're not that important.
+
+<pad><SCN> I don't understand why they are spreading to every corner of our country. It's just a matter of how many people they infiltrated. <ECN></s>
+{'precision': [0.8254302740097046], 'recall': [0.8450605869293213], 'f1': [0.8351300954818726], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.10526315789473684, 0.0, 0.0, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.0, 'translation_length': 38, 'reference_length': 19}
+{'rouge1': 0.2173913043478261, 'rouge2': 0.045454545454545456, 'rougeL': 0.13043478260869565, 'rougeLsum': 0.13043478260869565}
+0.13078069686889648
+---------------------------------------------------------
+@user @user string him up to show the message that you will pay for your crimes in a country where you are not supposed to be in hashtag buildthatwall we are losing our legal citizens to those who should not be here in the first place if they we | Justification: we are losing our legal citizens to those who should not be here in the first place (fact)  | Conclusion: string him up to show the message that you will pay for your crimes in a country where you are not supposed to be in hashtag buildthatwall (policy)  | Pivot: country  -  citizens
+Building a wall to prevent human rights such as migration is wrong, and probably illegal.
+
+<pad><SCN> I don't understand why you would want to build a wall to protect your legal citizens. It's not a good idea. <ECN></s>
+{'precision': [0.8341229557991028], 'recall': [0.8752533197402954], 'f1': [0.8541932702064514], 'hashcode': 'roberta-large_L17_no-idf_version=0.3.12(hug_trans=4.28.1)'}
+{'bleu': 0.0, 'precisions': [0.1111111111111111, 0.05714285714285714, 0.029411764705882353, 0.0], 'brevity_penalty': 1.0, 'length_ratio': 2.1176470588235294, 'translation_length': 36, 'reference_length': 17}
+{'rouge1': 0.14285714285714285, 'rouge2': 0.1, 'rougeL': 0.14285714285714285, 'rougeLsum': 0.14285714285714285}
+0.545976996421814
+========================================
+F1 AVG:
+0.844365322071573
+Bleu AVG:
+0.0028690762552505385
+Rouge AVG:
+0.13688845458202853
+SBERT AVG:
+0.2677716817976772
